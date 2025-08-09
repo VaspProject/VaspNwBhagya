@@ -40,7 +40,7 @@
 </head>
 
 <body class="font-roboto bg-gray-100 relative">
-  <nav class="bg-blue-950 px-4 py-2 fixed w-full z-20 top-0 transition-all duration-300 ease-in-out">
+  <nav class="bg-slate-700 px-4 py-2 w-full z-20 top-0 transition-all duration-300 ease-in-out">
     <div class="container mx-auto flex items-center justify-between">
       <a href="index.php" class="logo w-32 md:w-40 h-auto mr-12">
         <img src="assets/images/vtlogo.png" alt="logo" id="navbar-logo" class="transition-all duration-300 ease-in-out">
