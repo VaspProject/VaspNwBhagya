@@ -34,8 +34,10 @@
             </a>
             <div class="relative z-10 mt-10 grid grid-cols-1 md:grid-cols-3 gap-6 w-full px-4 mx-auto">
                 <!-- Box 1 -->
-                <div class="bg-white bg-opacity-90 rounded-2xl p-4 shadow-lg hover:shadow-2xl transition transform hover:-translate-y-1"
-                    style="background: url('assets/images/bg/boxbg.jpg'); background-size: cover; background-position: center;">
+                <div
+                    class="bg-white bg-opacity-90 rounded-2xl p-4 shadow-lg hover:shadow-2xl transition transform hover:-translate-y-1">
+
+
                     <h3 class="text-lg font-semibold text-blue-700 mb-1">Software</h3>
                     <p class="text-gray-700 text-sm leading-snug">Our Software Solutions drive your Digital
                         Transformation, giving you a decisive competitive edge.</p>
@@ -62,8 +64,9 @@
                 </div>
 
                 <!-- Box 2 -->
-                <div class="bg-white bg-opacity-90 rounded-2xl p-4 shadow-lg hover:shadow-2xl transition transform hover:-translate-y-1"
-                    style="background: url('assets/images/bg/boxbg.jpg'); background-size: cover; background-position: center;">
+                <div
+                    class="bg-white bg-opacity-90 rounded-2xl p-4 shadow-lg hover:shadow-2xl transition transform hover:-translate-y-1">
+                    <!-- style="background: url('assets/images/bg/boxbg.jpg'); background-size: cover; background-position: center;" -->
                     <h3 class="text-lg font-semibold text-blue-700 mb-1">Website Design</h3>
                     <p class="text-gray-700 text-sm leading-snug">Our Website Design builds a powerful digital presence
                         and an exceptional user experience.</p>
@@ -89,8 +92,8 @@
                 </div>
 
                 <!-- Box 3 -->
-                <div class="bg-white bg-opacity-90 rounded-2xl p-4 shadow-lg hover:shadow-2xl transition transform hover:-translate-y-1"
-                    style="background: url('assets/images/bg/boxbg.jpg'); background-size: cover; background-position: center;">
+                <div
+                    class="bg-white bg-opacity-90 rounded-2xl p-4 shadow-lg hover:shadow-2xl transition transform hover:-translate-y-1">
                     <h3 class="text-lg font-semibold text-blue-700 mb-1">Mobile Application</h3>
                     <p class="text-gray-700 text-sm leading-snug">Our Mobile Application Development services accelerate
                         your Digital Transformation with a seamless user experience.</p>
@@ -125,56 +128,1029 @@
 
 </div>
 
+<!-- ----------------------------------------------------end of banner---------------------------------------------- -->
 
-<div class="w-full my-12 px-4 relative" >
-  
-  <!-- Full Background Image -->
-  <!-- <img src="assets/images/bg/curverbgg.png" 
+
+<!-- ------------------------------------------------------vdo section----------------------------------------------- -->
+<!-- <div class="w-full my-12 px-4 relative">
+
+    <!-- Full Background Image -->
+    <!-- <img src="assets/images/bg/curverbgg.png" 
        alt="Background" 
        class="absolute inset-0 w-full h-full object-cover z-0"> -->
-       <div class="w-full">
-    <img src="assets/images/bg/curverbgg.png" 
-         alt="Top Decoration" 
-         class="w-full object-cover">
-  </div>
+    <!-- <div class="w-full">
+        <img src="assets/images/bg/curverbgg.png" alt="Top Decoration" class="w-full object-cover">
+    </div> -->
 
-  <!-- Content Overlay -->
-  <div class="relative z-10">
-    
+    <!-- Content Overlay -->
+    <!-- <div class="relative z-10"> -->
+
+        <!-- Title -->
+        <!-- <h2 class="text-2xl font-bold text-gray-800 text-center mb-8">
+            Our Story
+        </h2> -->
+
+        <!-- Content Row -->
+        <!-- <div class="flex flex-col md:flex-row items-center gap-8"> -->
+
+            <!-- Empty space / Placeholder (you can add text or image later) -->
+            <!-- <div class="w-full md:w-1/2"></div> -->
+
+            <!-- Video Placeholder -->
+            <!-- <div class="w-full md:w-1/2 flex justify-center">
+                <div class="bg-gray-200 w-full aspect-video flex items-center justify-center rounded-md shadow-inner">
+                    <span class="text-gray-500">[ Video Placeholder ]</span>
+                </div>
+            </div>
+
+        </div> -->
+<!-- 
+    </div>
+</div>  -->
+
+<!-- --------------------------------------------------------------------/end of vdo section-------------- -->
+
+
+<!-- -----------------------------------------------------------Services section-------------------------------- -->
+
+<!-- Container -->
+<div class="w-full py-16 bg-gray-50">
     <!-- Title -->
-    <h2 class="text-2xl font-bold text-gray-800 text-center mb-8">
-      Our Story
-    </h2>
-    
-    <!-- Content Row -->
-    <div class="flex flex-col md:flex-row items-center gap-8">
-      
-      <!-- Empty space / Placeholder (you can add text or image later) -->
-      <div class="w-full md:w-1/2"></div>
+    <h2 class="text-5xl  text-center mb-8">Tired of outdated systems and manual processes <br>holding your business
+        back?</h2>
+    <p class="text-2xl text-center">We get it. As your strategic partner, we provide the advanced <br><strong>IT
+            Solutions</strong> you need to succeed.</p>
 
-      <!-- Video Placeholder -->
-      <div class="w-full md:w-1/2 flex justify-center">
-        <div class="bg-gray-200 w-full aspect-video flex items-center justify-center rounded-md shadow-inner">
-          <span class="text-gray-500">[ Video Placeholder ]</span>
+    <h2 class="text-4xl  text-center mb-12 mt-20">Services we provide</h2>
+
+    <!-- Content -->
+    <div class="container mx-auto px-6 pl-[7.5rem] space-y-16">
+        <!-- Service 1 -->
+        <div
+            class="flex flex-col md:flex-row items-center opacity-0 translate-y-10 transition-all duration-700 ease-out scroll-animate">
+            <div class="flex-1" style="margin-top:183px;">
+                <h3 class="text-4xl font-semibold mb-4 text-blue-950" style="font-family: 'WallShein', sans-serif;">AI
+                    Development</h3>
+                <p class="text-xl text-gray-600 leading-relaxed" style="font-family: 'Inter', sans-serif;">We craft
+                    innovative AI solutions to transform your
+                    business, <br>pushing boundaries to deliver measurable impact and value.</p>
+                <a href="#"
+                    class="group relative inline-flex items-center mt-4 px-8 py-3 text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
+
+                    <!-- Arrow icon -->
+                    <svg xmlns="http://www.w3.org/2000/svg"
+                        class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
+                        fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                    </svg>
+
+                    <!-- Button text -->
+                    <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                        Learn More
+                    </span>
+
+                    <!-- Green background on hover -->
+                    <span
+                        class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                </a>
+            </div>
+            <div class="flex-1">
+                <img src="assets/images/bg/ani2.png" alt="AI Development"
+                    class="transform hover:scale-105 transition-transform duration-500" style="max-width:73%;">
+
+            </div>
         </div>
-      </div>
 
+        <!-- Service 2 -->
+        <div
+            class="flex flex-col md:flex-row items-center gap-10 opacity-0 translate-y-10 transition-all duration-700 ease-out scroll-animate delay-100">
+            <!-- <div class="flex-1">
+                <h3 class="text-2xl font-semibold mb-4 text-blue-700">Cloud Solutions</h3>
+                <p class="text-gray-600 leading-relaxed">Seamlessly migrate to the cloud with our scalable, secure, and efficient solutions tailored to your business needs.</p>
+            </div> -->
+            <div class="flex-1">
+                <img src="assets/images/bg/ani3.png" alt="AI Development"
+                    class="transform hover:scale-105 transition-transform duration-500" style="max-width:89%;">
+            </div>
+            <div class="flex-1" style="margin-top:183px;">
+                <h3 class="text-4xl font-semibold mb-4 text-blue-950" style="font-family: 'WallShein', sans-serif;">
+                    Digitisation of Businesses</h3>
+                <p class="text-xl text-gray-600 leading-relaxed" style="font-family: 'Inter', sans-serif;">We provide
+                    strategic IT Solutions and Software
+                    Development to Digitize business, redefine workflow, and give a competitive edge.</p>
+                <a href="#"
+                    class="group relative inline-flex items-center mt-4 px-8 py-3  text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
+
+                    <!-- Arrow icon -->
+                    <svg xmlns="http://www.w3.org/2000/svg"
+                        class="w-4 h-4 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
+                        fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                    </svg>
+
+                    <!-- Button text -->
+                    <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                        Learn More
+                    </span>
+
+                    <!-- Green background on hover -->
+                    <span
+                        class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                </a>
+            </div>
+        </div>
+
+        <!-- Service 3 -->
+        <div
+            class="flex flex-col md:flex-row items-center opacity-0 translate-y-10 transition-all duration-700 ease-out scroll-animate delay-200">
+            <div class="flex-1" style="margin-top:183px;">
+                <h3 class="text-4xl font-semibold mb-4 text-blue-950" style="font-family: 'WallShein', sans-serif;">
+                    Management information system</h3>
+                <p class="text-xl text-gray-600 leading-relaxed" style="font-family: 'Inter', sans-serif;">Gain a
+                    competitive edge with our powerful MIS,
+                    providing
+                    <br>real-time data for informed decision-making.
+                </p>
+
+                <a href="#"
+                    class="group relative inline-flex items-center mt-4 px-8 py-3  text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
+
+                    <!-- Arrow icon -->
+                    <svg xmlns="http://www.w3.org/2000/svg"
+                        class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
+                        fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                    </svg>
+
+                    <!-- Button text -->
+                    <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                        Learn More
+                    </span>
+
+                    <!-- Green background on hover -->
+                    <span
+                        class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                </a>
+            </div>
+            <div class="flex-1">
+                <img src="assets/images/bg/ani4.png" alt="AI Development"
+                    class="transform hover:scale-105 transition-transform duration-500" style="max-width:82%;">
+            </div>
+        </div>
+
+        <!-- Service 4 -->
+        <div
+            class="flex flex-col md:flex-row items-center opacity-0 translate-y-10 transition-all duration-700 ease-out scroll-animate delay-300">
+
+            <div class="flex-1">
+                <img src="assets/images/bg/ani5.png" alt="AI Development"
+                    class="transform hover:scale-105 transition-transform duration-500" style="max-width:89%;">
+            </div>
+            <div class="flex-1" style="margin-top:183px;">
+                <h3 class="text-4xl font-semibold mb-4 text-blue-950" style="font-family: 'WallShein', sans-serif;">
+                    Custom software development</h3>
+                <p class="text-xl text-gray-600 leading-relaxed" style="font-family: 'Inter', sans-serif;">We deliver
+                    strategic Software Development and IT
+                    Solutions to
+                    digitize your business and redefine your workflow.</p>
+                <a href="#"
+                    class="group relative inline-flex items-center mt-4 px-8 py-3  text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
+
+                    <!-- Arrow icon -->
+                    <svg xmlns="http://www.w3.org/2000/svg"
+                        class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
+                        fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                    </svg>
+
+                    <!-- Button text -->
+                    <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                        Learn More
+                    </span>
+
+                    <!-- Green background on hover -->
+                    <span
+                        class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                </a>
+            </div>
+        </div>
+
+        <!-- Service 5 -->
+        <div
+            class="flex flex-col md:flex-row items-center opacity-0 translate-y-10 transition-all duration-700 ease-out scroll-animate delay-400">
+            <div class="flex-1" style="margin-top:183px;">
+                <h3 class="text-4xl font-semibold mb-4 text-blue-950" style="font-family: 'WallShein', sans-serif;">
+                    Comprehensive ERP solutions</h3>
+                <p class="text-xl text-gray-600 leading-relaxed" style="font-family: 'Inter', sans-serif;">Unify and
+                    optimize your entire business with a robust
+                    ERP
+                    solution that delivers unparalleled efficiency and reliability.</p>
+                <a href="#"
+                    class="group relative inline-flex items-center mt-4 px-8 py-3  text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
+
+                    <!-- Arrow icon -->
+                    <svg xmlns="http://www.w3.org/2000/svg"
+                        class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
+                        fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                    </svg>
+
+                    <!-- Button text -->
+                    <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                        Learn More
+                    </span>
+
+                    <!-- Green background on hover -->
+                    <span
+                        class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                </a>
+            </div>
+            <div class="flex-1">
+                <img src="assets/images/bg/ani6.png" alt="AI Development"
+                    class="transform hover:scale-105 transition-transform duration-500" style="max-width:78%;">
+            </div>
+        </div>
+
+        <!-- Service 6 -->
+        <div
+            class="flex flex-col md:flex-row items-center opacity-0 translate-y-10 transition-all duration-700 ease-out scroll-animate delay-500">
+
+            <div class="flex-1">
+                <img src="assets/images/bg/ani8.png" alt="AI Development"
+                    class="transform hover:scale-105 transition-transform duration-500" style="max-width:81%;">
+            </div>
+            <div class="flex-1" style="margin-top:183px;">
+                <h3 class="text-4xl font-semibold mb-4 text-blue-950" style="font-family: 'WallShein', sans-serif;">
+                    Mobile app development</h3>
+                <p class="text-xl text-gray-600 leading-relaxed" style="font-family: 'Inter', sans-serif;">We have the
+                    expertise to transform your next big idea.
+                    Our
+                    dedicated app developers are ready to help you grow.</p>
+                <a href="#"
+                    class="group relative inline-flex items-center mt-4 px-8 py-3  text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
+
+                    <!-- Arrow icon -->
+                    <svg xmlns="http://www.w3.org/2000/svg"
+                        class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
+                        fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                    </svg>
+
+                    <!-- Button text -->
+                    <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                        Learn More
+                    </span>
+
+                    <!-- Green background on hover -->
+                    <span
+                        class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                </a>
+            </div>
+        </div>
+
+        <!-- Service 7 -->
+        <div
+            class="flex flex-col md:flex-row items-center  opacity-0 translate-y-10 transition-all duration-700 ease-out scroll-animate delay-600">
+            <div class="flex-1" style="margin-top:183px;">
+                <h3 class="text-4xl font-semibold mb-4 text-blue-950" style="font-family: 'WallShein', sans-serif;">
+                    Dynamic web design and development</h3>
+                <p class="text-xl text-gray-600 leading-relaxed" style="font-family: 'Inter', sans-serif;">As a leading
+                    website designing company, we provide
+                    expert web
+                    development to create websites engineered for business growth.</p>
+                <a href="#"
+                    class="group relative inline-flex items-center mt-4 px-8 py-3 text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
+
+                    <!-- Arrow icon -->
+                    <svg xmlns="http://www.w3.org/2000/svg"
+                        class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
+                        fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                    </svg>
+
+                    <!-- Button text -->
+                    <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                        Learn More
+                    </span>
+
+                    <!-- Green background on hover -->
+                    <span
+                        class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                </a>
+            </div>
+            <div class="flex-1">
+                <img src="assets/images/bg/ani7.png" alt="AI Development"
+                    class="transform hover:scale-105 transition-transform duration-500" style="max-width:83%;">
+            </div>
+        </div>
     </div>
 
-  </div>
+    <!-- Animation Script -->
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const elements = document.querySelectorAll('.scroll-animate');
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('opacity-100', 'translate-y-0');
+                        entry.target.classList.remove('opacity-0', 'translate-y-10');
+                    }
+                });
+            }, { threshold: 0.2 });
+
+            elements.forEach(el => observer.observe(el));
+        });
+    </script>
+
+    <!-- Styles -->
+    <style>
+        .scroll-animate {
+            transition: opacity 0.7s ease-out, transform 0.7s ease-out;
+        }
+
+        .scroll-animate.delay-100 {
+            transition-delay: 100ms;
+        }
+
+        .scroll-animate.delay-200 {
+            transition-delay: 200ms;
+        }
+
+        .scroll-animate.delay-300 {
+            transition-delay: 300ms;
+        }
+
+        .scroll-animate.delay-400 {
+            transition-delay: 400ms;
+        }
+
+        .scroll-animate.delay-500 {
+            transition-delay: 500ms;
+        }
+
+        .scroll-animate.delay-600 {
+            transition-delay: 600ms;
+        }
+    </style>
 </div>
 
 
+<!-- ----------------------------------------------------------/End of service--------------------------------------- -->
+
+
+<!-- ------------------------------------------------tabs section-------------------------------------------------- -->
+
+
+<div class="w-full max-w-6xl mx-auto py-12 px-4">
+    <!-- Title -->
+    <h2 class="text-center text-4xl font-['WallShein',sans-serif] font-semibold mb-10 mt-10">
+
+        Delivering Top Value & Service, Industry-Wide
+    </h2>
+
+    <!-- Tabs -->
+    <div id="tabs" class="flex flex-wrap justify-center bg-[#0b0033] rounded-2xl p-3 mx-auto" style="margin-top:53px;">
+
+        <button class="tab-btn text-white text-xl font-['WallShein',sans-serif] px-4 py-2 rounded-md transition"
+            data-tab="aviation">Education</button>
+        <button class="tab-btn text-white text-xl font-['WallShein',sans-serif] px-4 py-2 rounded-md transition"
+            data-tab="construction">Ecommerce</button>
+        <button class="tab-btn text-white text-xl font-['WallShein',sans-serif] px-4 py-2 rounded-md transition"
+            data-tab="facilities">Logistics</button>
+        <button class="tab-btn text-white text-xl font-['WallShein',sans-serif] px-4 py-2 rounded-md transition"
+            data-tab="logistics">Healthcare</button>
+        <button class="tab-btn text-white text-xl font-['WallShein',sans-serif] px-4 py-2 rounded-md transition"
+            data-tab="manufacturing">Banking</button>
+        <button class="tab-btn text-white text-xl font-['WallShein',sans-serif] px-4 py-2 rounded-md transition"
+            data-tab="public">Travel & Hospitality</button>
+        <button class="tab-btn text-white text-xl font-['WallShein',sans-serif] px-4 py-2 rounded-md transition"
+            data-tab="service">Public Sector</button>
+        <button class="tab-btn text-white text-xl font-['WallShein',sans-serif] px-4 py-2 rounded-md transition"
+            data-tab="estate">Real Estate</button>
+
+    </div>
+
+
+    <!-- Content -->
+    <div id="tab-contents" class="mt-8">
+        <!-- Example Tab -->
+
+
+        <div class="tab-content hidden" id="content-aviation">
+            <div class="grid md:grid-cols-2 gap-8 items-center">
+                <div>
+                    <img src="assets/images/tabs/Education.jpg" class="w-full rounded-lg shadow-lg mt-10"
+                        alt="Aviation">
+                </div>
+                <div class="opacity-0 translate-y-6 transition-all duration-700 ease-out content-animate"
+                    style="margin-top: 121px;">
+                    <h3 class="text-4xl text-blue-950 font-bold mb-4">Education</h3>
+                    <p class="text-xl text-gray-700">Streamline your school's entire ecosystem. Our flagship School
+                        Management Software, Desalite Connect and Ednect, is a comprehensive enterprise resource
+                        planning system crafted as an expert ERP solution to enhance operational efficiency.</p>
+
+                    <a href="#"
+                        class="group relative inline-flex items-center mt-4 px-8 py-3  text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
+
+                        <!-- Arrow icon -->
+                        <svg xmlns="http://www.w3.org/2000/svg"
+                            class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
+                            fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                        </svg>
+
+                        <!-- Button text -->
+                        <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                            Know More
+                        </span>
+
+                        <!-- Green background on hover -->
+                        <span
+                            class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="tab-content hidden" id="content-construction">
+            <div class="grid md:grid-cols-2 gap-8 items-center">
+                <div>
+                    <img src="assets/images/tabs/Ecommerce IMG.jpg" class="w-full rounded-lg shadow-lg mt-10"
+                        alt="Construction">
+                </div>
+                <div class="opacity-0 translate-y-6 transition-all duration-700 ease-out content-animate"
+                    style="margin-top: 121px;">
+                    <h3 class="text-4xl text-blue-950 font-bold mb-4">Ecommerce</h3>
+                    <p class="text-xl text-gray-700">Launch and manage your large-scale online marketplace with our
+                        robust IT Solutions. Specializing in ecommerce website design, our comprehensive web development
+                        services give you the powerful platform you need to succeed.</p>
+
+                    <a href="#"
+                        class="group relative inline-flex items-center mt-4 px-8 py-3  text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
+
+                        <!-- Arrow icon -->
+                        <svg xmlns="http://www.w3.org/2000/svg"
+                            class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
+                            fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                        </svg>
+
+                        <!-- Button text -->
+                        <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                            Know More
+                        </span>
+
+                        <!-- Green background on hover -->
+                        <span
+                            class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="tab-content hidden" id="content-facilities">
+            <div class="grid md:grid-cols-2 gap-8 items-center">
+                <div>
+                    <img src="assets/images/tabs/Logistics IMG.jpg" class="w-full rounded-lg shadow-lg mt-10"
+                        alt="Facilities">
+                </div>
+                <div class="opacity-0 translate-y-6 transition-all duration-700 ease-out content-animate"
+                    style="margin-top: 121px;">
+                    <h3 class="text-4xl text-blue-950 font-bold mb-4">Logistics</h3>
+                    <p class="text-xl text-gray-700">TransTrack by Vasp Technologies is a comprehensive Transport
+                        Management Software and powerful ERP solution. Through expert Software Development, we help you
+                        standardize logistics and optimize operations to gain a competitive edge</p>
+
+                    <a href="#"
+                        class="group relative inline-flex items-center mt-4 px-8 py-3  text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
+
+                        <!-- Arrow icon -->
+                        <svg xmlns="http://www.w3.org/2000/svg"
+                            class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
+                            fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                        </svg>
+
+                        <!-- Button text -->
+                        <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                            Know More
+                        </span>
+
+                        <!-- Green background on hover -->
+                        <span
+                            class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="tab-content hidden" id="content-logistics">
+            <div class="grid md:grid-cols-2 gap-8 items-center">
+                <div>
+                    <img src="assets/images/tabs/Healthcare IMG.jpg" class="w-full rounded-lg shadow-lg mt-10"
+                        alt="Facilities">
+                </div>
+                <div class="opacity-0 translate-y-6 transition-all duration-700 ease-out content-animate"
+                    style="margin-top: 121px;">
+                    <h3 class="text-4xl text-blue-950 font-bold mb-4">Healthcare</h3>
+                    <p class="text-xl text-gray-700">Vasp Technologies offers strategic ERP solutions for the healthcare
+                        sector. Our comprehensive Enterprise Resource Planning systems are engineered to optimize
+                        workflows and address the unique needs of your institution.</p>
+
+                    <a href="#"
+                        class="group relative inline-flex items-center mt-4 px-8 py-3  text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
+
+                        <!-- Arrow icon -->
+                        <svg xmlns="http://www.w3.org/2000/svg"
+                            class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
+                            fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                        </svg>
+
+                        <!-- Button text -->
+                        <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                            Know More
+                        </span>
+
+                        <!-- Green background on hover -->
+                        <span
+                            class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="tab-content hidden" id="content-manufacturing">
+            <div class="grid md:grid-cols-2 gap-8 items-center">
+                <div>
+                    <img src="assets/images/tabs/Banking (1).jpg" class="w-full rounded-lg shadow-lg mt-10"
+                        alt="Facilities">
+                </div>
+                <div class="opacity-0 translate-y-6 transition-all duration-700 ease-out content-animate"
+                    style="margin-top: 121px;">
+                    <h3 class="text-4xl text-blue-950 font-bold mb-4">Banking</h3>
+                    <p class="text-xl text-gray-700">Financial institutions grapple with complex challenges like
+                        regulatory compliance, data management, and outdated legacy systems. A sophisticated finance
+                        management system is essential to.</p>
+
+                    <a href="#"
+                        class="group relative inline-flex items-center mt-4 px-8 py-3  text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
+
+                        <!-- Arrow icon -->
+                        <svg xmlns="http://www.w3.org/2000/svg"
+                            class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
+                            fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                        </svg>
+
+                        <!-- Button text -->
+                        <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                            Know More
+                        </span>
+
+                        <!-- Green background on hover -->
+                        <span
+                            class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="tab-content hidden" id="content-public">
+            <div class="grid md:grid-cols-2 gap-8 items-center">
+                <div>
+                    <img src="assets/images/tabs/Travel & Hospitality IMG.jpg" class="w-full rounded-lg shadow-lg mt-10"
+                        alt="Facilities">
+                </div>
+                <div class="opacity-0 translate-y-6 transition-all duration-700 ease-out content-animate"
+                    style="margin-top: 121px;">
+                    <h3 class="text-4xl text-blue-950 font-bold mb-4">Travel & Hospitality</h3>
+                    <p class="text-xl text-gray-700">Vasp Technologies creates innovative software solutions for the
+                        travel and hospitality sector. Our tools, with features like real-time inventory management and
+                        user-friendly booking platforms, are designed to streamline operations and enhance the visitor
+                        experience.</p>
+
+                    <a href="#"
+                        class="group relative inline-flex items-center mt-4 px-8 py-3  text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
+
+                        <!-- Arrow icon -->
+                        <svg xmlns="http://www.w3.org/2000/svg"
+                            class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
+                            fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                        </svg>
+
+                        <!-- Button text -->
+                        <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                            Know More
+                        </span>
+
+                        <!-- Green background on hover -->
+                        <span
+                            class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="tab-content hidden" id="content-service">
+            <div class="grid md:grid-cols-2 gap-8 items-center">
+                <div class="mt-6 overflow-hidden rounded-lg shadow-lg">
+                    <img src="assets/images/tabs/Public Sector IMG.jpg"
+                        class="w-full rounded-lg shadow-lg transform transition-transform duration-500 hover:scale-105 mt-10"
+                        alt="Facilities">
+                </div>
+                <div class="opacity-0 translate-y-6 transition-all duration-700 ease-out content-animate"
+                    style="margin-top: 121px;">
+                    <h3 class="text-4xl text-blue-950 font-bold mb-4">Public Sector</h3>
+                    <p class="text-xl text-gray-700">Public sector is rapidly progressing with e-governance initiatives
+                        and digital platforms. As a trusted software company, we provide tailored software solutions to
+                        help government, healthcare, and educational institutions improve efficiency, transparency, and
+                        service delivery.</p>
+
+                    <a href="#"
+                        class="group relative inline-flex items-center mt-4 px-8 py-3  text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
+
+                        <!-- Arrow icon -->
+                        <svg xmlns="http://www.w3.org/2000/svg"
+                            class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
+                            fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                        </svg>
+
+                        <!-- Button text -->
+                        <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                            know More
+                        </span>
+
+                        <!-- Green background on hover -->
+                        <span
+                            class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="tab-content hidden" id="content-estate">
+            <div class="grid md:grid-cols-2 gap-8 items-center">
+                <div>
+                    <img src="assets/images/tabs/Real Estate img.jpg" class="w-full rounded-lg shadow-lg mt-10"
+                        alt="Facilities">
+                </div>
+                <div class="opacity-0 translate-y-6 transition-all duration-700 ease-out content-animate"
+                    style="margin-top: 121px;">
+                    <h3 class="text-4xl text-blue-950 font-bold mb-4">Real Estate</h3>
+                    <p class="text-xl text-gray-700">As a leading tech company, Vasp Technologies provides tailored
+                        solutions for the real estate industry. Our property management software and innovative
+                        platforms streamline administrative tasks and optimize property performance.</p>
+
+                    <a href="#"
+                        class="group relative inline-flex items-center mt-10 px-8 py-3  text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
+
+                        <!-- Arrow icon -->
+                        <svg xmlns="http://www.w3.org/2000/svg"
+                            class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
+                            fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                        </svg>
+
+                        <!-- Button text -->
+                        <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                            Know More
+                        </span>
+
+                        <!-- Green background on hover -->
+                        <span
+                            class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+
+
+
+        <!-- Repeat same structure for other tabs -->
+    </div>
+
+    <script>
+        const tabBtns = document.querySelectorAll('.tab-btn');
+        const tabContents = document.querySelectorAll('.tab-content');
+
+        function setActiveTab(tab) {
+            tabBtns.forEach(btn => {
+                btn.classList.toggle('bg-green-400', btn.dataset.tab === tab);
+                btn.classList.toggle('text-black', btn.dataset.tab === tab);
+            });
+
+            tabContents.forEach(content => {
+                const animatedContent = content.querySelector('.content-animate');
+                if (content.id === `content-${tab}`) {
+                    content.classList.remove('hidden');
+                    setTimeout(() => animatedContent.classList.remove('opacity-0', 'translate-y-6'), 50);
+                } else {
+                    content.classList.add('hidden');
+                    animatedContent.classList.add('opacity-0', 'translate-y-6');
+                }
+            });
+        }
+
+        tabBtns.forEach(btn => btn.addEventListener('click', () => setActiveTab(btn.dataset.tab)));
+
+        // Default tab
+        setActiveTab('aviation');
+    </script>
+</div>
+
+<script>
+    const tabBtns = document.querySelectorAll('.tab-btn');
+    const tabContents = document.querySelectorAll('.tab-content');
+
+    function setActiveTab(tab) {
+        tabBtns.forEach(btn => {
+            if (btn.dataset.tab === tab) {
+                btn.classList.add('bg-green-400', 'text-black');
+            } else {
+                btn.classList.remove('bg-green-400', 'text-black');
+            }
+        });
+
+        tabContents.forEach(content => {
+            content.classList.toggle('hidden', content.id !== `content-${tab}`);
+        });
+    }
+
+    tabBtns.forEach(btn => {
+        btn.addEventListener('click', () => setActiveTab(btn.dataset.tab));
+    });
+
+    // Default active tab
+    setActiveTab('all');
+</script>
+
+
+<!-- ---------------------------------------------------------End of Tabs section ------------------------------------->
+
+<!-- -------------------------------------------------------vdosection----------------------- -->
+
+<section class="max-w-6xl mx-auto px-4 py-16 mt-10">
+    <!-- Title -->
+    <div class="text-center mb-12">
+        <h2 class="text-4xl font-bold mb-2">Explore our Products</h2>
+        <!-- <p class="text-lg text-gray-600">Innovative solutions for every industry</p> -->
+    </div>
+
+    <div class="space-y-16">
+        <!-- Box 1 -->
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center" style="margin-top:94px;">
+            <!-- Video -->
+            <div class="animate-slide-up">
+
+
+                <h3 class="text-xl font-semibold mb-4">Desalite Connect</h3>
+
+                <p class="text-blue-950 text-3xl font-bold">Set up your all-in-one School Management ERP System</p>
+                <p class="text-gray-600 text-lg mt-6">Our comprehensive school management ERP helps schools
+                    transform by
+                    streamlining administrative tasks, fostering better communication, and boosting overall
+                    efficiency.
+                </p>
+
+
+                <a href="#"
+                    class="group relative inline-flex items-center mt-10 px-6 py-2  text-lg font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
+
+
+
+                    <!-- Button text -->
+                    <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                        Visit
+                    </span>
+                    <!-- Arrow icon -->
+                    <span
+                        class="ml-2 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1 text-lg font-bold">
+                        &gt;
+                    </span>
+
+                    <!-- Green background on hover -->
+                    <span
+                        class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                </a>
+
+                <h3 class="text-base font-semibold mb-4 mt-5">Modules</h3>
+                <p class="text-gray-950 text-base"><span class="text-blue-950">Student</span> Management</p>
+                <!-- <p class="text-gray-950 text-lg">Fee Management</p>
+                <p class="text-gray-950 text-lg">Attendance Management</p> -->
+                <p class="text-gray-950 text-base"><span class="text-blue-950">Exam</span> and <span
+                        class="text-blue-950">Report</span> Management</p>
+                <p class="text-gray-950 text-base"><span class="text-blue-950">Staff</span> and <span
+                        class="text-gray-950">HR </span>Management</p>
+                <!-- <p class="text-gray-950 text-lg ">Time Table Management</p> -->
+
+            </div>
+            <!-- Content -->
+
+            <div class="overflow-hidden animate-slide-down">
+                <video autoplay muted loop playsinline class="rounded-lg shadow-lg w-full">
+                    <source src="assets/vdo/vdo1.mp4" type="video/mp4" />
+                </video>
+            </div>
+        </div>
+
+
+        <!-- Box 2 -->
+
+
+
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center" style="margin-top:141px;">
+
+            <div class="animate-slide-up">
+                <h3 class="text-xl font-semibold mb-4">Ednect</h3>
+                <p class="text-blue-950 text-3xl font-bold">Your partner in digital transformation. Revolutionizing
+                    school administration with cutting-edge technology</p>
+                <p class="text-gray-600 text-lg mt-6">Our Ednect platform simplifies exam results, fees, attendance, and
+                    student data. It also provides integrated HR and staff management systems for all your teachers and
+                    employees.
+                </p>
+
+                <a href="#"
+                    class="group relative inline-flex items-center mt-10 px-6 py-2  text-lg font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
+
+
+
+                    <!-- Button text -->
+                    <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                        Visit
+                    </span>
+                    <!-- Arrow icon -->
+                    <span
+                        class="ml-2 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1 text-lg font-bold">
+                        &gt;
+                    </span>
+
+                    <!-- Green background on hover -->
+                    <span
+                        class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                </a>
+
+                <h3 class="text-base font-semibold mb-4 mt-5">Modules</h3>
+                <p class="text-gray-950 text-base"><span class="text-blue-950">Student</span>Administration</p>
+                <!-- <p class="text-gray-950 text-lg">Fee Management</p>
+                <p class="text-gray-950 text-lg">Attendance Management</p> -->
+                <p class="text-gray-950 text-base"><span class="text-blue-950">Smart </span> Attendance</p>
+                <p class="text-gray-950 text-base"><span class="text-blue-950">Exam </span> and <span
+                        class="text-gray-950">Report Card </span> Management</p>
+                <p class="text-gray-950 text-base">Communication Portal</p>
+            </div>
+            <div class="overflow-hidden animate-slide-down">
+                <img src="assets/vdo/1.jpeg" alt="Image description" class="rounded-lg shadow-lg w-full" />
+            </div>
+        </div>
+
+        <!-- Box 3 -->
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center" style="margin-top:141px;">
+
+            <div class="animate-slide-up">
+                <h3 class="text-xl font-semibold mb-4">TransTrack</h3>
+                <p class="text-blue-950 text-3xl font-bold">Go from chaotic to coordinated. TransTrack gives you
+                    complete control over every shipment.</p>
+                <p class="text-gray-600 text-lg mt-6">TransTrack automates planning, optimises routes and loads,
+                    provides real-time tracking, and delivers powerful supply chain analytics for smarter
+                    decision-making in logistics.
+                </p>
+
+                <a href="#"
+                    class="group relative inline-flex items-center mt-10 px-6 py-2  text-lg font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
+
+
+
+                    <!-- Button text -->
+                    <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                        Visit
+                    </span>
+                    <!-- Arrow icon -->
+                    <span
+                        class="ml-2 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1 text-lg font-bold">
+                        &gt;
+                    </span>
+
+                    <!-- Green background on hover -->
+                    <span
+                        class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                </a>
+
+                <h3 class="text-base font-semibold mb-4 mt-5">Modules</h3>
+                <p class="text-gray-950 text-base"><span class="text-blue-950"></span> Transportation Planning and
+                    Optimization</p>
+                <!-- <p class="text-gray-950 text-lg">Fee Management</p>
+                <p class="text-gray-950 text-lg">Attendance Management</p> -->
+                <p class="text-gray-950 text-base"><span class="text-blue-950">Exam</span> and <span
+                        class="text-blue-950">Report</span>Real-Time Tracking and Visibility</p>
+                <p class="text-gray-950 text-base"><span class="text-blue-950">Staff</span> and <span
+                        class="text-gray-950">HR </span>Fleet Management</p>
+                <p class="text-gray-950 text-base">Document Management System (DMS)</p>
+            </div>
+            <div class="overflow-hidden animate-slide-down">
+                <video autoplay muted loop playsinline class="rounded-lg shadow-lg w-full">
+                    <source src="assets/vdo/trans.mp4" type="video/mp4" />
+                </video>
+            </div>
+
+        </div>
+
+        <!-- Box 4 -->
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center md:flex-row-reverse" style="margin-top:141px;">
+
+            <div class="animate-slide-up">
+                <h3 class="text-xl font-semibold mb-4">IceBox</h3>
+                <p class="text-blue-950 text-3xl font-bold">From temperature spikes to inventory chaos, take control of
+                    your cold storage.</p>
+                <p class="text-gray-600 text-lg mt-6">Icebox keeps your warehouse humming. Its real-time inventory
+                    tracking from this warehouse management software provides you with a clear update on what's in
+                    inventory.
+                </p>
+
+                <a href="#"
+                    class="group relative inline-flex items-center mt-10 px-6 py-2  text-lg font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
+
+
+
+                    <!-- Button text -->
+                    <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                        Visit
+                    </span>
+                    <!-- Arrow icon -->
+                    <span
+                        class="ml-2 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1 text-lg font-bold">
+                        &gt;
+                    </span>
+
+                    <!-- Green background on hover -->
+                    <span
+                        class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                </a>
+
+                <h3 class="text-base font-semibold mb-4 mt-5">Modules</h3>
+                <p class="text-gray-950 text-base"><span class="text-blue-950"></span> Inventory Management</p>
+                <!-- <p class="text-gray-950 text-lg">Fee Management</p>
+                <p class="text-gray-950 text-lg">Attendance Management</p> -->
+                <p class="text-gray-950 text-base"><span class="text-blue-950">Exam</span> and <span
+                        class="text-blue-950">Report</span>Temperature Monitoring & Control</p>
+                <p class="text-gray-950 text-base"><span class="text-blue-950">Staff</span> and <span
+                        class="text-gray-950">HR </span>Warehouse and Security Management</p>
+                <p class="text-gray-950 text-base">Billing and Reporting</p>
+            </div>
+            <div class="overflow-hidden animate-slide-down">
+                <video autoplay muted loop playsinline class="rounded-lg shadow-lg w-full" style="width: 92%;
+    padding-left: 40px;">
+                    <source src="assets/vdo/ice.mp4" type="video/mp4" />
+                </video>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Tailwind Custom Animations -->
+<style>
+    @keyframes slideUp {
+        from {
+            opacity: 0;
+            transform: translateY(30px);
+        }
+
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    @keyframes slideDown {
+        from {
+            opacity: 0;
+            transform: translateY(-30px);
+        }
+
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    .animate-slide-up {
+        animation: slideUp 0.8s ease-out forwards;
+    }
+
+    .animate-slide-down {
+        animation: slideDown 0.8s ease-out forwards;
+    }
+</style>
 
 
 
 
 
 
-
-
-
-
+<!-- ---------------------------------------------------------------endof vdosection------------------ -->
 <div class="container mx-auto my-16 md:my-22 ">
     <div class="pb-12 px-4 md:px-0">
         <div class="flex flex-wrap items-center justify-between py-4">
