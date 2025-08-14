@@ -134,30 +134,30 @@
 <!-- ------------------------------------------------------vdo section----------------------------------------------- -->
 <!-- <div class="w-full my-12 px-4 relative">
 
-    <!-- Full Background Image -->
-    <!-- <img src="assets/images/bg/curverbgg.png" 
+ Full Background Image -->
+<!-- <img src="assets/images/bg/curverbgg.png" 
        alt="Background" 
        class="absolute inset-0 w-full h-full object-cover z-0"> -->
-    <!-- <div class="w-full">
+<!-- <div class="w-full">
         <img src="assets/images/bg/curverbgg.png" alt="Top Decoration" class="w-full object-cover">
     </div> -->
 
-    <!-- Content Overlay -->
-    <!-- <div class="relative z-10"> -->
+<!-- Content Overlay -->
+<!-- <div class="relative z-10"> -->
 
-        <!-- Title -->
-        <!-- <h2 class="text-2xl font-bold text-gray-800 text-center mb-8">
+<!-- Title -->
+<!-- <h2 class="text-2xl font-bold text-gray-800 text-center mb-8">
             Our Story
         </h2> -->
 
-        <!-- Content Row -->
-        <!-- <div class="flex flex-col md:flex-row items-center gap-8"> -->
+<!-- Content Row -->
+<!-- <div class="flex flex-col md:flex-row items-center gap-8"> -->
 
-            <!-- Empty space / Placeholder (you can add text or image later) -->
-            <!-- <div class="w-full md:w-1/2"></div> -->
+<!-- Empty space / Placeholder (you can add text or image later) -->
+<!-- <div class="w-full md:w-1/2"></div> -->
 
-            <!-- Video Placeholder -->
-            <!-- <div class="w-full md:w-1/2 flex justify-center">
+<!-- Video Placeholder -->
+<!-- <div class="w-full md:w-1/2 flex justify-center">
                 <div class="bg-gray-200 w-full aspect-video flex items-center justify-center rounded-md shadow-inner">
                     <span class="text-gray-500">[ Video Placeholder ]</span>
                 </div>
@@ -894,7 +894,7 @@
 
 <!-- -------------------------------------------------------vdosection----------------------- -->
 
-<section class="max-w-6xl mx-auto px-4 py-16 mt-10">
+<div class="max-w-6xl mx-auto px-4 py-16 mt-10">
     <!-- Title -->
     <div class="text-center mb-12">
         <h2 class="text-4xl font-bold mb-2">Explore our Products</h2>
@@ -1046,10 +1046,10 @@
                     Optimization</p>
                 <!-- <p class="text-gray-950 text-lg">Fee Management</p>
                 <p class="text-gray-950 text-lg">Attendance Management</p> -->
-                <p class="text-gray-950 text-base"><span class="text-blue-950">Exam</span> and <span
-                        class="text-blue-950">Report</span>Real-Time Tracking and Visibility</p>
-                <p class="text-gray-950 text-base"><span class="text-blue-950">Staff</span> and <span
-                        class="text-gray-950">HR </span>Fleet Management</p>
+                <p class="text-gray-950 text-base"><span class="text-blue-950"></span><span
+                        class="text-blue-950"></span>Real-Time Tracking and Visibility</p>
+                <p class="text-gray-950 text-base"><span class="text-blue-950"></span><span
+                        class="text-gray-950"></span>Fleet Management</p>
                 <p class="text-gray-950 text-base">Document Management System (DMS)</p>
             </div>
             <div class="overflow-hidden animate-slide-down">
@@ -1096,10 +1096,10 @@
                 <p class="text-gray-950 text-base"><span class="text-blue-950"></span> Inventory Management</p>
                 <!-- <p class="text-gray-950 text-lg">Fee Management</p>
                 <p class="text-gray-950 text-lg">Attendance Management</p> -->
-                <p class="text-gray-950 text-base"><span class="text-blue-950">Exam</span> and <span
-                        class="text-blue-950">Report</span>Temperature Monitoring & Control</p>
-                <p class="text-gray-950 text-base"><span class="text-blue-950">Staff</span> and <span
-                        class="text-gray-950">HR </span>Warehouse and Security Management</p>
+                <p class="text-gray-950 text-base"><span class="text-blue-950"></span><span
+                        class="text-blue-950"></span>Temperature Monitoring & Control</p>
+                <p class="text-gray-950 text-base"><span class="text-blue-950"></span><span
+                        class="text-gray-950"></span>Warehouse and Security Management</p>
                 <p class="text-gray-950 text-base">Billing and Reporting</p>
             </div>
             <div class="overflow-hidden animate-slide-down">
@@ -1110,7 +1110,7 @@
             </div>
         </div>
     </div>
-</section>
+</div>
 
 <!-- Tailwind Custom Animations -->
 <style>
