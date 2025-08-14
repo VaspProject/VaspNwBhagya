@@ -181,7 +181,9 @@
     <p class="text-2xl text-center">We get it. As your strategic partner, we provide the advanced <br><strong>IT
             Solutions</strong> you need to succeed.</p>
 
-    <h2 class="text-4xl  text-center mb-12 mt-20">Services we provide</h2>
+    <h2 class="text-4xl  text-center mb-12 mt-20
+    
+    ">Services we provide</h2>
 
     <!-- Content -->
     <div class="container mx-auto px-6 pl-[7.5rem] space-y-16">
