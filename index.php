@@ -29,7 +29,7 @@
 
             <!-- CTA Button -->
             <a href="solutions.php"
-                class="inline-block mt-10 px-8 py-3 text-base font-semibold text-blue-700 bg-white rounded-lg shadow-md border border-gray-200 hover:bg-black hover:text-white hover:shadow-xl hover:shadow-blue-300/30 transition-all duration-300 transform hover:scale-105">
+                class="inline-block mt-10 px-8 py-3 text-base font-semibold text-blue-950 bg-white rounded-lg shadow-md border border-gray-200 hover:bg-blue-950 hover:text-white hover:shadow-xl hover:shadow-blue-300/30 transition-all duration-300 transform hover:scale-105">
                 Learn More
             </a>
             <div class="relative z-10 mt-10 grid grid-cols-1 md:grid-cols-3 gap-6 w-full px-4 mx-auto">
@@ -38,15 +38,15 @@
                     class="bg-white bg-opacity-90 rounded-2xl p-4 shadow-lg hover:shadow-2xl transition transform hover:-translate-y-1">
 
 
-                    <h3 class="text-lg font-semibold text-blue-700 mb-1">Software</h3>
+                    <h3 class="text-lg font-semibold text-blue-950 mb-1">Software</h3>
                     <p class="text-gray-700 text-sm leading-snug">Our Software Solutions drive your Digital
                         Transformation, giving you a decisive competitive edge.</p>
                     <a href="#"
-                        class="group relative inline-flex items-center mt-4 px-6 py-2 text-sm font-semibold text-blue-700 transition-all duration-300 overflow-hidden">
+                        class="group relative inline-flex items-center mt-4 px-6 py-2 text-sm font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
 
                         <!-- Arrow icon -->
                         <svg xmlns="http://www.w3.org/2000/svg"
-                            class="w-4 h-4 text-blue-700 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
+                            class="w-4 h-4 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
                             fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                             <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
                         </svg>
@@ -58,7 +58,7 @@
 
                         <!-- Green background on hover -->
                         <span
-                            class="absolute inset-0 bg-green-700 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                            class="absolute inset-0 bg-green-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
                     </a>
 
                 </div>
@@ -67,15 +67,15 @@
                 <div
                     class="bg-white bg-opacity-90 rounded-2xl p-4 shadow-lg hover:shadow-2xl transition transform hover:-translate-y-1">
                     <!-- style="background: url('assets/images/bg/boxbg.jpg'); background-size: cover; background-position: center;" -->
-                    <h3 class="text-lg font-semibold text-blue-700 mb-1">Website Design</h3>
+                    <h3 class="text-lg font-semibold text-blue-950 mb-1">Website Design</h3>
                     <p class="text-gray-700 text-sm leading-snug">Our Website Design builds a powerful digital presence
                         and an exceptional user experience.</p>
                     <a href="#"
-                        class="group relative inline-flex items-center mt-4 px-6 py-2 text-sm font-semibold text-blue-700 transition-all duration-300 overflow-hidden">
+                        class="group relative inline-flex items-center mt-4 px-6 py-2 text-sm font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
 
                         <!-- Arrow icon -->
                         <svg xmlns="http://www.w3.org/2000/svg"
-                            class="w-4 h-4 text-blue-700 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
+                            class="w-4 h-4 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
                             fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                             <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
                         </svg>
@@ -87,22 +87,22 @@
 
                         <!-- Green background on hover -->
                         <span
-                            class="absolute inset-0 bg-green-700 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                            class="absolute inset-0 bg-green-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
                     </a>
                 </div>
 
                 <!-- Box 3 -->
                 <div
                     class="bg-white bg-opacity-90 rounded-2xl p-4 shadow-lg hover:shadow-2xl transition transform hover:-translate-y-1">
-                    <h3 class="text-lg font-semibold text-blue-700 mb-1">Mobile Application</h3>
+                    <h3 class="text-lg font-semibold text-blue-950 mb-1">Mobile Application</h3>
                     <p class="text-gray-700 text-sm leading-snug">Our Mobile Application Development services accelerate
                         your Digital Transformation with a seamless user experience.</p>
                     <a href="#"
-                        class="group relative inline-flex items-center mt-4 px-6 py-2 text-sm font-semibold text-blue-700 transition-all duration-300 overflow-hidden">
+                        class="group relative inline-flex items-center mt-4 px-6 py-2 text-sm font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
 
                         <!-- Arrow icon -->
                         <svg xmlns="http://www.w3.org/2000/svg"
-                            class="w-4 h-4 text-blue-700 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
+                            class="w-4 h-4 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
                             fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                             <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
                         </svg>
@@ -114,7 +114,7 @@
 
                         <!-- Green background on hover -->
                         <span
-                            class="absolute inset-0 bg-green-700 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                            class="absolute inset-0 bg-green-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
                     </a>
                 </div>
             </div>
@@ -174,24 +174,29 @@
 <!-- -----------------------------------------------------------Services section-------------------------------- -->
 
 <!-- Container -->
-<div class="w-full py-16 bg-gray-50">
+<div class="w-full py-16 bg-gray-200">
     <!-- Title -->
-    <h2 class="text-5xl  text-center mb-8">Tired of outdated systems and manual processes <br>holding your business
-        back?</h2>
-    <p class="text-2xl text-center">We get it. As your strategic partner, we provide the advanced <br><strong>IT
-            Solutions</strong> you need to succeed.</p>
+    <h2 class="text-6xl text-center mb-8" style="margin-top:3rem; font-weight:300;">Stop letting <span class="text-green-900">outdated systems </span>slow you down </h2>
+    <p class="text-2xl text-center mt-20">As your strategic partner, <span class="text-green-900">Vasp Technologies </span>delivers advanced <span class="text-green-900"> IT solutions</span> that empower your business.</p>
+    <p class="text-4xl text-center mt-10" style="font-weight:300; margin-bottom:129px;">We provide the tools you need to succeed, from <br><span class="text-green-900">custom software</span> to <span class="text-green-900">cybersecurity</span> services.</p>
 
-    <h2 class="text-4xl  text-center mb-12 mt-20
     
-    ">Services we provide</h2>
+
 
     <!-- Content -->
-    <div class="container mx-auto px-6 pl-[7.5rem] space-y-16">
+
+<div class="w-full bg-gray-50 py-20 mt-10">
+<div class="container mx-auto px-6 pl-[7.5rem] space-y-16" >
+    <!-- <h2 class="text-4xl  text-center mb-12 mt-20
+    
+    ">Services we provide</h2> -->
+    
         <!-- Service 1 -->
         <div
             class="flex flex-col md:flex-row items-center opacity-0 translate-y-10 transition-all duration-700 ease-out scroll-animate">
+           
             <div class="flex-1" style="margin-top:183px;">
-                <h3 class="text-4xl font-semibold mb-4 text-blue-950" style="font-family: 'WallShein', sans-serif;">AI
+                <h3 class="text-4xl  mb-4 text-blue-950" style="font-family: 'WallShein', sans-serif;">AI
                     Development</h3>
                 <p class="text-xl text-gray-600 leading-relaxed" style="font-family: 'Inter', sans-serif;">We craft
                     innovative AI solutions to transform your
@@ -235,7 +240,7 @@
                     class="transform hover:scale-105 transition-transform duration-500" style="max-width:89%;">
             </div>
             <div class="flex-1" style="margin-top:183px;">
-                <h3 class="text-4xl font-semibold mb-4 text-blue-950" style="font-family: 'WallShein', sans-serif;">
+                <h3 class="text-4xl  mb-4 text-blue-950" style="font-family: 'WallShein', sans-serif;">
                     Digitisation of Businesses</h3>
                 <p class="text-xl text-gray-600 leading-relaxed" style="font-family: 'Inter', sans-serif;">We provide
                     strategic IT Solutions and Software
@@ -266,7 +271,7 @@
         <div
             class="flex flex-col md:flex-row items-center opacity-0 translate-y-10 transition-all duration-700 ease-out scroll-animate delay-200">
             <div class="flex-1" style="margin-top:183px;">
-                <h3 class="text-4xl font-semibold mb-4 text-blue-950" style="font-family: 'WallShein', sans-serif;">
+                <h3 class="text-4xl  mb-4 text-blue-950" style="font-family: 'WallShein', sans-serif;">
                     Management information system</h3>
                 <p class="text-xl text-gray-600 leading-relaxed" style="font-family: 'Inter', sans-serif;">Gain a
                     competitive edge with our powerful MIS,
@@ -309,7 +314,7 @@
                     class="transform hover:scale-105 transition-transform duration-500" style="max-width:89%;">
             </div>
             <div class="flex-1" style="margin-top:183px;">
-                <h3 class="text-4xl font-semibold mb-4 text-blue-950" style="font-family: 'WallShein', sans-serif;">
+                <h3 class="text-4xl  mb-4 text-blue-950" style="font-family: 'WallShein', sans-serif;">
                     Custom software development</h3>
                 <p class="text-xl text-gray-600 leading-relaxed" style="font-family: 'Inter', sans-serif;">We deliver
                     strategic Software Development and IT
@@ -341,7 +346,7 @@
         <div
             class="flex flex-col md:flex-row items-center opacity-0 translate-y-10 transition-all duration-700 ease-out scroll-animate delay-400">
             <div class="flex-1" style="margin-top:183px;">
-                <h3 class="text-4xl font-semibold mb-4 text-blue-950" style="font-family: 'WallShein', sans-serif;">
+                <h3 class="text-4xl  mb-4 text-blue-950" style="font-family: 'WallShein', sans-serif;">
                     Comprehensive ERP solutions</h3>
                 <p class="text-xl text-gray-600 leading-relaxed" style="font-family: 'Inter', sans-serif;">Unify and
                     optimize your entire business with a robust
@@ -382,7 +387,7 @@
                     class="transform hover:scale-105 transition-transform duration-500" style="max-width:81%;">
             </div>
             <div class="flex-1" style="margin-top:183px;">
-                <h3 class="text-4xl font-semibold mb-4 text-blue-950" style="font-family: 'WallShein', sans-serif;">
+                <h3 class="text-4xl  mb-4 text-blue-950" style="font-family: 'WallShein', sans-serif;">
                     Mobile app development</h3>
                 <p class="text-xl text-gray-600 leading-relaxed" style="font-family: 'Inter', sans-serif;">We have the
                     expertise to transform your next big idea.
@@ -414,7 +419,7 @@
         <div
             class="flex flex-col md:flex-row items-center  opacity-0 translate-y-10 transition-all duration-700 ease-out scroll-animate delay-600">
             <div class="flex-1" style="margin-top:183px;">
-                <h3 class="text-4xl font-semibold mb-4 text-blue-950" style="font-family: 'WallShein', sans-serif;">
+                <h3 class="text-4xl  mb-4 text-blue-950" style="font-family: 'WallShein', sans-serif;">
                     Dynamic web design and development</h3>
                 <p class="text-xl text-gray-600 leading-relaxed" style="font-family: 'Inter', sans-serif;">As a leading
                     website designing company, we provide
@@ -503,9 +508,9 @@
 <!-- ------------------------------------------------tabs section-------------------------------------------------- -->
 
 
-<div class="w-full max-w-6xl mx-auto py-12 px-4">
+<div class="w-full max-w-6xl mx-auto py-12 px-4" style="margin-bottom: 86px;">
     <!-- Title -->
-    <h2 class="text-center text-4xl font-['WallShein',sans-serif] font-semibold mb-10 mt-10">
+    <h2 class="text-center text-4xl font-['WallShein',sans-serif]  mb-10 mt-10">
 
         Delivering Top Value & Service, Industry-Wide
     </h2>
@@ -513,22 +518,24 @@
     <!-- Tabs -->
     <div id="tabs" class="flex flex-wrap justify-center bg-[#0b0033] rounded-2xl p-3 mx-auto" style="margin-top:53px;">
 
-        <button class="tab-btn text-white text-xl font-['WallShein',sans-serif] px-4 py-2 rounded-md transition"
+        <button class="tab-btn text-white text-lg  px-4 py-2 rounded-md transition"
             data-tab="aviation">Education</button>
-        <button class="tab-btn text-white text-xl font-['WallShein',sans-serif] px-4 py-2 rounded-md transition"
+        <button class="tab-btn text-white text-lg  px-4 py-2 rounded-md transition"
             data-tab="construction">Ecommerce</button>
-        <button class="tab-btn text-white text-xl font-['WallShein',sans-serif] px-4 py-2 rounded-md transition"
+        <button class="tab-btn text-white text-lg  px-4 py-2 rounded-md transition"
             data-tab="facilities">Logistics</button>
-        <button class="tab-btn text-white text-xl font-['WallShein',sans-serif] px-4 py-2 rounded-md transition"
+        <button class="tab-btn text-white text-lg  px-4 py-2 rounded-md transition"
             data-tab="logistics">Healthcare</button>
-        <button class="tab-btn text-white text-xl font-['WallShein',sans-serif] px-4 py-2 rounded-md transition"
+        <button class="tab-btn text-white text-lg  px-4 py-2 rounded-md transition"
             data-tab="manufacturing">Banking</button>
-        <button class="tab-btn text-white text-xl font-['WallShein',sans-serif] px-4 py-2 rounded-md transition"
+        <button class="tab-btn text-white text-lg  px-4 py-2 rounded-md transition"
             data-tab="public">Travel & Hospitality</button>
-        <button class="tab-btn text-white text-xl font-['WallShein',sans-serif] px-4 py-2 rounded-md transition"
+        <button class="tab-btn text-white text-lg  px-4 py-2 rounded-md transition"
             data-tab="service">Public Sector</button>
-        <button class="tab-btn text-white text-xl font-['WallShein',sans-serif] px-4 py-2 rounded-md transition"
+        <button class="tab-btn text-white text-lg  px-4 py-2 rounded-md transition"
             data-tab="estate">Real Estate</button>
+        <button class="tab-btn text-white text-lg  px-4 py-2 rounded-md transition"
+            data-tab="manufacture">Manufacture</button>
 
     </div>
 
@@ -546,7 +553,7 @@
                 </div>
                 <div class="opacity-0 translate-y-6 transition-all duration-700 ease-out content-animate"
                     style="margin-top: 121px;">
-                    <h3 class="text-4xl text-blue-950 font-bold mb-4">Education</h3>
+                    <h3 class="text-4xl text-blue-950 mb-4">Education</h3>
                     <p class="text-xl text-gray-700">Streamline your school's entire ecosystem. Our flagship School
                         Management Software, Desalite Connect and Ednect, is a comprehensive enterprise resource
                         planning system crafted as an expert ERP solution to enhance operational efficiency.</p>
@@ -582,7 +589,7 @@
                 </div>
                 <div class="opacity-0 translate-y-6 transition-all duration-700 ease-out content-animate"
                     style="margin-top: 121px;">
-                    <h3 class="text-4xl text-blue-950 font-bold mb-4">Ecommerce</h3>
+                    <h3 class="text-4xl text-blue-950  mb-4">Ecommerce</h3>
                     <p class="text-xl text-gray-700">Launch and manage your large-scale online marketplace with our
                         robust IT Solutions. Specializing in ecommerce website design, our comprehensive web development
                         services give you the powerful platform you need to succeed.</p>
@@ -618,7 +625,7 @@
                 </div>
                 <div class="opacity-0 translate-y-6 transition-all duration-700 ease-out content-animate"
                     style="margin-top: 121px;">
-                    <h3 class="text-4xl text-blue-950 font-bold mb-4">Logistics</h3>
+                    <h3 class="text-4xl text-blue-950  mb-4">Logistics</h3>
                     <p class="text-xl text-gray-700">TransTrack by Vasp Technologies is a comprehensive Transport
                         Management Software and powerful ERP solution. Through expert Software Development, we help you
                         standardize logistics and optimize operations to gain a competitive edge</p>
@@ -654,7 +661,7 @@
                 </div>
                 <div class="opacity-0 translate-y-6 transition-all duration-700 ease-out content-animate"
                     style="margin-top: 121px;">
-                    <h3 class="text-4xl text-blue-950 font-bold mb-4">Healthcare</h3>
+                    <h3 class="text-4xl text-blue-950  mb-4">Healthcare</h3>
                     <p class="text-xl text-gray-700">Vasp Technologies offers strategic ERP solutions for the healthcare
                         sector. Our comprehensive Enterprise Resource Planning systems are engineered to optimize
                         workflows and address the unique needs of your institution.</p>
@@ -690,7 +697,7 @@
                 </div>
                 <div class="opacity-0 translate-y-6 transition-all duration-700 ease-out content-animate"
                     style="margin-top: 121px;">
-                    <h3 class="text-4xl text-blue-950 font-bold mb-4">Banking</h3>
+                    <h3 class="text-4xl text-blue-950 mb-4">Banking</h3>
                     <p class="text-xl text-gray-700">Financial institutions grapple with complex challenges like
                         regulatory compliance, data management, and outdated legacy systems. A sophisticated finance
                         management system is essential to.</p>
@@ -726,7 +733,7 @@
                 </div>
                 <div class="opacity-0 translate-y-6 transition-all duration-700 ease-out content-animate"
                     style="margin-top: 121px;">
-                    <h3 class="text-4xl text-blue-950 font-bold mb-4">Travel & Hospitality</h3>
+                    <h3 class="text-4xl text-blue-950  mb-4">Travel & Hospitality</h3>
                     <p class="text-xl text-gray-700">Vasp Technologies creates innovative software solutions for the
                         travel and hospitality sector. Our tools, with features like real-time inventory management and
                         user-friendly booking platforms, are designed to streamline operations and enhance the visitor
@@ -763,7 +770,7 @@
                 </div>
                 <div class="opacity-0 translate-y-6 transition-all duration-700 ease-out content-animate"
                     style="margin-top: 121px;">
-                    <h3 class="text-4xl text-blue-950 font-bold mb-4">Public Sector</h3>
+                    <h3 class="text-4xl text-blue-950  mb-4">Public Sector</h3>
                     <p class="text-xl text-gray-700">Public sector is rapidly progressing with e-governance initiatives
                         and digital platforms. As a trusted software company, we provide tailored software solutions to
                         help government, healthcare, and educational institutions improve efficiency, transparency, and
@@ -800,7 +807,7 @@
                 </div>
                 <div class="opacity-0 translate-y-6 transition-all duration-700 ease-out content-animate"
                     style="margin-top: 121px;">
-                    <h3 class="text-4xl text-blue-950 font-bold mb-4">Real Estate</h3>
+                    <h3 class="text-4xl text-blue-950 mb-4">Real Estate</h3>
                     <p class="text-xl text-gray-700">As a leading tech company, Vasp Technologies provides tailored
                         solutions for the real estate industry. Our property management software and innovative
                         platforms streamline administrative tasks and optimize property performance.</p>
@@ -893,11 +900,11 @@
 <!-- ---------------------------------------------------------End of Tabs section ------------------------------------->
 
 <!-- -------------------------------------------------------vdosection----------------------- -->
-
-<div class="max-w-6xl mx-auto px-4 py-16 mt-10">
+<div class="w-full bg-gray-50 py-20 mt-5">
+<div class="max-w-6xl mx-auto px-4 py-16">
     <!-- Title -->
     <div class="text-center mb-12">
-        <h2 class="text-4xl font-bold mb-2">Explore our Products</h2>
+        <h2 class="text-4xl mb-2">Explore our Products</h2>
         <!-- <p class="text-lg text-gray-600">Innovative solutions for every industry</p> -->
     </div>
 
@@ -910,7 +917,7 @@
 
                 <h3 class="text-xl font-semibold mb-4">Desalite Connect</h3>
 
-                <p class="text-blue-950 text-3xl font-bold">Set up your all-in-one School Management ERP System</p>
+                <p class="text-blue-950 text-3xl" style="font-weight:500;">Set up your all-in-one School Management ERP System</p>
                 <p class="text-gray-600 text-lg mt-6">Our comprehensive school management ERP helps schools
                     transform by
                     streamlining administrative tasks, fostering better communication, and boosting overall
@@ -968,7 +975,7 @@
 
             <div class="animate-slide-up">
                 <h3 class="text-xl font-semibold mb-4">Ednect</h3>
-                <p class="text-blue-950 text-3xl font-bold">Your partner in digital transformation. Revolutionizing
+                <p class="text-blue-950 text-3xl" style="font-weight:500;">Your partner in digital transformation. Revolutionizing
                     school administration with cutting-edge technology</p>
                 <p class="text-gray-600 text-lg mt-6">Our Ednect platform simplifies exam results, fees, attendance, and
                     student data. It also provides integrated HR and staff management systems for all your teachers and
@@ -1014,7 +1021,7 @@
 
             <div class="animate-slide-up">
                 <h3 class="text-xl font-semibold mb-4">TransTrack</h3>
-                <p class="text-blue-950 text-3xl font-bold">Go from chaotic to coordinated. TransTrack gives you
+                <p class="text-blue-950 text-3xl" style="font-weight:500;">Go from chaotic to coordinated. TransTrack gives you
                     complete control over every shipment.</p>
                 <p class="text-gray-600 text-lg mt-6">TransTrack automates planning, optimises routes and loads,
                     provides real-time tracking, and delivers powerful supply chain analytics for smarter
@@ -1065,7 +1072,7 @@
 
             <div class="animate-slide-up">
                 <h3 class="text-xl font-semibold mb-4">IceBox</h3>
-                <p class="text-blue-950 text-3xl font-bold">From temperature spikes to inventory chaos, take control of
+                <p class="text-blue-950 text-3xl" style="font-weight:500;">From temperature spikes to inventory chaos, take control of
                     your cold storage.</p>
                 <p class="text-gray-600 text-lg mt-6">Icebox keeps your warehouse humming. Its real-time inventory
                     tracking from this warehouse management software provides you with a clear update on what's in
@@ -1112,6 +1119,7 @@
     </div>
 </div>
 
+
 <!-- Tailwind Custom Animations -->
 <style>
     @keyframes slideUp {
@@ -1148,6 +1156,87 @@
 </style>
 
 
+
+<div class="w-full bg-gray-200 py-20 mt-10" style="padding-bottom:0px;">
+  <!-- Centered inner content -->
+  <div class="max-w-6xl mx-auto px-4">
+    <div class="grid grid-cols-1 md:grid-cols-2 items-center gap-8">
+      
+      <!-- Left Content -->
+      <div class="transform opacity-0 animate-slide-left">
+        <h2 class="text-6xl mb-8" style="font-weight:300;">Build the Technology your Business needs to Succeed</h2>
+        <p class="text-2xl text-gray-600 mb-10" style="font-weight:300;">
+          Take Vasp Technologies as your strategic IT Partner and experience consistent customer support 24/7.
+        </p>
+        <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
+                       hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
+          Learn More
+        </button>
+      </div>
+
+      <!-- Right Image -->
+      <div class="transform opacity-0 animate-slide-right flex justify-center">
+        <img src="assets/images/bg/chat.png" alt="Sample Image" class="rounded-lg" style="position: relative;
+    left: 45px;" />
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+<!-- Tailwind Custom Animations -->
+<style>
+@keyframes slideLeft {
+  0% { opacity: 0; transform: translateX(-50px); }
+  100% { opacity: 1; transform: translateX(0); }
+}
+@keyframes slideRight {
+  0% { opacity: 0; transform: translateX(50px); }
+  100% { opacity: 1; transform: translateX(0); }
+}
+.animate-slide-left {
+  animation: slideLeft 1s ease-out forwards;
+}
+.animate-slide-right {
+  animation: slideRight 1s ease-out forwards;
+}
+</style>
+
+
+
+
+
+
+
+
+<!-- call to action button -->
+<div class="relative bg-cover bg-center bg-no-repeat bg-fixed mt-16 md:mt-32 text-white"
+    style="background-image: url('assets/images/img/4.jpg');">
+    <div class="absolute inset-0 bg-black bg-opacity-70"></div>
+    <div class="relative py-20">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <h2 class="text-3xl sm:text-4xl">
+                <span class="block text-6xl" style="margin-bottom:15px;">Your Digital Innovation Partner</span>
+                <span class="block text-2xl text-indigo-200" style="margin-bottom:15px;">Build the Technology your Business needs to Succeed.</span>
+                <span class="block text-4xl text-indigo-200">Ready to take Vasp Technologies as your straties IT Partner</span>
+            </h2>
+            <div class="mt-8 flex justify-center">
+                <div class="inline-flex rounded-md shadow">
+                    <a href="contact.php"
+                        class="inline-flex items-center justify-center px-5 py-2 border border-transparent text-base rounded-md text-blue-950 bg-white hover:bg-indigo-50">
+                        Start a free trial
+                    </a>
+                </div>
+                <div class="ml-3 inline-flex">
+                    <a href="about-us.php"
+                        class="inline-flex items-center justify-center px-5 py-2 border border-transparent text-base rounded-md text-white bg-blue-950 text-white hover:bg-blue-900 transition duration-300">
+                        Learn More
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 
 
@@ -1900,7 +1989,7 @@
 
 
 <!-- call to action button -->
-<div class="relative bg-cover bg-center bg-no-repeat bg-fixed mt-16 md:mt-32 text-white"
+<!-- <div class="relative bg-cover bg-center bg-no-repeat bg-fixed mt-16 md:mt-32 text-white"
     style="background-image: url('assets/images/img/4.jpg');">
     <div class="absolute inset-0 bg-black bg-opacity-70"></div>
     <div class="relative py-20">
@@ -1925,7 +2014,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 
 <!-- team -->
@@ -2044,6 +2133,10 @@
     </div>
 </div>
 
+
+</div>
+</div>
+
 <style>
     @keyframes scroll-left {
         0% {
@@ -2081,7 +2174,7 @@
 
 <script>
     // blog slide
-    $(document).ready(function () {
+    $(document).ready(function () {   //means when the webpage is fully loaded and ready, then run this code.
         $(".blog-carousel").owlCarousel({
             items: 3,
             loop: true,
