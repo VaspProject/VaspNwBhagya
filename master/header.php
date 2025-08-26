@@ -13,9 +13,11 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap"
+    rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" />
+  <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" />
   <link rel="stylesheet" href="assets/css/own.css?v=1.0.1" />
 
   <script src="assets/js/custom.js"></script>
@@ -31,56 +33,190 @@
   <style>
     body {
       font-family: 'Roboto Condensed', sans-serif;
-     
     }
   </style>
 </head>
 
 <body class="font-roboto bg-gray-100 relative">
-<nav id="navbar" class="bg-blue-950 p-4 w-full">
-  <div class="container mx-auto flex items-center justify-between">
-    <a href="index.php" class="logo w-40 md:w-48 h-auto mr-12">
-      <img src="assets/images/vtlogo.png" alt="logo" id="navbar-logo" style="max-width: 133%;">
-    </a>
+  <nav id="navbar" class="bg-blue-950 p-4 w-full">
+    <div class="container mx-auto flex items-center justify-between">
+      <a href="index.php" class="logo w-40 md:w-48 h-auto mr-12">
+        <img src="assets/images/vtlogo.png" alt="logo" id="navbar-logo" style="max-width: 133%;">
+      </a>
 
-    <ul class="flex space-x-6 ml-[7.5rem] hidden md:flex">
-      <li>
-        <a href="about-us.php" class="text-white text-lg hover:text-gray-300" style="font-weight:400;">COMPANY</a>
-      </li>
-      <li>
-        <a href="solutions.php" class="text-white text-lg hover:text-gray-300" style="font-weight:400;">SOLUTIONS</a>
-      </li>
-      <li>
-        <a href="industries.php" class="text-white text-lg hover:text-gray-300" style="font-weight:400;">INDUSTRIES</a>
-      </li>
-      <li>
-        <a href="products.php" class="text-white text-lg hover:text-gray-300" style="font-weight:400;">PRODUCTS</a>
-      </li>
-      <li>
-        <a href="career.php" class="text-white text-lg hover:text-gray-300" style="font-weight:400;">CAREER</a>
-      </li>
-      <li>
-        <a href="contact.php" class="text-white text-lg hover:text-gray-300" style="font-weight:400;">CONTACT</a>
-      </li>
-    </ul>
+      <ul class="flex space-x-6 ml-[7.5rem] hidden md:flex">
+        <!-- COMPANY -->
+        <li class="relative">
+          <button class="dropdown-toggle flex items-center text-white text-lg hover:text-gray-300 font-normal">
+            COMPANY
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+              stroke="currentColor" class="w-4 h-4 ml-2 transition-transform duration-300">
+              <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+            </svg>
+          </button>
 
-    <div class="hidden md:flex ml-auto">
-      <a href="demo-form.php" class="border bg-gray-800 rounded-full hover:bg-blue-950 text-white hover:bg-white hover:text-blue-950 px-6 py-2 ml-auto transition-all duration-300 ease-in-out transform hover:scale-105 shadow-md">REQUEST DEMO</a>
+          <!-- Dropdown -->
+          <ul
+            class="dropdown-menu absolute left-0 mt-2 w-56 bg-white text-blue-950 shadow-lg hidden transform -translate-y-5 opacity-0 transition-all duration-300 ease-in-out border border-gray-200 overflow-hidden">
+
+            <li class="border-b border-gray-200">
+              <a href="about-us.php"
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">
+                Our Profile
+              </a>
+            </li>
+
+            <li class="border-b border-gray-200">
+              <a href="team.php"
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">
+                Our Portfolio
+              </a>
+            </li>
+
+            <li class="border-b border-gray-200">
+              <a href="history.php"
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">
+                News
+              </a>
+            </li>
+
+            <li>
+              <a href="faq.php"
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">
+                FAQ
+              </a>
+            </li>
+          </ul>
+        </li>
+
+        <!-- SOLUTIONS -->
+        <li class="relative">
+          <button class="dropdown-toggle flex items-center text-white text-lg hover:text-gray-300 font-normal">SOLUTIONS
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+              stroke="currentColor" class="w-4 h-4 ml-2 transition-transform duration-300">
+              <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+            </svg>
+          </button>
+
+          <!-- Dropdown -->
+          <ul
+            class="dropdown-menu absolute left-0 mt-2 w-56 bg-white text-gray-950 shadow-lg hidden transform -translate-y-5 opacity-0 transition-all duration-300 ease-in-out border border-gray-200 overflow-hidden">
+
+
+            <li class="border-b border-gray-200"><a href="#"
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Entripse
+                Resource Planning</a></li>
+            <li class="border-b border-gray-200"><a href="team.php"
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Transport
+                Management Software</a></li>
+            <li class="border-b border-gray-200"><a href="history.php"
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Retail
+                Management Software</a></li>
+            <li><a href="history.php"
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Supply
+                Chain Management</a></li>
+          </ul>
+        </li>
+
+        <!-- INDUSTRIES -->
+        <li class="relative">
+          <button class="dropdown-toggle flex items-center text-white text-lg hover:text-gray-300 font-normal">
+            INDUSTRIES
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+              stroke="currentColor" class="w-4 h-4 ml-2 transition-transform duration-300">
+              <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+            </svg>
+          </button>
+          <!-- Dropdown -->
+          <ul
+            class="dropdown-menu absolute left-0 mt-2 w-56 bg-white text-gray-800 shadow-lg hidden transform -translate-y-5 opacity-0 transition-all duration-300 ease-in-out border border-gray-200 overflow-hidden">
+            <li class="border-b border-gray-200"><a href="healthcare.php"
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Education</a>
+            </li>
+            <li class="border-b border-gray-200"><a href="finance.php"
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Logistics</a>
+            </li>
+            <li class="border-b border-gray-200"><a href="education.php"
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">E-Commerce</a>
+            </li>
+            <li class="border-b border-gray-200"><a href="education.php"
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Healthcare</a>
+            </li>
+            <li class="border-b border-gray-200"><a href="education.php"
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Banking</a>
+            </li>
+            <li class="border-b border-gray-200"><a href="education.php"
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Travel
+                & Hospitality</a></li>
+            <li class="border-b border-gray-200"><a href="education.php"
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Public
+                Sector</a></li>
+            <li><a href="education.php"
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Real
+                Estate</a></li>
+
+          </ul>
+        </li>
+
+        <!-- PRODUCTS -->
+        <li class="relative">
+          <a href="products.php"
+            class="dropdown-toggle flex items-center text-white text-lg hover:text-gray-300 font-normal">PRODUCTS
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+              stroke="currentColor" class="w-4 h-4 ml-2 transition-transform duration-300">
+              <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+            </svg>
+          </a>
+          <ul
+            class="dropdown-menu absolute left-0 mt-2 w-56 bg-white text-gray-800  shadow-lg hidden transform -translate-y-5 opacity-0 transition-all duration-300 ease-in-out border border-gray-200 overflow-hidden">
+            <li class="border-b border-gray-200"><a href="healthcare.php"
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Desalite
+                Connect</a></li>
+            <li class="border-b border-gray-200"><a href="finance.php"
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Ednect</a>
+            </li>
+            <li class="border-b border-gray-200"><a href="education.php"
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">TransTrack</a>
+            </li>
+            <li><a href="education.php"
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">IceBox</a>
+            </li>
+
+
+          </ul>
+        </li>
+
+        <!-- CAREER -->
+        <li>
+          <a href="career.php" class="text-white text-lg hover:text-gray-300 font-normal">CAREER</a>
+        </li>
+
+        <!-- CONTACT -->
+        <li>
+          <a href="contact.php" class="text-white text-lg hover:text-gray-300 font-normal">CONTACT</a>
+        </li>
+      </ul>
+
+
+      <div class="hidden md:flex ml-auto">
+        <a href="demo-form.php"
+          class="border bg-gray-800 rounded-full hover:bg-blue-950 text-white hover:bg-white hover:text-blue-950 px-6 py-2 ml-auto transition-all duration-300 ease-in-out transform hover:scale-105 shadow-md">REQUEST
+          DEMO</a>
+      </div>
+
+      <!-- Mobile Menu Toggle -->
+      <div class="md:hidden">
+        <button id="menu-btn" class="text-white focus:outline-none">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path>
+          </svg>
+        </button>
+      </div>
     </div>
-
-    <!-- Mobile Menu Toggle -->
-    <div class="md:hidden">
-      <button id="menu-btn" class="text-white focus:outline-none">
-        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path>
-        </svg>
-      </button>
-    </div>
-  </div>
-</nav>
+  </nav>
 
   <script>
-    document.getElementById('menu-btn').addEventListener('click', function() {
+    document.getElementById('menu-btn').addEventListener('click', function () {
       var menu = document.getElementById('mobile-menu');
       menu.classList.toggle('hidden');
     });
@@ -88,7 +224,7 @@
     function toggleSubmenu(event) {
       event.preventDefault();
       var allSubmenus = document.querySelectorAll('#mobile-menu ul ul');
-      allSubmenus.forEach(function(submenu) {
+      allSubmenus.forEach(function (submenu) {
         submenu.classList.add('hidden');
       });
 
@@ -96,7 +232,7 @@
       currentSubmenu.classList.toggle('hidden');
     }
 
-    document.addEventListener('click', function(event) {
+    document.addEventListener('click', function (event) {
       var menu = document.getElementById('mobile-menu');
       var menuBtn = document.getElementById('menu-btn');
       var isClickInside = menu.contains(event.target) || menuBtn.contains(event.target);
@@ -108,57 +244,101 @@
   </script>
 
 
-<script>
-document.addEventListener("mousemove", function(e) {
-  const star = document.createElement("span");
-  star.className = "falling-star";
-  star.style.left = e.pageX + "px";
-  star.style.top = e.pageY + "px";
-  document.body.appendChild(star);
+  <script>
+    document.addEventListener("mousemove", function (e) {
+      const star = document.createElement("span");
+      star.className = "falling-star";
+      star.style.left = e.pageX + "px";
+      star.style.top = e.pageY + "px";
+      document.body.appendChild(star);
 
-  setTimeout(() => {
-    star.remove();
-  }, 800); // remove after animation
-});
-</script>
+      setTimeout(() => {
+        star.remove();
+      }, 800); // remove after animation
+    });
+  </script>
 
-<style>
-  .falling-star {
-  position: absolute;
-  width: 4px;
-  height: 4px;
-  background: white;
-  border-radius: 50%;
-  box-shadow: 0 0 8px 4px rgba(170, 61, 61, 0.5);
-  pointer-events: none;
-  animation: trail 0.8s linear forwards;
-  z-index: 9999;
-}
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const dropdowns = document.querySelectorAll("li.relative"); // parent <li>
 
-@keyframes trail {
-  0% {
-    transform: translate(0, 0) scale(1);
-    opacity: 1;
-  }
-  100% {
-    transform: translate(-30px, 60px) scale(0.2); /* moves diagonally like falling star */
-    opacity: 0;
-  }
-}
+      dropdowns.forEach((dropdown) => {
+        // const toggle = dropdown.querySelector(".dropdown-toggle");
+        const menu = dropdown.querySelector(".dropdown-menu");
 
-/* Force navbar to keep its dark background */
-#navbar {
-    background-color: rgb(23 37 84) !important; /* Tailwind bg-slate-700 */
-    /* position: fixed; Make it stick on top */
-    top: 0;
-    left: 0;
-    width: 100%;
-    z-index: 9999; /* Ensure it stays above dropdowns */
-  }
+        dropdown.addEventListener("mouseenter", () => {
+          closeAllDropdowns();
+          menu.classList.remove("hidden");
+          setTimeout(() => {
+            menu.classList.remove("opacity-0", "-translate-y-5");
+          }, 10);
+        });
 
-  /* Keep dropdowns below navbar */
-  #navbar .absolute {
-    z-index: 999; /* Slightly less than navbar so navbar stays above */
-  }
+        dropdown.addEventListener("mouseleave", () => {
+          menu.classList.add("opacity-0", "-translate-y-5");
+          setTimeout(() => {
+            if (menu.classList.contains("opacity-0")) {
+              menu.classList.add("hidden");
+            }
+          }, 300);
+        });
+      });
 
-</style>
+      // Close all dropdowns
+      function closeAllDropdowns() {
+        document.querySelectorAll(".dropdown-menu").forEach((menu) => {
+          menu.classList.add("opacity-0", "-translate-y-5");
+          setTimeout(() => {
+            if (menu.classList.contains("opacity-0")) {
+              menu.classList.add("hidden");
+            }
+          }, 300);
+        });
+      }
+    });
+  </script>
+
+  <style>
+    .falling-star {
+      position: absolute;
+      width: 4px;
+      height: 4px;
+      background: white;
+      border-radius: 50%;
+      box-shadow: 0 0 8px 4px rgba(170, 61, 61, 0.5);
+      pointer-events: none;
+      animation: trail 0.8s linear forwards;
+      z-index: 9999;
+    }
+
+    @keyframes trail {
+      0% {
+        transform: translate(0, 0) scale(1);
+        opacity: 1;
+      }
+
+      100% {
+        transform: translate(-30px, 60px) scale(0.2);
+        /* moves diagonally like falling star */
+        opacity: 0;
+      }
+    }
+
+    /* Force navbar to keep its dark background */
+    #navbar {
+      background-color: rgb(23 37 84) !important;
+      /* Tailwind bg-slate-700 */
+      /* position: fixed; Make it stick on top */
+      top: 0;
+      left: 0;
+      width: 100%;
+      z-index: 9999;
+      /* Ensure it stays above dropdowns */
+    }
+
+    /* Keep dropdowns below navbar */
+    #navbar .absolute {
+      z-index: 999;
+      /* Slightly less than navbar so navbar stays above */
+    }
+  </style>

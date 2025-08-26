@@ -58,7 +58,7 @@
 
                         <!-- Green background on hover -->
                         <span
-                            class="absolute inset-0 bg-green-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                            class="absolute inset-0 bg-indigo-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
                     </a>
 
                 </div>
@@ -87,7 +87,7 @@
 
                         <!-- Green background on hover -->
                         <span
-                            class="absolute inset-0 bg-green-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                            class="absolute inset-0 bg-indigo-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
                     </a>
                 </div>
 
@@ -114,7 +114,7 @@
 
                         <!-- Green background on hover -->
                         <span
-                            class="absolute inset-0 bg-green-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                            class="absolute inset-0 bg-indigo-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
                     </a>
                 </div>
             </div>
@@ -174,52 +174,90 @@
 <!-- -----------------------------------------------------------Services section-------------------------------- -->
 
 <!-- Container -->
-<div class="w-full py-16 bg-gray-200" style="padding-bottom: 0px;">
+<div class="w-full py-20 bg-gray-100">
     <!-- Title -->
-    <h2 class="text-6xl text-center mb-8" style="margin-top:3rem; font-weight:300;">Stop letting <span class="text-green-900">outdated systems </span>slow you down </h2>
-    <p class="text-2xl text-center mt-20">As your strategic partner, <span class="text-green-900">Vasp Technologies </span>delivers advanced <span class="text-green-900"> IT solutions</span> that empower your business.</p>
-    <p class="text-4xl text-center mt-10" style="font-weight:300; margin-bottom:129px;">We provide the tools you need to succeed, from <br><span class="text-green-900">custom software</span> to <span class="text-green-900">cybersecurity</span> services.</p>
+    <h2 class="text-4xl md:text-6xl text-center font-light leading-snug">
+        Stop letting
+        <span class="text-blue-950 font-semibold">
+            Outdated Systems
+        </span>
+        slow you down
+    </h2>
 
-    
+    <!-- Subtitle -->
+    <p class="text-lg md:text-2xl text-center mt-8 text-gray-700 max-w-4xl mx-auto">
+        As your strategic partner,
+        <span class="text-blue-950 font-semibold">Vasp Technologies</span>
+        delivers advanced <span class="text-blue-950 font-semibold">IT solutions</span> that empower your business.
+    </p>
+
+    <!-- Secondary Line -->
+    <p class="text-xl md:text-3xl text-center mt-6 font-light text-gray-800 max-w-3xl mx-auto">
+        We provide the tools you need to succeed, from
+        <span class="text-blue-950 font-semibold">Custom Software</span>
+        to <span class="text-blue-950 font-semibold">Cybersecurity</span> services.
+    </p>
+
+    <!-- CTA Button -->
+    <div class="text-center mt-10">
+        <a href="about-us.php" class="bg-blue-950 text-white px-8 py-3 rounded-full shadow-lg 
+              hover:scale-105 hover:bg-blue-900 transition-transform duration-300 inline-block">
+            Learn More
+        </a>
+    </div>
+</div>
 
 
-    <!-- Content -->
 
-<div class="w-full bg-gray-50 py-20 mt-10">
-<div class="container mx-auto px-6 pl-[7.5rem] space-y-16" >
-    <!-- <h2 class="text-4xl  text-center mb-12 mt-20
+
+<!-- Content -->
+
+<div class="w-full bg-gray-50 mt-10" style="margin-top:0px;">
+    <div class="container mx-auto px-6 pl-[7.5rem] space-y-16">
+        <!-- <h2 class="text-4xl  text-center mb-12 mt-20
     
     ">Services we provide</h2> -->
-    
+
         <!-- Service 1 -->
         <div
             class="flex flex-col md:flex-row items-center opacity-0 translate-y-10 transition-all duration-700 ease-out scroll-animate">
-           
+
             <div class="flex-1" style="margin-top:183px;">
                 <h3 class="text-4xl  mb-4 text-blue-950" style="font-family: 'WallShein', sans-serif;">AI
                     Development</h3>
                 <p class="text-xl text-gray-600 leading-relaxed" style="font-family: 'Inter', sans-serif;">We craft
                     innovative AI solutions to transform your
                     business, <br>pushing boundaries to deliver measurable impact and value.</p>
-                <a href="#"
-                    class="group relative inline-flex items-center mt-4 px-8 py-3 text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
 
-                    <!-- Arrow icon -->
-                    <svg xmlns="http://www.w3.org/2000/svg"
-                        class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
-                        fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-                        <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                    </svg>
-
-                    <!-- Button text -->
-                    <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                <a href="#">
+                    <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
+                       hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                         Learn More
-                    </span>
-
-                    <!-- Green background on hover -->
-                    <span
-                        class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                    </button>
                 </a>
+
+
+
+
+                <!-- <a href="#"
+                        class="group relative inline-flex items-center mt-4 px-8 py-3 text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
+
+                        Arrow icon
+                        <svg xmlns="http://www.w3.org/2000/svg"
+                            class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
+                            fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                        </svg>
+
+                        Button text
+                        <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                            Learn More
+                        </span>
+
+                        Green background on hover
+                        <span
+                            class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                    </a> -->
             </div>
             <div class="flex-1">
                 <img src="assets/images/bg/ani2.png" alt="AI Development"
@@ -242,27 +280,15 @@
             <div class="flex-1" style="margin-top:183px;">
                 <h3 class="text-4xl  mb-4 text-blue-950" style="font-family: 'WallShein', sans-serif;">
                     Digitisation of Businesses</h3>
-                <p class="text-xl text-gray-600 leading-relaxed" style="font-family: 'Inter', sans-serif;">We provide
+                <p class="text-xl text-gray-600 leading-relaxed" style="font-family: 'Inter', sans-serif;">We
+                    provide
                     strategic IT Solutions and Software
                     Development to Digitize business, redefine workflow, and give a competitive edge.</p>
-                <a href="#"
-                    class="group relative inline-flex items-center mt-4 px-8 py-3  text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
-
-                    <!-- Arrow icon -->
-                    <svg xmlns="http://www.w3.org/2000/svg"
-                        class="w-4 h-4 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
-                        fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-                        <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                    </svg>
-
-                    <!-- Button text -->
-                    <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                <a href="#">
+                    <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
+                       hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                         Learn More
-                    </span>
-
-                    <!-- Green background on hover -->
-                    <span
-                        class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                    </button>
                 </a>
             </div>
         </div>
@@ -279,24 +305,11 @@
                     <br>real-time data for informed decision-making.
                 </p>
 
-                <a href="#"
-                    class="group relative inline-flex items-center mt-4 px-8 py-3  text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
-
-                    <!-- Arrow icon -->
-                    <svg xmlns="http://www.w3.org/2000/svg"
-                        class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
-                        fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-                        <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                    </svg>
-
-                    <!-- Button text -->
-                    <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                <a href="#">
+                    <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
+                       hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                         Learn More
-                    </span>
-
-                    <!-- Green background on hover -->
-                    <span
-                        class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                    </button>
                 </a>
             </div>
             <div class="flex-1">
@@ -316,28 +329,16 @@
             <div class="flex-1" style="margin-top:183px;">
                 <h3 class="text-4xl  mb-4 text-blue-950" style="font-family: 'WallShein', sans-serif;">
                     Custom software development</h3>
-                <p class="text-xl text-gray-600 leading-relaxed" style="font-family: 'Inter', sans-serif;">We deliver
+                <p class="text-xl text-gray-600 leading-relaxed" style="font-family: 'Inter', sans-serif;">We
+                    deliver
                     strategic Software Development and IT
                     Solutions to
                     digitize your business and redefine your workflow.</p>
-                <a href="#"
-                    class="group relative inline-flex items-center mt-4 px-8 py-3  text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
-
-                    <!-- Arrow icon -->
-                    <svg xmlns="http://www.w3.org/2000/svg"
-                        class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
-                        fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-                        <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                    </svg>
-
-                    <!-- Button text -->
-                    <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                <a href="#">
+                    <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
+                       hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                         Learn More
-                    </span>
-
-                    <!-- Green background on hover -->
-                    <span
-                        class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                    </button>
                 </a>
             </div>
         </div>
@@ -352,24 +353,11 @@
                     optimize your entire business with a robust
                     ERP
                     solution that delivers unparalleled efficiency and reliability.</p>
-                <a href="#"
-                    class="group relative inline-flex items-center mt-4 px-8 py-3  text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
-
-                    <!-- Arrow icon -->
-                    <svg xmlns="http://www.w3.org/2000/svg"
-                        class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
-                        fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-                        <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                    </svg>
-
-                    <!-- Button text -->
-                    <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                <a href="#">
+                    <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
+                       hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                         Learn More
-                    </span>
-
-                    <!-- Green background on hover -->
-                    <span
-                        class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                    </button>
                 </a>
             </div>
             <div class="flex-1">
@@ -389,28 +377,16 @@
             <div class="flex-1" style="margin-top:183px;">
                 <h3 class="text-4xl  mb-4 text-blue-950" style="font-family: 'WallShein', sans-serif;">
                     Mobile app development</h3>
-                <p class="text-xl text-gray-600 leading-relaxed" style="font-family: 'Inter', sans-serif;">We have the
+                <p class="text-xl text-gray-600 leading-relaxed" style="font-family: 'Inter', sans-serif;">We have
+                    the
                     expertise to transform your next big idea.
                     Our
                     dedicated app developers are ready to help you grow.</p>
-                <a href="#"
-                    class="group relative inline-flex items-center mt-4 px-8 py-3  text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
-
-                    <!-- Arrow icon -->
-                    <svg xmlns="http://www.w3.org/2000/svg"
-                        class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
-                        fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-                        <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                    </svg>
-
-                    <!-- Button text -->
-                    <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                <a href="#">
+                    <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
+                       hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                         Learn More
-                    </span>
-
-                    <!-- Green background on hover -->
-                    <span
-                        class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                    </button>
                 </a>
             </div>
         </div>
@@ -421,28 +397,17 @@
             <div class="flex-1" style="margin-top:183px;">
                 <h3 class="text-4xl  mb-4 text-blue-950" style="font-family: 'WallShein', sans-serif;">
                     Dynamic web design and development</h3>
-                <p class="text-xl text-gray-600 leading-relaxed" style="font-family: 'Inter', sans-serif;">As a leading
+                <p class="text-xl text-gray-600 leading-relaxed" style="font-family: 'Inter', sans-serif;">As a
+                    leading
                     website designing company, we provide
                     expert web
                     development to create websites engineered for business growth.</p>
-                <a href="#"
-                    class="group relative inline-flex items-center mt-4 px-8 py-3 text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
 
-                    <!-- Arrow icon -->
-                    <svg xmlns="http://www.w3.org/2000/svg"
-                        class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
-                        fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-                        <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                    </svg>
-
-                    <!-- Button text -->
-                    <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                <a href="#">
+                    <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
+                       hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                         Learn More
-                    </span>
-
-                    <!-- Green background on hover -->
-                    <span
-                        class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                    </button>
                 </a>
             </div>
             <div class="flex-1">
@@ -508,10 +473,9 @@
 <!-- ------------------------------------------------tabs section-------------------------------------------------- -->
 
 
-<div class="w-full max-w-6xl mx-auto py-12 px-4" style="margin-bottom: 86px;">
+<div class="w-full max-w-6xl mx-auto py-12 px-4" style="margin-bottom: 14px;">
     <!-- Title -->
     <h2 class="text-center text-4xl font-['WallShein',sans-serif]  mb-10 mt-10">
-
         Delivering Top Value & Service, Industry-Wide
     </h2>
 
@@ -528,12 +492,12 @@
             data-tab="logistics">Healthcare</button>
         <button class="tab-btn text-white text-lg  px-4 py-2 rounded-md transition"
             data-tab="manufacturing">Banking</button>
-        <button class="tab-btn text-white text-lg  px-4 py-2 rounded-md transition"
-            data-tab="public">Travel & Hospitality</button>
-        <button class="tab-btn text-white text-lg  px-4 py-2 rounded-md transition"
-            data-tab="service">Public Sector</button>
-        <button class="tab-btn text-white text-lg  px-4 py-2 rounded-md transition"
-            data-tab="estate">Real Estate</button>
+        <button class="tab-btn text-white text-lg  px-4 py-2 rounded-md transition" data-tab="public">Travel &
+            Hospitality</button>
+        <button class="tab-btn text-white text-lg  px-4 py-2 rounded-md transition" data-tab="service">Public
+            Sector</button>
+        <button class="tab-btn text-white text-lg  px-4 py-2 rounded-md transition" data-tab="estate">Real
+            Estate</button>
         <button class="tab-btn text-white text-lg  px-4 py-2 rounded-md transition"
             data-tab="manufacture">Manufacture</button>
 
@@ -591,7 +555,8 @@
                     style="margin-top: 121px;">
                     <h3 class="text-4xl text-blue-950  mb-4">Ecommerce</h3>
                     <p class="text-xl text-gray-700">Launch and manage your large-scale online marketplace with our
-                        robust IT Solutions. Specializing in ecommerce website design, our comprehensive web development
+                        robust IT Solutions. Specializing in ecommerce website design, our comprehensive web
+                        development
                         services give you the powerful platform you need to succeed.</p>
 
                     <a href="#"
@@ -627,7 +592,8 @@
                     style="margin-top: 121px;">
                     <h3 class="text-4xl text-blue-950  mb-4">Logistics</h3>
                     <p class="text-xl text-gray-700">TransTrack by Vasp Technologies is a comprehensive Transport
-                        Management Software and powerful ERP solution. Through expert Software Development, we help you
+                        Management Software and powerful ERP solution. Through expert Software Development, we help
+                        you
                         standardize logistics and optimize operations to gain a competitive edge</p>
 
                     <a href="#"
@@ -662,7 +628,8 @@
                 <div class="opacity-0 translate-y-6 transition-all duration-700 ease-out content-animate"
                     style="margin-top: 121px;">
                     <h3 class="text-4xl text-blue-950  mb-4">Healthcare</h3>
-                    <p class="text-xl text-gray-700">Vasp Technologies offers strategic ERP solutions for the healthcare
+                    <p class="text-xl text-gray-700">Vasp Technologies offers strategic ERP solutions for the
+                        healthcare
                         sector. Our comprehensive Enterprise Resource Planning systems are engineered to optimize
                         workflows and address the unique needs of your institution.</p>
 
@@ -735,8 +702,10 @@
                     style="margin-top: 121px;">
                     <h3 class="text-4xl text-blue-950  mb-4">Travel & Hospitality</h3>
                     <p class="text-xl text-gray-700">Vasp Technologies creates innovative software solutions for the
-                        travel and hospitality sector. Our tools, with features like real-time inventory management and
-                        user-friendly booking platforms, are designed to streamline operations and enhance the visitor
+                        travel and hospitality sector. Our tools, with features like real-time inventory management
+                        and
+                        user-friendly booking platforms, are designed to streamline operations and enhance the
+                        visitor
                         experience.</p>
 
                     <a href="#"
@@ -771,9 +740,12 @@
                 <div class="opacity-0 translate-y-6 transition-all duration-700 ease-out content-animate"
                     style="margin-top: 121px;">
                     <h3 class="text-4xl text-blue-950  mb-4">Public Sector</h3>
-                    <p class="text-xl text-gray-700">Public sector is rapidly progressing with e-governance initiatives
-                        and digital platforms. As a trusted software company, we provide tailored software solutions to
-                        help government, healthcare, and educational institutions improve efficiency, transparency, and
+                    <p class="text-xl text-gray-700">Public sector is rapidly progressing with e-governance
+                        initiatives
+                        and digital platforms. As a trusted software company, we provide tailored software solutions
+                        to
+                        help government, healthcare, and educational institutions improve efficiency, transparency,
+                        and
                         service delivery.</p>
 
                     <a href="#"
@@ -814,6 +786,43 @@
 
                     <a href="#"
                         class="group relative inline-flex items-center mt-10 px-8 py-3  text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
+
+                        <!-- Arrow icon -->
+                        <svg xmlns="http://www.w3.org/2000/svg"
+                            class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
+                            fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                        </svg>
+
+                        <!-- Button text -->
+                        <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                            Know More
+                        </span>
+
+                        <!-- Green background on hover -->
+                        <span
+                            class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="tab-content hidden" id="content-manufacture">
+            <div class="grid md:grid-cols-2 gap-8 items-center">
+                <div>
+                    <img src="assets/images/tabs/manufacture.jpg" class="w-full rounded-lg shadow-lg mt-10"
+                        alt="Construction">
+                </div>
+                <div class="opacity-0 translate-y-6 transition-all duration-700 ease-out content-animate"
+                    style="margin-top: 121px;">
+                    <h3 class="text-4xl text-blue-950  mb-4">Manufacture</h3>
+                    <p class="text-xl text-gray-700">Vasp Technologies provides tailored solutions for the manufacturing
+                        industry. Our ERP and management platforms streamline production, optimize supply chains, and
+                        enhance operational efficiency.</p>
+
+                    <a href="#"
+                        class="group relative inline-flex items-center mt-4 px-8 py-3  text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
 
                         <!-- Arrow icon -->
                         <svg xmlns="http://www.w3.org/2000/svg"
@@ -901,223 +910,233 @@
 
 <!-- -------------------------------------------------------vdosection----------------------- -->
 <div class="w-full bg-gray-50 py-20 mt-5">
-<div class="max-w-6xl mx-auto px-4 py-16">
-    <!-- Title -->
-    <div class="text-center mb-12">
-        <h2 class="text-4xl mb-2">Explore our Products</h2>
-        <!-- <p class="text-lg text-gray-600">Innovative solutions for every industry</p> -->
-    </div>
-
-    <div class="space-y-16">
-        <!-- Box 1 -->
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center" style="margin-top:94px;">
-            <!-- Video -->
-            <div class="animate-slide-up">
-
-
-                <h3 class="text-xl font-semibold mb-4">Desalite Connect</h3>
-
-                <p class="text-blue-950 text-3xl" style="font-weight:500;">Set up your all-in-one School Management ERP System</p>
-                <p class="text-gray-600 text-lg mt-6">Our comprehensive school management ERP helps schools
-                    transform by
-                    streamlining administrative tasks, fostering better communication, and boosting overall
-                    efficiency.
-                </p>
-
-
-                <a href="#"
-                    class="group relative inline-flex items-center mt-10 px-6 py-2  text-lg font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
-
-
-
-                    <!-- Button text -->
-                    <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
-                        Visit
-                    </span>
-                    <!-- Arrow icon -->
-                    <span
-                        class="ml-2 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1 text-lg font-bold">
-                        &gt;
-                    </span>
-
-                    <!-- Green background on hover -->
-                    <span
-                        class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
-                </a>
-
-                <h3 class="text-base font-semibold mb-4 mt-5">Modules</h3>
-                <p class="text-gray-950 text-base"><span class="text-blue-950">Student</span> Management</p>
-                <!-- <p class="text-gray-950 text-lg">Fee Management</p>
-                <p class="text-gray-950 text-lg">Attendance Management</p> -->
-                <p class="text-gray-950 text-base"><span class="text-blue-950">Exam</span> and <span
-                        class="text-blue-950">Report</span> Management</p>
-                <p class="text-gray-950 text-base"><span class="text-blue-950">Staff</span> and <span
-                        class="text-gray-950">HR </span>Management</p>
-                <!-- <p class="text-gray-950 text-lg ">Time Table Management</p> -->
-
-            </div>
-            <!-- Content -->
-
-            <div class="overflow-hidden animate-slide-down">
-                <video autoplay muted loop playsinline class="rounded-lg shadow-lg w-full">
-                    <source src="assets/vdo/vdo1.mp4" type="video/mp4" />
-                </video>
-            </div>
+    <div class="max-w-6xl mx-auto px-4 py-16" style="padding-top: 0px;">
+        <!-- Title -->
+        <div class="text-center mb-12">
+            <h2 class="text-4xl mb-2">Explore our Products</h2>
+            <!-- <p class="text-lg text-gray-600">Innovative solutions for every industry</p> -->
         </div>
 
-
-        <!-- Box 2 -->
-
-
-
-
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center" style="margin-top:141px;">
-
-            <div class="animate-slide-up">
-                <h3 class="text-xl font-semibold mb-4">Ednect</h3>
-                <p class="text-blue-950 text-3xl" style="font-weight:500;">Your partner in digital transformation. Revolutionizing
-                    school administration with cutting-edge technology</p>
-                <p class="text-gray-600 text-lg mt-6">Our Ednect platform simplifies exam results, fees, attendance, and
-                    student data. It also provides integrated HR and staff management systems for all your teachers and
-                    employees.
-                </p>
-
-                <a href="#"
-                    class="group relative inline-flex items-center mt-10 px-6 py-2  text-lg font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
+        <div class="space-y-16">
+            <!-- Box 1 -->
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center" style="margin-top:94px;">
+                <!-- Video -->
+                <div class="animate-slide-up">
 
 
+                    <h3 class="text-xl font-semibold mb-4">Desalite Connect</h3>
 
-                    <!-- Button text -->
-                    <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
-                        Visit
-                    </span>
-                    <!-- Arrow icon -->
-                    <span
-                        class="ml-2 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1 text-lg font-bold">
-                        &gt;
-                    </span>
+                    <p class="text-blue-950 text-3xl" style="font-weight:500;">Set up your all-in-one School
+                        Management ERP System</p>
+                    <p class="text-gray-600 text-lg mt-6">Our comprehensive school management ERP helps schools
+                        transform by
+                        streamlining administrative tasks, fostering better communication, and boosting overall
+                        efficiency.
+                    </p>
 
-                    <!-- Green background on hover -->
-                    <span
-                        class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
-                </a>
 
-                <h3 class="text-base font-semibold mb-4 mt-5">Modules</h3>
-                <p class="text-gray-950 text-base"><span class="text-blue-950">Student</span>Administration</p>
-                <!-- <p class="text-gray-950 text-lg">Fee Management</p>
+                    <a href="#"
+                        class="group relative inline-flex items-center mt-10 px-6 py-2  text-lg font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
+
+
+
+                        <!-- Button text -->
+                        <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                            Visit
+                        </span>
+                        <!-- Arrow icon -->
+                        <span
+                            class="ml-2 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1 text-lg font-bold">
+                            &gt;
+                        </span>
+
+                        <!-- Green background on hover -->
+                        <span
+                            class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                    </a>
+
+                    <h3 class="text-base font-semibold mb-4 mt-5">Modules</h3>
+                    <p class="text-gray-950 text-base"><span class="text-blue-950">Student</span> Management</p>
+                    <!-- <p class="text-gray-950 text-lg">Fee Management</p>
                 <p class="text-gray-950 text-lg">Attendance Management</p> -->
-                <p class="text-gray-950 text-base"><span class="text-blue-950">Smart </span> Attendance</p>
-                <p class="text-gray-950 text-base"><span class="text-blue-950">Exam </span> and <span
-                        class="text-gray-950">Report Card </span> Management</p>
-                <p class="text-gray-950 text-base">Communication Portal</p>
+                    <p class="text-gray-950 text-base"><span class="text-blue-950">Exam</span> and <span
+                            class="text-blue-950">Report</span> Management</p>
+                    <p class="text-gray-950 text-base"><span class="text-blue-950">Staff</span> and <span
+                            class="text-gray-950">HR </span>Management</p>
+                    <!-- <p class="text-gray-950 text-lg ">Time Table Management</p> -->
+
+                </div>
+                <!-- Content -->
+
+                <div class="overflow-hidden animate-slide-down">
+                    <video autoplay muted loop playsinline class="rounded-lg shadow-lg w-full">
+                        <source src="assets/vdo/vdo1.mp4" type="video/mp4" />
+                    </video>
+                </div>
             </div>
-            <div class="overflow-hidden animate-slide-down">
-                <img src="assets/vdo/1.jpeg" alt="Image description" class="rounded-lg shadow-lg w-full" />
-            </div>
-        </div>
 
-        <!-- Box 3 -->
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center" style="margin-top:141px;">
 
-            <div class="animate-slide-up">
-                <h3 class="text-xl font-semibold mb-4">TransTrack</h3>
-                <p class="text-blue-950 text-3xl" style="font-weight:500;">Go from chaotic to coordinated. TransTrack gives you
-                    complete control over every shipment.</p>
-                <p class="text-gray-600 text-lg mt-6">TransTrack automates planning, optimises routes and loads,
-                    provides real-time tracking, and delivers powerful supply chain analytics for smarter
-                    decision-making in logistics.
-                </p>
-
-                <a href="#"
-                    class="group relative inline-flex items-center mt-10 px-6 py-2  text-lg font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
+            <!-- Box 2 -->
 
 
 
-                    <!-- Button text -->
-                    <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
-                        Visit
-                    </span>
-                    <!-- Arrow icon -->
-                    <span
-                        class="ml-2 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1 text-lg font-bold">
-                        &gt;
-                    </span>
 
-                    <!-- Green background on hover -->
-                    <span
-                        class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
-                </a>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center" style="margin-top:141px;">
 
-                <h3 class="text-base font-semibold mb-4 mt-5">Modules</h3>
-                <p class="text-gray-950 text-base"><span class="text-blue-950"></span> Transportation Planning and
-                    Optimization</p>
-                <!-- <p class="text-gray-950 text-lg">Fee Management</p>
+                <div class="animate-slide-up">
+                    <h3 class="text-xl font-semibold mb-4">Ednect</h3>
+                    <p class="text-blue-950 text-3xl" style="font-weight:500;">Your partner in digital
+                        transformation. Revolutionizing
+                        school administration with cutting-edge technology</p>
+                    <p class="text-gray-600 text-lg mt-6">Our Ednect platform simplifies exam results, fees,
+                        attendance, and
+                        student data. It also provides integrated HR and staff management systems for all your
+                        teachers and
+                        employees.
+                    </p>
+
+                    <a href="#"
+                        class="group relative inline-flex items-center mt-10 px-6 py-2  text-lg font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
+
+
+
+                        <!-- Button text -->
+                        <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                            Visit
+                        </span>
+                        <!-- Arrow icon -->
+                        <span
+                            class="ml-2 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1 text-lg font-bold">
+                            &gt;
+                        </span>
+
+                        <!-- Green background on hover -->
+                        <span
+                            class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                    </a>
+
+                    <h3 class="text-base font-semibold mb-4 mt-5">Modules</h3>
+                    <p class="text-gray-950 text-base"><span class="text-blue-950">Student</span>Administration</p>
+                    <!-- <p class="text-gray-950 text-lg">Fee Management</p>
                 <p class="text-gray-950 text-lg">Attendance Management</p> -->
-                <p class="text-gray-950 text-base"><span class="text-blue-950"></span><span
-                        class="text-blue-950"></span>Real-Time Tracking and Visibility</p>
-                <p class="text-gray-950 text-base"><span class="text-blue-950"></span><span
-                        class="text-gray-950"></span>Fleet Management</p>
-                <p class="text-gray-950 text-base">Document Management System (DMS)</p>
-            </div>
-            <div class="overflow-hidden animate-slide-down">
-                <video autoplay muted loop playsinline class="rounded-lg shadow-lg w-full">
-                    <source src="assets/vdo/trans.mp4" type="video/mp4" />
-                </video>
+                    <p class="text-gray-950 text-base"><span class="text-blue-950">Smart </span> Attendance</p>
+                    <p class="text-gray-950 text-base"><span class="text-blue-950">Exam </span> and <span
+                            class="text-gray-950">Report Card </span> Management</p>
+                    <p class="text-gray-950 text-base">Communication Portal</p>
+                </div>
+                <div class="overflow-hidden animate-slide-down">
+                    <img src="assets/vdo/1.jpeg" alt="Image description" class="rounded-lg shadow-lg w-full" />
+                </div>
             </div>
 
-        </div>
+            <!-- Box 3 -->
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center" style="margin-top:141px;">
 
-        <!-- Box 4 -->
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center md:flex-row-reverse" style="margin-top:141px;">
+                <div class="animate-slide-up">
+                    <h3 class="text-xl font-semibold mb-4">TransTrack</h3>
+                    <p class="text-blue-950 text-3xl" style="font-weight:500;">Go from chaotic to coordinated.
+                        TransTrack gives you
+                        complete control over every shipment.</p>
+                    <p class="text-gray-600 text-lg mt-6">TransTrack automates planning, optimises routes and loads,
+                        provides real-time tracking, and delivers powerful supply chain analytics for smarter
+                        decision-making in logistics.
+                    </p>
 
-            <div class="animate-slide-up">
-                <h3 class="text-xl font-semibold mb-4">IceBox</h3>
-                <p class="text-blue-950 text-3xl" style="font-weight:500;">From temperature spikes to inventory chaos, take control of
-                    your cold storage.</p>
-                <p class="text-gray-600 text-lg mt-6">Icebox keeps your warehouse humming. Its real-time inventory
-                    tracking from this warehouse management software provides you with a clear update on what's in
-                    inventory.
-                </p>
-
-                <a href="#"
-                    class="group relative inline-flex items-center mt-10 px-6 py-2  text-lg font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
-
+                    <a href="#"
+                        class="group relative inline-flex items-center mt-10 px-6 py-2  text-lg font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
 
 
-                    <!-- Button text -->
-                    <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
-                        Visit
-                    </span>
-                    <!-- Arrow icon -->
-                    <span
-                        class="ml-2 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1 text-lg font-bold">
-                        &gt;
-                    </span>
 
-                    <!-- Green background on hover -->
-                    <span
-                        class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
-                </a>
+                        <!-- Button text -->
+                        <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                            Visit
+                        </span>
+                        <!-- Arrow icon -->
+                        <span
+                            class="ml-2 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1 text-lg font-bold">
+                            &gt;
+                        </span>
 
-                <h3 class="text-base font-semibold mb-4 mt-5">Modules</h3>
-                <p class="text-gray-950 text-base"><span class="text-blue-950"></span> Inventory Management</p>
-                <!-- <p class="text-gray-950 text-lg">Fee Management</p>
+                        <!-- Green background on hover -->
+                        <span
+                            class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                    </a>
+
+                    <h3 class="text-base font-semibold mb-4 mt-5">Modules</h3>
+                    <p class="text-gray-950 text-base"><span class="text-blue-950"></span> Transportation Planning
+                        and
+                        Optimization</p>
+                    <!-- <p class="text-gray-950 text-lg">Fee Management</p>
                 <p class="text-gray-950 text-lg">Attendance Management</p> -->
-                <p class="text-gray-950 text-base"><span class="text-blue-950"></span><span
-                        class="text-blue-950"></span>Temperature Monitoring & Control</p>
-                <p class="text-gray-950 text-base"><span class="text-blue-950"></span><span
-                        class="text-gray-950"></span>Warehouse and Security Management</p>
-                <p class="text-gray-950 text-base">Billing and Reporting</p>
+                    <p class="text-gray-950 text-base"><span class="text-blue-950"></span><span
+                            class="text-blue-950"></span>Real-Time Tracking and Visibility</p>
+                    <p class="text-gray-950 text-base"><span class="text-blue-950"></span><span
+                            class="text-gray-950"></span>Fleet Management</p>
+                    <p class="text-gray-950 text-base">Document Management System (DMS)</p>
+                </div>
+                <div class="overflow-hidden animate-slide-down">
+                    <video autoplay muted loop playsinline class="rounded-lg shadow-lg w-full">
+                        <source src="assets/vdo/trans.mp4" type="video/mp4" />
+                    </video>
+                </div>
+
             </div>
-            <div class="overflow-hidden animate-slide-down">
-                <video autoplay muted loop playsinline class="rounded-lg shadow-lg w-full" style="width: 92%;
+
+            <!-- Box 4 -->
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center md:flex-row-reverse"
+                style="margin-top:141px;">
+
+                <div class="animate-slide-up">
+                    <h3 class="text-xl font-semibold mb-4">IceBox</h3>
+                    <p class="text-blue-950 text-3xl" style="font-weight:500;">From temperature spikes to inventory
+                        chaos, take control of
+                        your cold storage.</p>
+                    <p class="text-gray-600 text-lg mt-6">Icebox keeps your warehouse humming. Its real-time
+                        inventory
+                        tracking from this warehouse management software provides you with a clear update on what's
+                        in
+                        inventory.
+                    </p>
+
+                    <a href="#"
+                        class="group relative inline-flex items-center mt-10 px-6 py-2  text-lg font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
+
+
+
+                        <!-- Button text -->
+                        <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                            Visit
+                        </span>
+                        <!-- Arrow icon -->
+                        <span
+                            class="ml-2 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1 text-lg font-bold">
+                            &gt;
+                        </span>
+
+                        <!-- Green background on hover -->
+                        <span
+                            class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                    </a>
+
+                    <h3 class="text-base font-semibold mb-4 mt-5">Modules</h3>
+                    <p class="text-gray-950 text-base"><span class="text-blue-950"></span> Inventory Management</p>
+                    <!-- <p class="text-gray-950 text-lg">Fee Management</p>
+                <p class="text-gray-950 text-lg">Attendance Management</p> -->
+                    <p class="text-gray-950 text-base"><span class="text-blue-950"></span><span
+                            class="text-blue-950"></span>Temperature Monitoring & Control</p>
+                    <p class="text-gray-950 text-base"><span class="text-blue-950"></span><span
+                            class="text-gray-950"></span>Warehouse and Security Management</p>
+                    <p class="text-gray-950 text-base">Billing and Reporting</p>
+                </div>
+                <div class="overflow-hidden animate-slide-down">
+                    <video autoplay muted loop playsinline class="rounded-lg shadow-lg w-full" style="width: 92%;
     padding-left: 40px;">
-                    <source src="assets/vdo/ice.mp4" type="video/mp4" />
-                </video>
+                        <source src="assets/vdo/ice.mp4" type="video/mp4" />
+                    </video>
+                </div>
             </div>
         </div>
     </div>
-</div>
 </div>
 
 
@@ -1158,50 +1177,69 @@
 
 
 
-<div class="w-full bg-gray-200 py-20 mt-10" style="padding-bottom:0px;">
-  <!-- Centered inner content -->
-  <div class="max-w-6xl mx-auto px-4">
-    <div class="grid grid-cols-1 md:grid-cols-2 items-center gap-8">
-      
-      <!-- Left Content -->
-      <div class="transform opacity-0 animate-slide-left">
-        <h2 class="text-6xl mb-8" style="font-weight:300;">Build the Technology your Business needs to Succeed</h2>
-        <p class="text-2xl text-gray-600 mb-10" style="font-weight:300;">
-          Take Vasp Technologies as your strategic IT Partner and experience consistent customer support 24/7.
-        </p>
-        <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
-                       hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
-          Learn More
-        </button>
-      </div>
+<div class="w-full bg-gray-200" style="padding-bottom:0px;">
+    <!-- Centered inner content -->
+    <div class="max-w-6xl mx-auto px-4">
+        <div class="grid grid-cols-1 md:grid-cols-2 items-center gap-8">
 
-      <!-- Right Image -->
-      <div class="transform opacity-0 animate-slide-right flex justify-center">
-        <img src="assets/images/bg/chat.png" alt="Sample Image" class="rounded-lg" style="position: relative;
+            <!-- Left Content -->
+            <div class="transform opacity-0 animate-slide-left">
+                <h2 class="text-6xl mb-8" style="font-weight:300;">Build the Technology your Business needs to
+                    Succeed</h2>
+                <p class="text-2xl text-gray-600 mb-10" style="font-weight:300;">
+                    Take Vasp Technologies as your strategic IT Partner and experience consistent customer support
+                    24/7.
+                </p>
+                <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
+                       hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
+                    Learn More
+                </button>
+            </div>
+
+            <!-- Right Image -->
+            <div class="transform opacity-0 animate-slide-right flex justify-center">
+                <img src="assets/images/bg/chat.png" alt="Sample Image" class="rounded-lg" style="position: relative;
     left: 45px;" />
-      </div>
-      
+            </div>
+
+        </div>
     </div>
-  </div>
 </div>
 </div>
 
 <!-- Tailwind Custom Animations -->
 <style>
-@keyframes slideLeft {
-  0% { opacity: 0; transform: translateX(-50px); }
-  100% { opacity: 1; transform: translateX(0); }
-}
-@keyframes slideRight {
-  0% { opacity: 0; transform: translateX(50px); }
-  100% { opacity: 1; transform: translateX(0); }
-}
-.animate-slide-left {
-  animation: slideLeft 1s ease-out forwards;
-}
-.animate-slide-right {
-  animation: slideRight 1s ease-out forwards;
-}
+    @keyframes slideLeft {
+        0% {
+            opacity: 0;
+            transform: translateX(-50px);
+        }
+
+        100% {
+            opacity: 1;
+            transform: translateX(0);
+        }
+    }
+
+    @keyframes slideRight {
+        0% {
+            opacity: 0;
+            transform: translateX(50px);
+        }
+
+        100% {
+            opacity: 1;
+            transform: translateX(0);
+        }
+    }
+
+    .animate-slide-left {
+        animation: slideLeft 1s ease-out forwards;
+    }
+
+    .animate-slide-right {
+        animation: slideRight 1s ease-out forwards;
+    }
 </style>
 
 
@@ -1212,15 +1250,18 @@
 
 
 <!-- call to action button -->
-<div class="relative bg-cover bg-center bg-no-repeat bg-fixed mt-16 md:mt-32 text-white"
+<div class="relative bg-cover bg-center bg-no-repeat bg-fixed mt-16 md:mt-0 text-white"
     style="background-image: url('assets/images/img/4.jpg');">
     <div class="absolute inset-0 bg-black bg-opacity-70"></div>
     <div class="relative py-20">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-            <h2 class="text-3xl sm:text-4xl">
-                <span class="block text-6xl" style="margin-bottom:15px;">Your Digital Innovation Partner</span>
-                <span class="block text-2xl text-indigo-200" style="margin-bottom:15px;">Build the Technology your Business needs to Succeed.</span>
-                <span class="block text-4xl text-indigo-200">Ready to take Vasp Technologies as your straties IT Partner</span>
+            <h2 class="text-3xl" style="font-weight: 300;">
+                <span class="block text-6xl" style="margin-bottom:15px; font-weight: 300px;">Your <span
+                        class="font-bold text-indigo-400">Digital Innovation</span> Partner</span>
+                <span class="block text-2xl" style="margin-bottom:15px;">Build the Technology your
+                    Business needs to Succeed.</span>
+                <span class="block text-4xl">Ready to take Vasp Technologies as your straties <span
+                        class="text-indigo-400"> IT Partner</span></span>
             </h2>
             <div class="mt-8 flex justify-center">
                 <div class="inline-flex rounded-md shadow">
