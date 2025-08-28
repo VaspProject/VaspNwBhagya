@@ -209,11 +209,15 @@
 
 <!-- Services -->
 <div class="container mx-auto my-16 md:my-22 ">
-<div class="pb-12 px-4 md:px-0">
+    <div class="pb-12 px-4 md:px-0">
         <div class="flex flex-wrap items-center justify-between py-4">
             <div class="w-full md:w-3/4">
                 <h2 class="text-blue-950 text-3xl md:text-4xl font-semibold py-2">Our Services</h2>
-                <p class="text-blue-950 text-md md:text-md"> Offering a comprehensive suite of services, including cutting-edge web design and development, user-centric mobile app creation, custom-built MIS applications for data management, digitisation of businesses and Artificial Intelligence (AI) solutions to optimise your operations, we stand as your one-stop shop for business accomplishments.</p>
+                <p class="text-blue-950 text-md md:text-md"> Offering a comprehensive suite of services, including
+                    cutting-edge web design and development, user-centric mobile app creation, custom-built MIS
+                    applications for data management, digitisation of businesses and Artificial Intelligence (AI)
+                    solutions to optimise your operations, we stand as your one-stop shop for business accomplishments.
+                </p>
             </div>
 
             <div class="w-full md:w-1/4 text-right mt-4 md:mt-0 flex justify-end items-center">
@@ -248,7 +252,7 @@
                             <div class="p-8 text-left text-white w-full">
                                 <h2 class="text-2xl font-bold mb-4">Artificial Intelligence Development</h2>
                                 <p class="text-md mb-3">Escalate Your Business With AI-integrated Solutions From Vasp
-                                Technologies</p>
+                                    Technologies</p>
                                 <div class="text-left">
                                     <a href="artificial-intelligence.php"
                                         class="bg-white text-black px-3 py-2 text-xs font-semibold hover:underline hover:text-blue-500">Know
@@ -276,7 +280,8 @@
                             class="absolute inset-0 flex items-end justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                             <div class="p-8 text-left text-white w-full">
                                 <h2 class="text-2xl font-bold mb-4">Digitisation of businesses</h2>
-                                <p class="text-md mb-3">Harness the power of digital solution and redefine your business workflow</p>
+                                <p class="text-md mb-3">Harness the power of digital solution and redefine your business
+                                    workflow</p>
                                 <div class="text-left">
                                     <a href="artificial-intelligence.php"
                                         class="bg-white text-black px-3 py-2 text-xs font-semibold hover:underline hover:text-blue-500">Know
@@ -297,13 +302,15 @@
                         <div
                             class="text-left text-white transition-opacity duration-300 opacity-100 group-hover:opacity-0">
                             <h2 class="text-2xl font-bold mb-4">Management Information System (MIS)</h2>
-                            <p class="text-md">Effortlessly facilitate your firm’s everyday information with a management information system (MIS). </p>
+                            <p class="text-md">Effortlessly facilitate your firm’s everyday information with a
+                                management information system (MIS). </p>
                         </div>
                         <div
                             class="absolute inset-0 flex items-end justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                             <div class="p-8 text-left text-white w-full">
                                 <h2 class="text-2xl font-bold mb-2">Management Information System (MIS)</h2>
-                                <p class="text-md mb-3">Effortlessly facilitate your firm’s everyday information with a management information system (MIS).</p>
+                                <p class="text-md mb-3">Effortlessly facilitate your firm’s everyday information with a
+                                    management information system (MIS).</p>
                                 <div class="text-left">
                                     <a href="#"
                                         class="bg-white text-black px-3 py-2 text-xs font-semibold hover:underline hover:text-blue-500">Know
@@ -486,59 +493,59 @@
 
 
 <script>
-// blog slide
-$(document).ready(function() {
-    $(".blog-carousel").owlCarousel({
-        items: 3,
-        loop: true,
-        margin: 20,
-        dots: false,
-        stagePadding: 0,
-        autoplay: true,
-        autoplayTimeout: 3000,
-        autoplayHoverPause: true,
-        responsive: {
-            0: {
-                items: 1,
-                stagePadding: 0
+    // blog slide
+    $(document).ready(function () {
+        $(".blog-carousel").owlCarousel({
+            items: 3,
+            loop: true,
+            margin: 20,
+            dots: false,
+            stagePadding: 0,
+            autoplay: true,
+            autoplayTimeout: 3000,
+            autoplayHoverPause: true,
+            responsive: {
+                0: {
+                    items: 1,
+                    stagePadding: 0
+                },
+                768: {
+                    items: 2,
+                    stagePadding: 0
+                },
+                1024: {
+                    items: 3,
+                    stagePadding: 0
+                }
             },
-            768: {
-                items: 2,
-                stagePadding: 0
-            },
-            1024: {
-                items: 3,
-                stagePadding: 0
+            onTranslated: function (event) {
+                var elements = $(".owl-item");
+                elements.removeClass('right-partial');
+                if (elements.length > 0) {
+                    elements.last().addClass('right-partial');
+                }
             }
-        },
-        onTranslated: function(event) {
-            var elements = $(".owl-item");
-            elements.removeClass('right-partial');
-            if (elements.length > 0) {
-                elements.last().addClass('right-partial');
-            }
-        }
-    });
+        });
 
-    // Initialize the hero-slide
-    $(".hero-slide").owlCarousel({
-        items: 1,
-        loop: false,
-        autoplay: false,
-        autoplayTimeout: 3000,
-        dots: true,
-        nav: false,
-        responsive: {
-            0: {
-                items: 1
-            },
-            768: {
-                items: 1
-            },
-            1024: {
-                items: 1
+        // Initialize the hero-slide
+        $(".hero-slide").owlCarousel({
+            items: 1,
+            loop: false,
+            autoplay: false,
+            autoplayTimeout: 3000,
+            dots: true,
+            nav: false,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                768: {
+                    items: 1
+                },
+                1024: {
+                    items: 1
+                }
             }
-        }
+        });
     });
-});
 </script>

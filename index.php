@@ -522,24 +522,11 @@
                         Management Software, Desalite Connect and Ednect, is a comprehensive enterprise resource
                         planning system crafted as an expert ERP solution to enhance operational efficiency.</p>
 
-                    <a href="#"
-                        class="group relative inline-flex items-center mt-4 px-8 py-3  text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
-
-                        <!-- Arrow icon -->
-                        <svg xmlns="http://www.w3.org/2000/svg"
-                            class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
-                            fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                        </svg>
-
-                        <!-- Button text -->
-                        <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                    <a href="#">
+                        <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
+                       hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                             Know More
-                        </span>
-
-                        <!-- Green background on hover -->
-                        <span
-                            class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                        </button>
                     </a>
                 </div>
             </div>
@@ -559,24 +546,11 @@
                         development
                         services give you the powerful platform you need to succeed.</p>
 
-                    <a href="#"
-                        class="group relative inline-flex items-center mt-4 px-8 py-3  text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
-
-                        <!-- Arrow icon -->
-                        <svg xmlns="http://www.w3.org/2000/svg"
-                            class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
-                            fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                        </svg>
-
-                        <!-- Button text -->
-                        <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                    <a href="#">
+                        <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
+                       hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                             Know More
-                        </span>
-
-                        <!-- Green background on hover -->
-                        <span
-                            class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                        </button>
                     </a>
                 </div>
             </div>
@@ -595,26 +569,32 @@
                         Management Software and powerful ERP solution. Through expert Software Development, we help
                         you
                         standardize logistics and optimize operations to gain a competitive edge</p>
+                    <a href="#">
+                        <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
+                       hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
+                            know More
+                        </button>
+                    </a>
 
-                    <a href="#"
+                    <!-- <a href="#"
                         class="group relative inline-flex items-center mt-4 px-8 py-3  text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
 
-                        <!-- Arrow icon -->
+                      
                         <svg xmlns="http://www.w3.org/2000/svg"
                             class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
                             fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                             <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
                         </svg>
 
-                        <!-- Button text -->
+                        
                         <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
                             Know More
                         </span>
 
-                        <!-- Green background on hover -->
+                       
                         <span
                             class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
-                    </a>
+                    </a> -->
                 </div>
             </div>
         </div>
@@ -633,24 +613,11 @@
                         sector. Our comprehensive Enterprise Resource Planning systems are engineered to optimize
                         workflows and address the unique needs of your institution.</p>
 
-                    <a href="#"
-                        class="group relative inline-flex items-center mt-4 px-8 py-3  text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
-
-                        <!-- Arrow icon -->
-                        <svg xmlns="http://www.w3.org/2000/svg"
-                            class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
-                            fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                        </svg>
-
-                        <!-- Button text -->
-                        <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                    <a href="#">
+                        <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
+                       hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                             Know More
-                        </span>
-
-                        <!-- Green background on hover -->
-                        <span
-                            class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                        </button>
                     </a>
                 </div>
             </div>
@@ -669,24 +636,11 @@
                         regulatory compliance, data management, and outdated legacy systems. A sophisticated finance
                         management system is essential to.</p>
 
-                    <a href="#"
-                        class="group relative inline-flex items-center mt-4 px-8 py-3  text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
-
-                        <!-- Arrow icon -->
-                        <svg xmlns="http://www.w3.org/2000/svg"
-                            class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
-                            fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                        </svg>
-
-                        <!-- Button text -->
-                        <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                    <a href="#">
+                        <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
+                       hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                             Know More
-                        </span>
-
-                        <!-- Green background on hover -->
-                        <span
-                            class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                        </button>
                     </a>
                 </div>
             </div>
@@ -708,24 +662,11 @@
                         visitor
                         experience.</p>
 
-                    <a href="#"
-                        class="group relative inline-flex items-center mt-4 px-8 py-3  text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
-
-                        <!-- Arrow icon -->
-                        <svg xmlns="http://www.w3.org/2000/svg"
-                            class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
-                            fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                        </svg>
-
-                        <!-- Button text -->
-                        <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
-                            Know More
-                        </span>
-
-                        <!-- Green background on hover -->
-                        <span
-                            class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                    <a href="#">
+                        <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
+                       hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
+                            know More
+                        </button>
                     </a>
                 </div>
             </div>
@@ -748,24 +689,11 @@
                         and
                         service delivery.</p>
 
-                    <a href="#"
-                        class="group relative inline-flex items-center mt-4 px-8 py-3  text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
-
-                        <!-- Arrow icon -->
-                        <svg xmlns="http://www.w3.org/2000/svg"
-                            class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
-                            fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                        </svg>
-
-                        <!-- Button text -->
-                        <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
-                            know More
-                        </span>
-
-                        <!-- Green background on hover -->
-                        <span
-                            class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                    <a href="#">
+                        <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
+                       hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
+                            Know More
+                        </button>
                     </a>
                 </div>
             </div>
@@ -784,24 +712,11 @@
                         solutions for the real estate industry. Our property management software and innovative
                         platforms streamline administrative tasks and optimize property performance.</p>
 
-                    <a href="#"
-                        class="group relative inline-flex items-center mt-10 px-8 py-3  text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
-
-                        <!-- Arrow icon -->
-                        <svg xmlns="http://www.w3.org/2000/svg"
-                            class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
-                            fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                        </svg>
-
-                        <!-- Button text -->
-                        <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
-                            Know More
-                        </span>
-
-                        <!-- Green background on hover -->
-                        <span
-                            class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                    <a href="#">
+                        <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
+                       hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
+                            know More
+                        </button>
                     </a>
                 </div>
             </div>
@@ -821,24 +736,11 @@
                         industry. Our ERP and management platforms streamline production, optimize supply chains, and
                         enhance operational efficiency.</p>
 
-                    <a href="#"
-                        class="group relative inline-flex items-center mt-4 px-8 py-3  text-xl font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
-
-                        <!-- Arrow icon -->
-                        <svg xmlns="http://www.w3.org/2000/svg"
-                            class="w-5 h-5 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1"
-                            fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                        </svg>
-
-                        <!-- Button text -->
-                        <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                    <a href="#">
+                        <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
+                       hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                             Know More
-                        </span>
-
-                        <!-- Green background on hover -->
-                        <span
-                            class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                        </button>
                     </a>
                 </div>
             </div>
@@ -935,24 +837,17 @@
                     </p>
 
 
-                    <a href="#"
-                        class="group relative inline-flex items-center mt-10 px-6 py-2  text-lg font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
-
-
-
-                        <!-- Button text -->
-                        <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                    <a href="#">
+                        <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
+                       hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                             Visit
-                        </span>
-                        <!-- Arrow icon -->
-                        <span
-                            class="ml-2 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1 text-lg font-bold">
-                            &gt;
-                        </span>
+                            <span
+                                class="ml-2  relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1 text-lg font-bold">
+                                &gt;
+                            </span>
+                        </button>
 
-                        <!-- Green background on hover -->
-                        <span
-                            class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+
                     </a>
 
                     <h3 class="text-base font-semibold mb-4 mt-5">Modules</h3>
@@ -1018,7 +913,7 @@
                     <h3 class="text-base font-semibold mb-4 mt-5">Modules</h3>
                     <p class="text-gray-950 text-base"><span class="text-blue-950">Student</span>Administration</p>
                     <!-- <p class="text-gray-950 text-lg">Fee Management</p>
-                <p class="text-gray-950 text-lg">Attendance Management</p> -->
+                    <p class="text-gray-950 text-lg">Attendance Management</p> -->
                     <p class="text-gray-950 text-base"><span class="text-blue-950">Smart </span> Attendance</p>
                     <p class="text-gray-950 text-base"><span class="text-blue-950">Exam </span> and <span
                             class="text-gray-950">Report Card </span> Management</p>
@@ -1281,6 +1176,240 @@
     </div>
 </div>
 
+<section class="insights">
+    <div class="insights__inner">
+        <!-- Left intro -->
+        <div class="insights__intro">
+            <h2>Tech Spotlight</h2>
+            <p>Ideas and research that drive innovation and create transformative experiences</p>
+        </div>
+
+        <!-- Cards -->
+        <div class="insights__grid">
+            <!-- Card 1 -->
+            <article class="card">
+                <div class="card__img">
+                    <img src="#" alt="">
+                </div>
+                <p class="card__kicker">Blog</p>
+                <h3 class="card__title">
+                    Important of <br>ERP for Enterprises <br>in Guwahati and <br>Beyond
+                </h3>
+
+                <!-- Hello™ -->
+
+                <a href="#" class="card__cta">
+                    <span>Learn More</span>
+                    <!-- <span class="cta__icon" aria-hidden="true">
+                        arrow-in-circle
+                        <svg viewBox="0 0 44 44" width="44" height="44">
+                            <circle cx="22" cy="22" r="21" fill="#1e1b4b"></circle>
+                            <path d="M19 14l8 8-8 8" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                            <path d="M27 22H12" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" />
+                        </svg>
+                    </span> -->
+                </a>
+            </article>
+
+            <!-- Card 2 -->
+            <article class="card">
+                <div class="card__img">
+                    <img src="#" alt="">
+                </div>
+                <p class="card__kicker">Case Study</p>
+                <h3 class="card__title">
+                Implementing <br>ERP Software <br>for Heritage <br>Public School, <br>Guwahati.
+                </h3>
+                <a href="#" class="card__cta">
+                    <span>Learn More</span>
+                    <!-- <span class="cta__icon" aria-hidden="true">
+                        <svg viewBox="0 0 44 44" width="44" height="44">
+                            <circle cx="22" cy="22" r="21" fill="#1e1b4b"></circle>
+                            <path d="M19 14l8 8-8 8" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                            <path d="M27 22H12" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" />
+                        </svg>
+                    </span> -->
+                </a>
+            </article>
+
+            <!-- Card 3 -->
+            <article class="card">
+                <div class="card__img">
+                    <img src="#" alt="">
+                </div>
+                <p class="card__kicker">FAQs</p>
+                <h3 class="card__title">
+                Can the ERP system be customized <br>for my business needs?
+                </h3>
+                <a href="#" class="card__cta">
+                    <span>Learn More</span>
+                    <!-- <span class="cta__icon" aria-hidden="true">
+                        <svg viewBox="0 0 44 44" width="44" height="44">
+                            <circle cx="22" cy="22" r="21" fill="#1e1b4b"></circle>
+                            <path d="M19 14l8 8-8 8" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                            <path d="M27 22H12" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" />
+                        </svg>
+                    </span> -->
+                </a>
+            </article>
+
+            <!-- Card 4 -->
+            <article class="card">
+                <div class="card__img">
+                    <img src="#" alt="">
+                </div>
+                <p class="card__kicker">Blog</p>
+                <h3 class="card__title">
+                    Shaping Education with Smart
+                    ERP: Transforming Schools in the
+                    Northeast
+                </h3>
+                <a href="#" class="card__cta">
+                    <span>Learn More</span>
+                    <!-- <span class="cta__icon" aria-hidden="true">
+                        <svg viewBox="0 0 44 44" width="44" height="44">
+                            <circle cx="22" cy="22" r="21" fill="#1e1b4b"></circle>
+                            <path d="M19 14l8 8-8 8" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                            <path d="M27 22H12" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" />
+                        </svg>
+                    </span> -->
+                </a>
+            </article>
+        </div>
+    </div>
+</section>
+
+<style>
+    :root {
+        --ink: #0b1f2a;
+        --muted: #5d6b78;
+        --bg: #ffffff;
+        --teal: #19d3c5;
+        --card-bg: #fff;
+    }
+
+    * {
+        box-sizing: border-box
+    }
+
+    .insights {
+        background: var(--bg);
+        padding: 56px 20px;
+        color: var(--ink);
+        font-family: system-ui, -apple-system, Segoe UI, Roboto, Inter, Arial, sans-serif;
+    }
+
+    .insights__inner {
+        max-width: 1200px;
+        margin: 0 auto;
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 40px;
+    }
+
+    @media (min-width: 992px) {
+        .insights__inner {
+            grid-template-columns: 320px 1fr;
+            align-items: start;
+        }
+    }
+
+    .insights__intro h2 {
+        font-size: 40px;
+        line-height: 1.1;
+        margin: 0 0 12px;
+        /* font-weight:700; */
+        letter-spacing: .2px;
+    }
+
+    .insights__intro p {
+        color: var(--muted);
+        line-height: 1.6;
+        max-width: 26ch;
+        font-size: 20px;
+    }
+
+    .insights__grid {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 32px;
+    }
+
+    @media (min-width: 700px) {
+        .insights__grid {
+            grid-template-columns: repeat(2, 1fr);
+        }
+    }
+
+    @media (min-width: 1100px) {
+        .insights__grid {
+            grid-template-columns: repeat(4, 1fr);
+        }
+    }
+
+    .card {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .card__img {
+        border-radius: 22px;
+        overflow: hidden;
+        aspect-ratio: 4 / 3;
+    }
+
+    .card__img img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+        transform: scale(1);
+        transition: transform .35s ease;
+    }
+
+    .card:hover .card__img img {
+        transform: scale(1.04);
+    }
+
+    .card__kicker {
+        margin: 10px 0 0;
+        color: var(--muted);
+        font-weight: 600;
+        font-size: 14px;
+    }
+
+    .card__title {
+        margin: 0;
+        font-size: 22px;
+        line-height: 1.25;
+        /* font-weight:750; */
+        letter-spacing: .2px;
+    }
+
+    .card__cta {
+        margin-top: 6px;
+        display: inline-flex;
+        align-items: center;
+        gap: 12px;
+        text-decoration: none;
+        color: var(--ink);
+        font-weight: 700;
+    }
+
+    .card__cta .cta__icon {
+        display: inline-flex;
+    }
+
+    .card__cta:hover .cta__icon {
+        transform: translateX(4px);
+        transition: transform .25s ease;
+    }
+</style>
 
 
 
