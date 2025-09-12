@@ -28,7 +28,7 @@
             </p>
 
             <!-- CTA Button -->
-            <a href="solutions.php"
+            <a href="#"
                 class="inline-block mt-10 px-8 py-3 text-base font-semibold text-blue-950 bg-white rounded-lg shadow-md border border-gray-200 hover:bg-blue-950 hover:text-white hover:shadow-xl hover:shadow-blue-300/30 transition-all duration-300 transform hover:scale-105">
                 Learn More
             </a>
@@ -200,7 +200,7 @@
 
     <!-- CTA Button -->
     <div class="text-center mt-10">
-        <a href="about-us.php" class="bg-blue-950 text-white px-8 py-3 rounded-full shadow-lg 
+        <a href="#" class="bg-blue-950 text-white px-8 py-3 rounded-full shadow-lg 
               hover:scale-105 hover:bg-blue-900 transition-transform duration-300 inline-block">
             Learn More
         </a>
@@ -1189,7 +1189,7 @@
             <!-- Card 1 -->
             <article class="card">
                 <div class="card__img">
-                    <img src="#" alt="">
+                    <img src="assets/images/blogs-new/1.jpg" alt="">
                 </div>
                 <p class="card__kicker">Blog</p>
                 <h3 class="card__title">
@@ -1215,11 +1215,11 @@
             <!-- Card 2 -->
             <article class="card">
                 <div class="card__img">
-                    <img src="#" alt="">
+                    <img src="assets/images/blogs-new/2.jpg" alt="">
                 </div>
                 <p class="card__kicker">Case Study</p>
                 <h3 class="card__title">
-                Implementing <br>ERP Software <br>for Heritage <br>Public School, <br>Guwahati.
+                    Implementing <br>ERP Software <br>for Heritage <br>Public School, <br>Guwahati.
                 </h3>
                 <a href="#" class="card__cta">
                     <span>Learn More</span>
@@ -1237,11 +1237,11 @@
             <!-- Card 3 -->
             <article class="card">
                 <div class="card__img">
-                    <img src="#" alt="">
+                    <img src="assets/images/blogs-new/3.jpg" alt="">
                 </div>
                 <p class="card__kicker">FAQs</p>
                 <h3 class="card__title">
-                Can the ERP system be customized <br>for my business needs?
+                    Can the ERP system be customized <br>for my business needs?
                 </h3>
                 <a href="#" class="card__cta">
                     <span>Learn More</span>
@@ -1259,7 +1259,7 @@
             <!-- Card 4 -->
             <article class="card">
                 <div class="card__img">
-                    <img src="#" alt="">
+                    <img src="assets/images/blogs-new/4.jpg" alt="">
                 </div>
                 <p class="card__kicker">Blog</p>
                 <h3 class="card__title">
@@ -1483,127 +1483,86 @@
 
 <!-- Our Clients -->
 <!-- Our Clients -->
-<div class="bg-white py-12 px-4 md:px-16">
-    <h2 class="text-3xl md:text-4xl font-bold text-center mb-10 text-gray-800">Our Clients</h2>
-
-    <div class="space-y-6 overflow-hidden">
-        <!-- Row 1: Scroll Left to Right -->
-        <div class="whitespace-nowrap flex gap-12 animate-scroll-left">
-            <img src="assets/images/clients/1.jpeg" class="h-16 object-contain" alt="Client 1">
-            <img src="assets/images/clients/2.jpeg" class="h-16 object-contain" alt="Client 2">
-            <img src="assets/images/clients/3.jpeg" class="h-16 object-contain" alt="Client 3">
-            <img src="assets/images/clients/4.jpeg" class="h-16 object-contain" alt="Client 4">
-            <img src="assets/images/clients/5.jpeg" class="h-16 object-contain" alt="Client 5">
-
-            <!-- Repeat as needed -->
-            <img src="assets/images/clients/6.jpeg" class="h-16 object-contain" alt="Client 1">
-            <img src="assets/images/clients/7.jpeg" class="h-16 object-contain" alt="Client 2">
-            <img src="assets/images/clients/8.jpeg" class="h-16 object-contain" alt="Client 3">
-            <img src="assets/images/clients/9.jpeg" class="h-16 object-contain" alt="Client 4">
-            <img src="assets/images/clients/10.jpeg" class="h-16 object-contain" alt="Client 5">
-            <img src="assets/images/clients/11.jpeg" class="h-16 object-contain" alt="Client 1">
-            <img src="assets/images/clients/12.jpeg" class="h-16 object-contain" alt="Client 2">
-            <img src="assets/images/clients/13.jpeg" class="h-16 object-contain" alt="Client 3">
-            <img src="assets/images/clients/14.jpeg" class="h-16 object-contain" alt="Client 4">
-            <img src="assets/images/clients/15.jpeg" class="h-16 object-contain" alt="Client 5">
-
-            <img src="assets/images/clients/16.jpeg" class="h-16 object-contain" alt="Client 1">
-            <img src="assets/images/clients/17.jpeg" class="h-16 object-contain" alt="Client 2">
-            <img src="assets/images/clients/18.jpeg" class="h-16 object-contain" alt="Client 3">
-            <img src="assets/images/clients/19.jpeg" class="h-16 object-contain" alt="Client 4">
-            <img src="assets/images/clients/20.jpeg" class="h-16 object-contain" alt="Client 5">
-            <img src="assets/images/clients/21.jpeg" class="h-16 object-contain" alt="Client 1">
-            <img src="assets/images/clients/22.jpeg" class="h-16 object-contain" alt="Client 2">
-            <img src="assets/images/clients/23.jpeg" class="h-16 object-contain" alt="Client 3">
-            <img src="assets/images/clients/24.jpeg" class="h-16 object-contain" alt="Client 4">
-            <img src="assets/images/clients/25.jpeg" class="h-16 object-contain" alt="Client 5">
-            <img src="assets/images/clients/26.jpeg" class="h-16 object-contain" alt="Client 5">
-            <img src="assets/images/clients/27.jpeg" class="h-16 object-contain" alt="Client 5">
-            <img src="assets/images/clients/28.jpeg" class="h-16 object-contain" alt="Client 5">
-
-            <img src="assets/images/clients/29.jpeg" class="h-16 object-contain" alt="Client 5">
-
-            <img src="assets/images/clients/30.jpeg" class="h-16 object-contain" alt="Client 5">
-            <!-- <img src="assets/images/clients/31.jpeg" class="h-16 object-contain" alt="Client 5">
-
-      <img src="assets/images/clients/32.jpeg" class="h-16 object-contain" alt="Client 5">
-      <img src="assets/images/clients/33.jpeg" class="h-16 object-contain" alt="Client 5">
-      <img src="assets/images/clients/34.jpeg" class="h-16 object-contain" alt="Client 5">
-      <img src="assets/images/clients/35.jpeg" class="h-16 object-contain" alt="Client 5">
-      <img src="assets/images/clients/26.jpeg" class="h-16 object-contain" alt="Client 5">
-      <img src="assets/images/clients/.jpeg" class="h-16 object-contain" alt="Client 5"> -->
-
-
-
-
-
-
-
-
-
-
-
-
-
+<div id="clientsSection" class="mx-auto py-12 bg-[#012736]">
+    <h2 class="text-2xl md:text-4xl font-bold text-center text-white mb-8">Our Clients</h2>
+    <div class="relative">
+        <div id="clientsSlider" class="flex space-x-6 md:space-x-12 px-4 md:px-16 py-4 transition-all duration-300"
+            style="overflow: hidden; position: relative;">
+            <style>
+                #clientsSlider::-webkit-scrollbar {
+                    display: none;
+                }
+            </style>
+            <?php
+            $clientsDir = __DIR__ . '/assets/images/clients';
+            $clientImages = [];
+            if (is_dir($clientsDir)) {
+                $allowedExts = ['png', 'jpg', 'jpeg', 'webp', 'svg', 'gif'];
+                $files = scandir($clientsDir);
+                foreach ($files as $file) {
+                    if ($file === '.' || $file === '..')
+                        continue;
+                    $ext = strtolower(pathinfo($file, PATHINFO_EXTENSION));
+                    if (in_array($ext, $allowedExts)) {
+                        $clientImages[] = $file;
+                    }
+                }
+                sort($clientImages, SORT_NATURAL | SORT_FLAG_CASE);
+            }
+            if (count($clientImages) > 0):
+                foreach ($clientImages as $idx => $img):
+                    $alt = 'Client ' . ($idx + 1);
+                    ?>
+                    <div
+                        class="flex-shrink-0 flex items-center justify-center w-44 h-28 md:w-60 md:h-36 bg-gray-50 rounded-lg shadow hover:scale-105 transition client-logo-slide">
+                        <img src="assets/images/clients/<?php echo htmlspecialchars($img); ?>"
+                            alt="<?php echo htmlspecialchars($alt); ?>" class="max-h-24 max-w-[90%] mx-auto object-contain"
+                            loading="lazy">
+                    </div>
+                    <?php
+                endforeach;
+            else:
+                ?>
+                <div class="text-gray-400 text-center w-full">No client logos found.</div>
+            <?php endif; ?>
         </div>
-
-        <!-- Row 2: Scroll Right to Left -->
-        <!-- <div class="whitespace-nowrap flex gap-12 animate-scroll-right">
-      <img src="assets/images/clients/images.jpg" class="h-16 object-contain" alt="Client 6">
-      <img src="assets/images/clients/images.jpg" class="h-16 object-contain" alt="Client 7">
-      <img src="assets/images/clients/images.jpg" class="h-16 object-contain" alt="Client 8">
-      <img src="assets/images/clients/images.jpg" class="h-16 object-contain" alt="Client 9">
-      <img src="assets/images/clients/images.jpg" class="h-16 object-contain" alt="Client 10">
-
-      <img src="assets/images/clients/images.jpg" class="h-16 object-contain" alt="Client 6">
-      <img src="assets/images/clients/images.jpg" class="h-16 object-contain" alt="Client 7">
-      <img src="assets/images/clients/images.jpg" class="h-16 object-contain" alt="Client 8">
-      <img src="assets/images/clients/images.jpg" class="h-16 object-contain" alt="Client 9">
-      <img src="assets/images/clients/images.jpg" class="h-16 object-contain" alt="Client 10">
-
-      <img src="assets/images/clients/images.jpg" class="h-16 object-contain" alt="Client 1">
-      <img src="assets/images/clients/images.jpg" class="h-16 object-contain" alt="Client 2">
-      <img src="assets/images/clients/images.jpg" class="h-16 object-contain" alt="Client 3">
-      <img src="assets/images/clients/images.jpg" class="h-16 object-contain" alt="Client 4">
-      <img src="assets/images/clients/images.jpg" class="h-16 object-contain" alt="Client 5">
-
-      
-    </div> -->
     </div>
 </div>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const slider = document.getElementById('clientsSlider');
+        const slides = slider ? slider.querySelectorAll('.client-logo-slide') : [];
+        if (!slider || slides.length === 0) return;
 
+        slides.forEach(slide => {
+            const clone = slide.cloneNode(true);
+            slider.appendChild(clone);
+        });
 
+        let scrollSpeed = 1;
+        let isHovered = false;
 
+        function animate() {
+            if (!isHovered) {
+                slider.scrollLeft += scrollSpeed;
 
-<style>
-    @keyframes scroll-left {
-        0% {
-            transform: translateX(0%);
+                if (slider.scrollLeft >= slider.scrollWidth / 2) {
+                    slider.scrollLeft = 0;
+                }
+            }
+            requestAnimationFrame(animate);
         }
 
-        100% {
-            transform: translateX(-200%);
-        }
-    }
+        slider.addEventListener('mouseenter', () => {
+            isHovered = true;
+        });
+        slider.addEventListener('mouseleave', () => {
+            isHovered = false;
+        });
 
-    @keyframes scroll-right {
-        0% {
-            transform: translateX(0%);
-        }
-
-        100% {
-            transform: translateX(50%);
-        }
-    }
-
-    .animate-scroll-left {
-        animation: scroll-left 50s linear infinite;
-    }
-
-    .animate-scroll-right {
-        animation: scroll-right 50s linear infinite;
-    }
-</style>
+        animate();
+    });
+</script>
 
 
 

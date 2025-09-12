@@ -1,9 +1,9 @@
-<?php include('master/sub-header.php') ?>
+<?php include('master/header.php') ?>
 
 <div class="container mx-auto my-24 md:my-32 px-4 md:px-0">
 
     <div class="md:flex">
-        <div class="w-full md:w-1/2 bg-gradient-to-tl from-cyan-400 to-blue-500 to-blue-700 rounded-lg">
+        <div class="w-full md:w-1/2 bg-gradient-to-tl from-indigo-950 to-indigo-950 to-indigo-950 rounded-lg">
             <div class="p-8 border-b-2 border-dashed">
                 <div class="flex items-start">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6 mr-6 text-white">
@@ -62,7 +62,7 @@
         </div>
 
         <div class="w-full md:w-1/2 md:pl-12 my-8 md:my-0">
-            <h2 class="text-3xl font-semibold text-blue-950 mb-6 text-center">Drop Your Message Here</h2>
+            <h2 class="text-3xl text-blue-950 mb-6 text-center">Drop Your Message Here</h2>
             <form id="eForm" class="space-y-6">
 
                 <div class="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4 pt-4">
@@ -94,13 +94,13 @@
                         <option value="" disabled selected>Select a product</option>
                         <option value="Desalite Connect">Desalite Connect</option>
                         <option value="Ednect">Ednect</option>
-                        <option value="Collegiate">Collegiate</option>
+                        <!-- <option value="Collegiate">Collegiate</option> -->
                         <option value="TransTrack">TransTrack</option>
                         <option value="icebox">Icebox</option>
-                        <option value="Vasp958">Vasp958</option>
-                        <option value="FinVasp">FinVasp</option>
+                        <!-- <option value="Vasp958">Vasp958</option> -->
+                        <!-- <option value="FinVasp">FinVasp</option>
                         <option value="VaspLibrary">VaspLibrary</option>
-                        <option value="VaspHR">VaspHR</option>
+                        <option value="VaspHR">VaspHR</option> -->
                     </select>
                 </div>
 

@@ -1,4 +1,4 @@
-<?php include('master/sub-header.php') ?>
+<?php include('master/header.php') ?>
 
 <div id="hero" class="h-full">
     <div

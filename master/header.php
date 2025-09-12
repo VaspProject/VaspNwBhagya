@@ -4,9 +4,15 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Vasp Technologies</title>
-  <!--<meta name="description" content="Looking for the best software company? Vasp Technologies specialises in smart ERP solutions and web development dedicated to driving your business success.">-->
-  <!--<meta name="keywords" content="Software Comapny, Best software company, IT company, software companies in guwahati, software companies in India, software development company, Best ERP, Payroll Service Software, Best CRM software for small business, Custom software development, Best accounting software for multiple businesses, Top IT software companies, List of top software companies, ERP solutions company, Smart ERP solutions, ERP service provider, web development company, ERP solutions, Technology Solutions, IT service and solutions, IT service offerings, IT operations">-->
+  <meta name="google-site-verification" content="p6RH5rGYryzfFHZhudLgyVq3lelYxXvKiOkST3Uf7A0" />
+  <title>Vasp Technologies - Digital solutions in Guwahati. ERP, Software, Website & Mobile.</title>
+
+
+  <meta name="description"
+    content="Find your IT Services in Guwahati  · Take Vasp Technologies along with you, always. Facing  digital challenges?We have got the best ERP solutions in Guwahati, Assam for you. As a leading Software company in Guwahati we also help businesses with custom Software solution. Develop and Design your website with Vasp Technologies for better online presence. We are also known as best Mobile App development Company in Guwahati">
+
+  <meta name="keywords"
+    content="Software Comapny, Best software company, IT company, software companies in guwahati, software companies in India, software development company, Best ERP, Payroll Service Software, Best CRM software for small business, Custom software development, Best accounting software for multiple businesses, Top IT software companies, List of top software companies, ERP solutions company, Smart ERP solutions, ERP service provider, web development company, ERP solutions, Technology Solutions, IT service and solutions, IT service offerings, IT operations">
 
   <link rel="shortcut icon" href="assets/images/favicon.ico">
 
@@ -67,25 +73,25 @@
             </li>
 
             <li class="border-b border-gray-200">
-              <a href="team.php"
+              <a href="our-portfolio.php"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">
                 Our Portfolio
               </a>
             </li>
 
             <li class="border-b border-gray-200">
-              <a href="history.php"
+              <a href="tech-spotlight.php"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">
-                News
+                Tech Spotlight
               </a>
             </li>
 
-            <li>
-              <a href="faq.php"
+            <!-- <li>
+              <a href="#"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">
                 FAQ
               </a>
-            </li>
+            </li> -->
           </ul>
         </li>
 
@@ -106,15 +112,15 @@
             <li class="border-b border-gray-200"><a href="#"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Entripse
                 Resource Planning</a></li>
-            <li class="border-b border-gray-200"><a href="team.php"
-                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Transport
-                Management Software</a></li>
-            <li class="border-b border-gray-200"><a href="history.php"
-                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Retail
-                Management Software</a></li>
-            <li><a href="history.php"
-                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Supply
-                Chain Management</a></li>
+            <li class="border-b border-gray-200"><a href="#"
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Website Development</a></li>
+            <li class="border-b border-gray-200"><a href="#"
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Mobile apps Development</a></li>
+            <li><a href="#"
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Custom Software</a></li>
+          </ul>
+          <li><a href="#"
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Digital Marketing</a></li>
           </ul>
         </li>
 
@@ -130,37 +136,36 @@
           <!-- Dropdown -->
           <ul
             class="dropdown-menu absolute left-0 mt-2 w-56 bg-white text-gray-800 shadow-lg hidden transform -translate-y-5 opacity-0 transition-all duration-300 ease-in-out border border-gray-200 overflow-hidden">
-            <li class="border-b border-gray-200"><a href="healthcare.php"
+            <li class="border-b border-gray-200"><a href="#"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Education</a>
             </li>
-            <li class="border-b border-gray-200"><a href="finance.php"
+            <li class="border-b border-gray-200"><a href="#"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Logistics</a>
             </li>
             <li class="border-b border-gray-200"><a href="education.php"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">E-Commerce</a>
             </li>
-            <li class="border-b border-gray-200"><a href="education.php"
+            <li class="border-b border-gray-200"><a href="#"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Healthcare</a>
             </li>
-            <li class="border-b border-gray-200"><a href="education.php"
+            <li class="border-b border-gray-200"><a href="#"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Banking</a>
             </li>
-            <li class="border-b border-gray-200"><a href="education.php"
+            <li class="border-b border-gray-200"><a href="#"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Travel
                 & Hospitality</a></li>
-            <li class="border-b border-gray-200"><a href="education.php"
+            <li class="border-b border-gray-200"><a href="#"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Public
                 Sector</a></li>
-            <li><a href="education.php"
+            <li><a href="#"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Real
                 Estate</a></li>
-
           </ul>
         </li>
 
         <!-- PRODUCTS -->
         <li class="relative">
-          <a href="products.php"
+          <a href="#"
             class="dropdown-toggle flex items-center text-white text-lg hover:text-gray-300 font-normal">PRODUCTS
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
               stroke="currentColor" class="w-4 h-4 ml-2 transition-transform duration-300">
@@ -169,16 +174,16 @@
           </a>
           <ul
             class="dropdown-menu absolute left-0 mt-2 w-56 bg-white text-gray-800  shadow-lg hidden transform -translate-y-5 opacity-0 transition-all duration-300 ease-in-out border border-gray-200 overflow-hidden">
-            <li class="border-b border-gray-200"><a href="healthcare.php"
+            <li class="border-b border-gray-200"><a href="#"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Desalite
                 Connect</a></li>
             <li class="border-b border-gray-200"><a href="finance.php"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Ednect</a>
             </li>
-            <li class="border-b border-gray-200"><a href="education.php"
+            <li class="border-b border-gray-200"><a href="#"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">TransTrack</a>
             </li>
-            <li><a href="education.php"
+            <li><a href="#"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">IceBox</a>
             </li>
 
@@ -188,7 +193,7 @@
 
         <!-- CAREER -->
         <li>
-          <a href="career.php" class="text-white text-lg hover:text-gray-300 font-normal">CAREER</a>
+          <a href="#" class="text-white text-lg hover:text-gray-300 font-normal">CAREER</a>
         </li>
 
         <!-- CONTACT -->

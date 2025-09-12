@@ -5,7 +5,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Vasp Technologies</title>
-  <!--<meta name="description" content="Looking for the best software company? Vasp Technologies specialises in smart ERP solutions and web development dedicated to driving your business success.">-->
+  
+  <meta name="description" content="Find your IT Services in Guwahati  · Take Vasp Technologies along with you, always · Facing  digital challenges? ·  We have got the best ERP solutions in Guwahati, Assam for you · As a leading Software company in Guwahati we also help businesses with custom Software solution · Develop and Design your website with Vasp Technologies for better online presence · We are also known as best Mobile App development Company in Guwahati ·">
   <!--<meta name="keywords" content="Software Comapny, Best software company, IT company, software companies in guwahati, software companies in India, software development company, Best ERP, Payroll Service Software, Best CRM software for small business, Custom software development, Best accounting software for multiple businesses, Top IT software companies, List of top software companies, ERP solutions company, Smart ERP solutions, ERP service provider, web development company, ERP solutions, Technology Solutions, IT service and solutions, IT service offerings, IT operations">-->
 
   <link rel="shortcut icon" href="assets/images/favicon.ico">
