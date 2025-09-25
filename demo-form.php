@@ -3,7 +3,7 @@
 <div class="mx-auto mt-16 mb-4 mt-[80px] md:mt-[75px] md:mb-1 flex flex-col items-center space-y-4 px-4 md:px-0 md:space-y-4">
     <div class="bg-white flex flex-col md:flex-row overflow-hidden">
         <!-- Left Column -->
-        <div class="md:w-1/2 px-8 py-8 md:px-24 md:py-16 bg-gradient-to-tl from-cyan-400 to-blue-500 to-blue-700 text-white flex flex-col items-center justify-center text-left">
+        <div class="md:w-1/2 px-8 py-8 md:px-24 md:py-16 bg-gradient-to-tl from-indigo-950 to-indigo-950 to-indigo-950 text-white flex flex-col items-center justify-center text-left">
             <h1 class="text-3xl md:text-4xl font-bold mb-6">Got a project in mind? We are right here to help you!</h1>
             <p class="text-lg mb-6">Let’s collaborate to elevate your business to new heights. Together, we can craft a masterpiece that reflects your vision and ambition. Reach out to us, and let our innovative approaches help you amplify your ideas and achieve remarkable success.</p>
         </div>
@@ -11,7 +11,7 @@
         <!-- Right Column -->
         <div class="md:w-1/2 py-4 px-4 md:py-[70px] md:px-16">
             <div class="mb-8 pt-6 md:pt-0">
-                <h1 class="text-3xl md:text-4xl font-bold text-sky-600 mb-4">Request a Demo</h1>
+                <h1 class="text-3xl md:text-4xl text-sky-600 mb-4">Request a Demo</h1>
             </div>
             <form id="demoForm" class="space-y-4">
                 <div class="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4">
@@ -35,13 +35,13 @@
                             <option value="">Select</option>
                             <option value="Desalite Connect">Desalite Connect</option>
                             <option value="Ednect">Ednect</option>
-                            <option value="Collegiate">Collegiate</option>
+                            <!-- <option value="Collegiate">Collegiate</option> -->
                             <option value="TransTrack">TransTrack</option>
                             <option value="icebox">Icebox</option>
-                            <option value="Vasp958">Vasp958</option>
+                            <!-- <option value="Vasp958">Vasp958</option>
                             <option value="FinVasp">FinVasp</option>
                             <option value="VaspLibrary">VaspLibrary</option>
-                            <option value="VaspHR">VaspHR</option>
+                            <option value="VaspHR">VaspHR</option> -->
                         </select>
                     </div>
                 </div>

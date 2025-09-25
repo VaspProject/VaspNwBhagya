@@ -68,36 +68,48 @@
             <li class="border-b border-gray-200">
               <a href="about-us.php"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">
-                Our Profile
+                About us
               </a>
             </li>
 
             <li class="border-b border-gray-200">
               <a href="our-portfolio.php"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">
-                Our Portfolio
+                How we work?
               </a>
             </li>
 
             <li class="border-b border-gray-200">
               <a href="tech-spotlight.php"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">
-                Tech Spotlight
+                Why Vasp
               </a>
             </li>
 
-            <!-- <li>
+            <li class="border-b border-gray-200">
               <a href="#"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">
-                FAQ
+                Career With Us
               </a>
-            </li> -->
+            </li>
+            <li class="border-b border-gray-200">
+              <a href="#"
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">
+                Request a Quote
+              </a>
+            </li>
+            <li class="border-b border-gray-200">
+              <a href="#"
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">
+                Testimonials
+              </a>
+            </li>
           </ul>
         </li>
 
         <!-- SOLUTIONS -->
         <li class="relative">
-          <button class="dropdown-toggle flex items-center text-white text-lg hover:text-gray-300 font-normal">SOLUTIONS
+          <button class="dropdown-toggle flex items-center text-white text-lg hover:text-gray-300 font-normal">SERVICES
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
               stroke="currentColor" class="w-4 h-4 ml-2 transition-transform duration-300">
               <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
@@ -116,11 +128,11 @@
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Website Development</a></li>
             <li class="border-b border-gray-200"><a href="#"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Mobile apps Development</a></li>
-            <li><a href="#"
+            <li class="border-b border-gray-200"><a href="#"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Custom Software</a></li>
-          </ul>
-          <li><a href="#"
-                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Digital Marketing</a></li>
+          
+          <li class="border-b border-gray-200"><a href="#"
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Digital Marketing & Branding</a></li>
           </ul>
         </li>
 
@@ -193,7 +205,7 @@
 
         <!-- CAREER -->
         <li>
-          <a href="#" class="text-white text-lg hover:text-gray-300 font-normal">CAREER</a>
+          <a href="insights.php" class="text-white text-lg hover:text-gray-300 font-normal">INSIGHTS</a>
         </li>
 
         <!-- CONTACT -->
