@@ -6,7 +6,7 @@
     } */
 
   .blog-section {
-    padding: 60px 20px;
+    /* padding: 60px 20px; */
     text-align: center;
   }
 
@@ -90,11 +90,11 @@
   }
 
   .category-item {
-    font-size: 14px;
-    font-weight: 500;
+    font-size: 19px;
+    font-weight: 400;
     padding: 6px 14px;
     border-radius: 3px;
-    color: #222;
+    color: black;
     text-decoration: none;
     display: inline-flex;
     align-items: center;
@@ -120,7 +120,7 @@
   .search-box input {
     height: 48px;
     width: 94%;
-    /* border-radius: 8px 0 0 8px; */
+    border-radius: 8px 0 0 8px;
     border: 1px solid #ddd;
     box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.08);
   }
@@ -136,6 +136,18 @@
 
   .search-box button:hover {
     background: #1f96b3;
+  }
+
+
+
+  .search-box .form-control {
+    border-radius: 30px;
+
+  }
+
+  .search-box i {
+    pointer-events: none;
+
   }
 </style>
 
@@ -205,11 +217,20 @@
     </div>
 
     <div class="d-flex justify-content-center">
-      <form class="d-flex search-box">
-        <input class="form-control" type="search" placeholder="Search..." aria-label="Search">
-        <button class="btn" type="submit"><i class="fa fa-search"></i></button>
+      <form class="search-box">
+        <div class="position-relative w-50"> <!-- adjust width -->
+          <!-- Icon inside the input -->
+          <i class="fa fa-search position-absolute top-50 start-0 translate-middle-y ms-3 text-muted" style="position: relative; top: 37px;"></i>
+
+          <!-- Input box -->
+          <input class="form-control ps-5 rounded-pill" type="search" placeholder="  Search..." aria-label="Search">
+        </div>
       </form>
     </div>
+
+
+
+
   </div>
 </div>
 
@@ -217,9 +238,9 @@
 
 <div id="blogs">
   <!-- class="bg-gradient-to-br from-[#290a33] via-[#4a0f3c] to-[#931c50]" -->
-  <div class="py-12 px-4 md:px-16 ">
+  <div class="py-12 px-4 md:px-16" style="padding-top: 0rem;">
     <div>
-      <h1 class="text-black text-left text-3xl md:text-6xl mb-6">Blogs</h1>
+      <h1 class="text-black text-center text-3xl md:text-6xl mb-6">Blogs</h1>
       <p class="text-black text-md md:text-lg mt-4">
         Read our blogs for insights on ERP solutions, web development, mobile app trends, and SEO strategies
         that help businesses in Guwahati and Northeast India grow online.
@@ -337,8 +358,8 @@
   </div>
 </div>
 
-<section class="blog-section">
-  <h2 class="blog-title"> Case Studies</h2>
+<section class="blog-section py-12 px-4 md:px-16">
+  <h2 class="blog-title text-black text-center text-3xl md:text-6xl mb-6"> Case Studies</h2>
   <div class="container-fluid">
     <div class="blog-row">
 
@@ -376,8 +397,8 @@
   </div>
 </section>
 
-<section class="blog-section">
-  <h2 class="blog-title">FAQ</h2>
+<section class="blog-section py-12 px-4 md:px-16">
+  <h2 class="blog-title text-black text-center text-3xl md:text-6xl mb-6">FAQ</h2>
   <div class="container-fluid">
     <div class="blog-row">
 

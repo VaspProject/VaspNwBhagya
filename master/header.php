@@ -93,13 +93,13 @@
               </a>
             </li>
             <li class="border-b border-gray-200">
-              <a href="#"
+              <a href="quote-form.php"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">
                 Request a Quote
               </a>
             </li>
             <li class="border-b border-gray-200">
-              <a href="#"
+              <a href="testimonials.php"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">
                 Testimonials
               </a>

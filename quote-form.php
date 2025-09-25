@@ -11,7 +11,7 @@
         <!-- Right Column -->
         <div class="md:w-1/2 py-4 px-4 md:py-[70px] md:px-16">
             <div class="mb-8 pt-6 md:pt-0">
-                <h1 class="text-3xl md:text-4xl text-indigo-950 mb-4">Request a Demo</h1>
+                <h1 class="text-3xl md:text-4xl text-indigo-950 mb-4">Request a Quote</h1>
             </div>
             <form id="demoForm" class="space-y-4">
                 <div class="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4">
