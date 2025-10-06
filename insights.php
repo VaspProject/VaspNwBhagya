@@ -181,7 +181,7 @@
             </h1>
         </div> -->
     <div class="absolute inset-0 flex items-center justify-center z-10">
-      <h1 class="text-6xl md:text-8xl text-white">Insights</h1>
+      <h1 class="text-6xl md:text-8xl text-white" style="font-weight:200;">Insights</h1>
     </div>
     <div class="absolute bottom-8 w-full flex justify-center z-10">
 
@@ -240,7 +240,7 @@
   <!-- class="bg-gradient-to-br from-[#290a33] via-[#4a0f3c] to-[#931c50]" -->
   <div class="py-12 px-4 md:px-16" style="padding-top: 0rem;">
     <div>
-      <h1 class="text-black text-center text-3xl md:text-6xl mb-6">Blogs</h1>
+      <h1 class="text-black text-center text-3xl md:text-6xl mb-6" style="font-weight:300;">Blogs</h1>
       <p class="text-black text-md md:text-lg mt-4">
         Read our blogs for insights on ERP solutions, web development, mobile app trends, and SEO strategies
         that help businesses in Guwahati and Northeast India grow online.
@@ -358,12 +358,12 @@
   </div>
 </div>
 
-<section class="blog-section py-12 px-4 md:px-16">
+<!-- <section class="blog-section py-12 px-4 md:px-16">
   <h2 class="blog-title text-black text-center text-3xl md:text-6xl mb-6"> Case Studies</h2>
   <div class="container-fluid">
     <div class="blog-row">
 
-      <!-- Blog 1 -->
+     
       <div class="card blog-card">
         <img src="https://source.unsplash.com/600x400/?technology" class="card-img-top" alt="Blog 1">
         <div class="card-body">
@@ -373,7 +373,7 @@
         </div>
       </div>
 
-      <!-- Blog 2 -->
+     
       <div class="card blog-card">
         <img src="https://source.unsplash.com/600x400/?business" class="card-img-top" alt="Blog 2">
         <div class="card-body">
@@ -383,7 +383,7 @@
         </div>
       </div>
 
-      <!-- Blog 3 -->
+      
       <div class="card blog-card">
         <img src="https://source.unsplash.com/600x400/?travel" class="card-img-top" alt="Blog 3">
         <div class="card-body">
@@ -402,7 +402,7 @@
   <div class="container-fluid">
     <div class="blog-row">
 
-      <!-- Blog 1 -->
+      
       <div class="card blog-card">
         <img src="https://source.unsplash.com/600x400/?technology" class="card-img-top" alt="Blog 1">
         <div class="card-body">
@@ -412,7 +412,7 @@
         </div>
       </div>
 
-      <!-- Blog 2 -->
+     
       <div class="card blog-card">
         <img src="https://source.unsplash.com/600x400/?business" class="card-img-top" alt="Blog 2">
         <div class="card-body">
@@ -422,7 +422,7 @@
         </div>
       </div>
 
-      <!-- Blog 3 -->
+      
       <div class="card blog-card">
         <img src="https://source.unsplash.com/600x400/?travel" class="card-img-top" alt="Blog 3">
         <div class="card-body">
@@ -434,7 +434,7 @@
 
     </div>
   </div>
-</section>
+</section> -->
 
 
 <!-- call to action button -->

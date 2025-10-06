@@ -229,7 +229,7 @@
                     innovative AI solutions to transform your
                     business, <br>pushing boundaries to deliver measurable impact and value.</p>
 
-                <a href="#">
+                <a href="ai-learn-more.php">
                     <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
                        hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                         Learn More
@@ -284,7 +284,7 @@
                     provide
                     strategic IT Solutions and Software
                     Development to Digitize business, redefine workflow, and give a competitive edge.</p>
-                <a href="#">
+                <a href="digitization.php">
                     <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
                        hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                         Learn More
@@ -305,7 +305,7 @@
                     <br>real-time data for informed decision-making.
                 </p>
 
-                <a href="#">
+                <a href="mis.php">
                     <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
                        hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                         Learn More
@@ -334,7 +334,7 @@
                     strategic Software Development and IT
                     Solutions to
                     digitize your business and redefine your workflow.</p>
-                <a href="#">
+                <a href="custom-software-development.php">
                     <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
                        hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                         Learn More
@@ -353,7 +353,7 @@
                     optimize your entire business with a robust
                     ERP
                     solution that delivers unparalleled efficiency and reliability.</p>
-                <a href="#">
+                <a href="erp-solutions.php" target="_blank">
                     <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
                        hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                         Learn More
@@ -382,7 +382,7 @@
                     expertise to transform your next big idea.
                     Our
                     dedicated app developers are ready to help you grow.</p>
-                <a href="#">
+                <a href="mobile-development.php" target="_blank">
                     <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
                        hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                         Learn More
@@ -403,7 +403,7 @@
                     expert web
                     development to create websites engineered for business growth.</p>
 
-                <a href="#">
+                <a href="dynamic-web-design.php" target="_blank">
                     <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
                        hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                         Learn More
@@ -522,7 +522,7 @@
                         Management Software, Desalite Connect and Ednect, is a comprehensive enterprise resource
                         planning system crafted as an expert ERP solution to enhance operational efficiency.</p>
 
-                    <a href="#">
+                    <a href="education-new.php">
                         <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
                        hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                             Know More
@@ -546,7 +546,7 @@
                         development
                         services give you the powerful platform you need to succeed.</p>
 
-                    <a href="#">
+                    <a href="ecommerce.php">
                         <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
                        hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                             Know More
@@ -569,7 +569,7 @@
                         Management Software and powerful ERP solution. Through expert Software Development, we help
                         you
                         standardize logistics and optimize operations to gain a competitive edge</p>
-                    <a href="#">
+                    <a href="logistics-new.php">
                         <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
                        hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                             know More
@@ -613,7 +613,7 @@
                         sector. Our comprehensive Enterprise Resource Planning systems are engineered to optimize
                         workflows and address the unique needs of your institution.</p>
 
-                    <a href="#">
+                    <a href="healthcare-new.php">
                         <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
                        hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                             Know More
@@ -636,7 +636,7 @@
                         regulatory compliance, data management, and outdated legacy systems. A sophisticated finance
                         management system is essential to.</p>
 
-                    <a href="#">
+                    <a href="banking-new.php">
                         <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
                        hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                             Know More
@@ -662,7 +662,7 @@
                         visitor
                         experience.</p>
 
-                    <a href="#">
+                    <a href="travel.php">
                         <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
                        hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                             know More
@@ -689,7 +689,7 @@
                         and
                         service delivery.</p>
 
-                    <a href="#">
+                    <a href="public1-sector.php">
                         <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
                        hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                             Know More
@@ -712,7 +712,7 @@
                         solutions for the real estate industry. Our property management software and innovative
                         platforms streamline administrative tasks and optimize property performance.</p>
 
-                    <a href="#">
+                    <a href="real-state.php">
                         <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
                        hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                             know More
@@ -736,7 +736,7 @@
                         industry. Our ERP and management platforms streamline production, optimize supply chains, and
                         enhance operational efficiency.</p>
 
-                    <a href="#">
+                    <a href="manufacture.php">
                         <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
                        hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                             Know More

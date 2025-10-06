@@ -80,14 +80,14 @@
             </li>
 
             <li class="border-b border-gray-200">
-              <a href="tech-spotlight.php"
+              <a href="why-vasp.php"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">
                 Why Vasp
               </a>
             </li>
 
             <li class="border-b border-gray-200">
-              <a href="#"
+              <a href="carrier-with-us.php"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">
                 Career With Us
               </a>
@@ -154,7 +154,7 @@
             <li class="border-b border-gray-200"><a href="#"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Logistics</a>
             </li>
-            <li class="border-b border-gray-200"><a href="education.php"
+            <li class="border-b border-gray-200"><a href="#"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">E-Commerce</a>
             </li>
             <li class="border-b border-gray-200"><a href="#"
@@ -186,16 +186,16 @@
           </a>
           <ul
             class="dropdown-menu absolute left-0 mt-2 w-56 bg-white text-gray-800  shadow-lg hidden transform -translate-y-5 opacity-0 transition-all duration-300 ease-in-out border border-gray-200 overflow-hidden">
-            <li class="border-b border-gray-200"><a href="#"
+            <li class="border-b border-gray-200"><a href="https://www.desaliteconnect.com/"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Desalite
                 Connect</a></li>
-            <li class="border-b border-gray-200"><a href="finance.php"
+            <li class="border-b border-gray-200"><a href="https://www.ednect.com/"  target="_blank"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Ednect</a>
             </li>
-            <li class="border-b border-gray-200"><a href="#"
+            <li class="border-b border-gray-200"><a href="https://thetranstrack.com/" target="_blank"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">TransTrack</a>
             </li>
-            <li><a href="#"
+            <li><a href="https://theicebox.co.in/" target="_blank"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">IceBox</a>
             </li>
 
