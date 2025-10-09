@@ -216,17 +216,17 @@
      -->
     </div>
 
-    <div class="d-flex justify-content-center">
+    <!-- <div class="d-flex justify-content-center">
       <form class="search-box">
-        <div class="position-relative w-50"> <!-- adjust width -->
-          <!-- Icon inside the input -->
+        <div class="position-relative w-50"> 
+          
           <i class="fa fa-search position-absolute top-50 start-0 translate-middle-y ms-3 text-muted" style="position: relative; top: 37px;"></i>
 
-          <!-- Input box -->
+          
           <input class="form-control ps-5 rounded-pill" type="search" placeholder="  Search..." aria-label="Search">
         </div>
       </form>
-    </div>
+    </div> -->
 
 
 

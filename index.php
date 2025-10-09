@@ -1,5 +1,5 @@
 <?php include('master/header.php') ?>
-<?php include('master/bot.php') ?>
+<?php //include('master/bot.php') ?>
 
 <div id="hero" class="owl-carousel hero-slide h-full">
     <!-- Slide 1 -->
@@ -28,7 +28,7 @@
             </p>
 
             <!-- CTA Button -->
-            <a href="#"
+            <a href="#ai-development"
                 class="inline-block mt-10 px-8 py-3 text-base font-semibold text-blue-950 bg-white rounded-lg shadow-md border border-gray-200 hover:bg-blue-950 hover:text-white hover:shadow-xl hover:shadow-blue-300/30 transition-all duration-300 transform hover:scale-105">
                 Learn More
             </a>
@@ -212,7 +212,7 @@
 
 <!-- Content -->
 
-<div class="w-full bg-gray-50 mt-10" style="margin-top:0px;">
+<div id="ai-development" class="w-full bg-gray-50 mt-10" style="margin-top:0px;">
     <div class="container mx-auto px-6 pl-[7.5rem] space-y-16">
         <!-- <h2 class="text-4xl  text-center mb-12 mt-20
     
@@ -837,7 +837,7 @@
                     </p>
 
 
-                    <a href="#">
+                    <a href="https://www.desaliteconnect.com/" target="_blank">
                         <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
                        hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                             Visit
@@ -851,13 +851,11 @@
                     </a>
 
                     <h3 class="text-base font-semibold mb-4 mt-5">Modules</h3>
-                    <p class="text-gray-950 text-base"><span class="text-blue-950">Student</span> Management</p>
+                    <p class="text-gray-950 text-base">Student Management</p>
                     <!-- <p class="text-gray-950 text-lg">Fee Management</p>
                 <p class="text-gray-950 text-lg">Attendance Management</p> -->
-                    <p class="text-gray-950 text-base"><span class="text-blue-950">Exam</span> and <span
-                            class="text-blue-950">Report</span> Management</p>
-                    <p class="text-gray-950 text-base"><span class="text-blue-950">Staff</span> and <span
-                            class="text-gray-950">HR </span>Management</p>
+                    <p class="text-gray-950 text-base">Exam and Report Management</p>
+                    <p class="text-gray-950 text-base">Staff and HR Management</p>
                     <!-- <p class="text-gray-950 text-lg ">Time Table Management</p> -->
 
                 </div>
@@ -890,24 +888,19 @@
                         employees.
                     </p>
 
-                    <a href="#"
-                        class="group relative inline-flex items-center mt-10 px-6 py-2  text-lg font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
-
-
-
-                        <!-- Button text -->
-                        <span class="ml-2 relative z-10 transition-all duration-300 group-hover:text-white">
+                    <a href="https://www.ednect.com/" target="_blank">
+                    <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
+                       hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                             Visit
-                        </span>
-                        <!-- Arrow icon -->
-                        <span
-                            class="ml-2 text-blue-950 relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1 text-lg font-bold">
-                            &gt;
-                        </span>
+                            <span
+                                class="ml-2  relative z-10 transition-all duration-300 group-hover:text-white group-hover:translate-x-1 text-lg font-bold">
+                                &gt;
+                            </span>
+                        </button>
 
                         <!-- Green background on hover -->
-                        <span
-                            class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span>
+                        <!-- <span
+                            class="absolute inset-0 bg-blue-950 scale-x-0 origin-lef opacity-0 rounded-full border border-gray-200 shadow-md group-hover:opacity-100 transition-all duration-300 group-hover:scale-x-100"></span> -->
                     </a>
 
                     <h3 class="text-base font-semibold mb-4 mt-5">Modules</h3>
@@ -937,7 +930,7 @@
                         decision-making in logistics.
                     </p>
 
-                    <a href="#"
+                    <a href="https://thetranstrack.com/" target="_blank"
                         class="group relative inline-flex items-center mt-10 px-6 py-2  text-lg font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
 
 
@@ -993,7 +986,7 @@
                         inventory.
                     </p>
 
-                    <a href="#"
+                    <a href="https://theicebox.co.in/" target="_blank"
                         class="group relative inline-flex items-center mt-10 px-6 py-2  text-lg font-semibold text-blue-950 transition-all duration-300 overflow-hidden">
 
 
@@ -1085,10 +1078,10 @@
                     Take Vasp Technologies as your strategic IT Partner and experience consistent customer support
                     24/7.
                 </p>
-                <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
+                <!-- <button class="bg-blue-950 text-white px-6 py-3 rounded-full shadow-lg 
                        hover:scale-110 hover:bg-blue-950 transition-transform duration-300 mt-5">
                     Learn More
-                </button>
+                </button> -->
             </div>
 
             <!-- Right Image -->

@@ -1,4 +1,4 @@
-<?php include('master/sub-header.php') ?>
+<?php include('master/header.php') ?>
 <div class="container mx-auto my-16 md:my-32 items-center px-8">
     <h1 class="text-blue-950 text-3xl md:text-4xl font-semibold py-2 mb-8 text-center">Privacy Policy</h1>
 

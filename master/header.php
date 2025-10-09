@@ -125,14 +125,18 @@
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Entripse
                 Resource Planning</a></li>
             <li class="border-b border-gray-200"><a href="#"
-                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Website Development</a></li>
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Website
+                Development</a></li>
             <li class="border-b border-gray-200"><a href="#"
-                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Mobile apps Development</a></li>
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Mobile
+                apps Development</a></li>
             <li class="border-b border-gray-200"><a href="#"
-                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Custom Software</a></li>
-          
-          <li class="border-b border-gray-200"><a href="#"
-                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Digital Marketing & Branding</a></li>
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Custom
+                Software</a></li>
+
+            <li class="border-b border-gray-200"><a href="#"
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Digital
+                Marketing & Branding</a></li>
           </ul>
         </li>
 
@@ -148,30 +152,32 @@
           <!-- Dropdown -->
           <ul
             class="dropdown-menu absolute left-0 mt-2 w-56 bg-white text-gray-800 shadow-lg hidden transform -translate-y-5 opacity-0 transition-all duration-300 ease-in-out border border-gray-200 overflow-hidden">
-            <li class="border-b border-gray-200"><a href="#"
+            <li class="border-b border-gray-200"><a href="education-new.php"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Education</a>
             </li>
-            <li class="border-b border-gray-200"><a href="#"
+            <li class="border-b border-gray-200"><a href="logistics-new.php"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Logistics</a>
             </li>
-            <li class="border-b border-gray-200"><a href="#"
+            <li class="border-b border-gray-200"><a href="ecommerce.php"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">E-Commerce</a>
             </li>
-            <li class="border-b border-gray-200"><a href="#"
+            <li class="border-b border-gray-200"><a href="healthcare-new.php"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Healthcare</a>
             </li>
-            <li class="border-b border-gray-200"><a href="#"
+            <li class="border-b border-gray-200"><a href="banking-new.php"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Banking</a>
             </li>
-            <li class="border-b border-gray-200"><a href="#"
+            <li class="border-b border-gray-200"><a href="travel.php"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Travel
                 & Hospitality</a></li>
-            <li class="border-b border-gray-200"><a href="#"
+            <li class="border-b border-gray-200"><a href="public1-sector.php"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Public
                 Sector</a></li>
-            <li><a href="#"
+            <li><a href="real-state.php"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Real
                 Estate</a></li>
+            <li><a href="manufacture.php"
+                class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Manufacture</a></li>
           </ul>
         </li>
 
@@ -186,10 +192,10 @@
           </a>
           <ul
             class="dropdown-menu absolute left-0 mt-2 w-56 bg-white text-gray-800  shadow-lg hidden transform -translate-y-5 opacity-0 transition-all duration-300 ease-in-out border border-gray-200 overflow-hidden">
-            <li class="border-b border-gray-200"><a href="https://www.desaliteconnect.com/"
+            <li class="border-b border-gray-200"><a href="https://www.desaliteconnect.com/" target="_blank"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Desalite
                 Connect</a></li>
-            <li class="border-b border-gray-200"><a href="https://www.ednect.com/"  target="_blank"
+            <li class="border-b border-gray-200"><a href="https://www.ednect.com/" target="_blank"
                 class="block px-4 py-2 bg-white text-blue-950 hover:bg-blue-950 hover:text-white transition-colors duration-300">Ednect</a>
             </li>
             <li class="border-b border-gray-200"><a href="https://thetranstrack.com/" target="_blank"

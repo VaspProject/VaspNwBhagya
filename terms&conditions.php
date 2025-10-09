@@ -1,4 +1,4 @@
-<?php include('master/sub-header.php') ?>
+<?php include('master/header.php') ?>
 <div class="container mx-auto my-16 md:my-32 items-center px-8">
     <h1 class="text-blue-950 text-3xl md:text-4xl font-semibold py-2 mb-8 text-center">Terms and Conditions</h1>
 
@@ -115,7 +115,7 @@
         <h2 class="text-2xl font-semibold border-b-2 border-dashed">Contact Us</h2>
 
         <p class="text-md md:text-lg ">
-        If you have any questions about these Terms, please contact us at <a class="text-sky-400" href="tel:+917099020849">7099020849</a> or mail us <a class="text-sky-400" href="mailto:contact@vasptechnologies.com" target="_blank"> contact@vasptechnologies.com.</a>
+        If you have any questions about these Terms, please contact us at <a class="text-sky-400" href="tel:+91 88110 47292"> 88110 47292</a> or mail us <a class="text-sky-400" href="mailto:contact@vasptechnologies.com" target="_blank"> contact@vasptechnologies.com.</a>
         </p>
         <p class="text-md md:text-lg ">
         Disclaimer :  Legal information is not legal advice.

@@ -185,7 +185,7 @@
         <div class="cta">
             <h2>Transforming Ideas Into Apps</h2>
             <p>From concept to launch, our mobile application development in Guwahati ensures your app is more than just functional — it’s a tool that drives growth and engagement.</p>
-            <a href="#contact">Get in Touch</a>
+            <a href="contact.php">Get in Touch</a>
         </div>
     </div>
 </div>

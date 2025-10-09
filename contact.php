@@ -63,7 +63,7 @@
 
         <div class="w-full md:w-1/2 md:pl-12 my-8 md:my-0">
             <h2 class="text-3xl text-blue-950 mb-6 text-center">Drop Your Message Here</h2>
-            <form id="eForm" class="space-y-6">
+            <form id="eForm" action="contactmail.php" method="POST" class="space-y-6">
 
                 <div class="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4 pt-4">
                     <div class="w-full md:w-1/2">

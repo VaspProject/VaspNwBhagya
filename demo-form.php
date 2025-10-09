@@ -4,16 +4,16 @@
     <div class="bg-white flex flex-col md:flex-row overflow-hidden">
         <!-- Left Column -->
         <div class="md:w-1/2 px-8 py-8 md:px-24 md:py-16 bg-gradient-to-tl from-indigo-950 to-indigo-950 to-indigo-950 text-white flex flex-col items-center justify-center text-left">
-            <h1 class="text-3xl md:text-4xl font-bold mb-6">Got a project in mind? We are right here to help you!</h1>
-            <p class="text-lg mb-6">Let’s collaborate to elevate your business to new heights. Together, we can craft a masterpiece that reflects your vision and ambition. Reach out to us, and let our innovative approaches help you amplify your ideas and achieve remarkable success.</p>
+            <h1 class="text-3xl md:text-4xl font-extralight mb-6">Got a project in mind? We are right here to help you!</h1>
+            <p class="text-lg font-light mb-6">Let’s collaborate to elevate your business to new heights. Together, we can craft a masterpiece that reflects your vision and ambition. Reach out to us, and let our innovative approaches help you amplify your ideas and achieve remarkable success.</p>
         </div>
 
         <!-- Right Column -->
         <div class="md:w-1/2 py-4 px-4 md:py-[70px] md:px-16">
             <div class="mb-8 pt-6 md:pt-0">
-                <h1 class="text-3xl md:text-4xl text-indigo-950 mb-4">Request a Demo</h1>
+                <h1 class="text-3xl md:text-4xl text-indigo-950 mb-4 font-light">Request a Demo</h1>
             </div>
-            <form id="demoForm" class="space-y-4">
+            <form id="demoForm" action="demo-formmail.php" method="POST" class="space-y-4">
                 <div class="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4">
                     <div class="w-full md:w-1/2">
                         <label for="name" class="block text-sm font-medium text-gray-700">Name *</label>
@@ -56,7 +56,7 @@
                         Yes, I agree to receive more updates concerning the information I have provided here. Read the <a href="privacy-policy.php" class="text-blue-600 underline">privacy policy</a> for further details.
                     </label>
                 </div>
-                <button type="submit" class="w-full py-3 bg-gradient-to-tl from-cyan-400 to-blue-500 text-white rounded-md focus:outline-none focus:ring-2 transition ease-in-out duration-200 hover:from-cyan-500 hover:to-blue-600">Submit</button>
+                <button type="submit" class="w-full py-3 bg-gradient-to-tl from-cyan-900 to-blue-800 text-white rounded-md focus:outline-none focus:ring-2 transition ease-in-out duration-200 hover:from-cyan-600 hover:to-blue-700">Submit</button>
             </form>
 
         </div>

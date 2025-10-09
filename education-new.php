@@ -85,6 +85,20 @@
         .cta p {
             margin: 10px 0 0;
             font-size: 1.1em;
+            margin-bottom: 2rem;
+        }
+        .cta a {
+            background: #fff;
+            color: #1e3a8a;
+            padding: 0.75rem 2rem;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: background 0.3s ease;
+        }
+
+        .cta a:hover {
+            background: #e0e7ff;
         }
         @media (max-width: 768px) {
             .content {
@@ -130,6 +144,9 @@
         <div class="cta">
             <h2>Transform Education with Technology</h2>
             <p>With Desalite Connect and Ednect, schools can modernize their processes, boost operational efficiency, and focus on delivering quality education.</p>
+            
+            <a href="contact.php">Get in Touch</a>
+        
         </div>
     </div>
 

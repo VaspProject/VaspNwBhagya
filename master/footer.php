@@ -56,28 +56,28 @@
             <div class="pl-1 md:pl-24">
                 <h2 class="text-2xl font-semibold mb-4 text-white">Industries</h2>
                 <ul class="text-gray-600">
-                    <li class="mb-2"><a href="education.php"
+                    <li class="mb-2"><a href="education-new.php"
                             class="text-gray-400 hover:text-white hover:underline hover:pl-1 transition-all duration-300">-
                             Education</a></li>
-                    <li class="mb-2"><a href="banking.php"
+                    <li class="mb-2"><a href="banking-new.php"
                             class="text-gray-400 hover:text-white hover:underline hover:pl-1 transition-all duration-300">-
                             Banking</a></li>
-                    <li class="mb-2"><a href="logistics.php"
+                    <li class="mb-2"><a href="logistics-new.php"
                             class="text-gray-400 hover:text-white hover:underline hover:pl-1 transition-all duration-300">-
                             Logistics</a></li>
-                    <li class="mb-2"><a href="travel&hospitality.php"
+                    <li class="mb-2"><a href="travel.php"
                             class="text-gray-400 hover:text-white hover:underline hover:pl-1 transition-all duration-300">-
                             Travel & Hospitality</a></li>
-                    <li class="mb-2"><a href="e-commerce.php"
+                    <li class="mb-2"><a href="ecommerce.php"
                             class="text-gray-400 hover:text-white hover:underline hover:pl-1 transition-all duration-300">-
                             E-Commerce</a></li>
-                    <li class="mb-2"><a href="public-sector.php"
+                    <li class="mb-2"><a href="public1-sector.php"
                             class="text-gray-400 hover:text-white hover:underline hover:pl-1 transition-all duration-300">-
                             Public Sector</a></li>
-                    <li class="mb-2"><a href="healthcare.php"
+                    <li class="mb-2"><a href="healthcare-new.php"
                             class="text-gray-400 hover:text-white hover:underline hover:pl-1 transition-all duration-300">-
                             Healthcare</a></li>
-                    <li class="mb-2"><a href="real-estate.php"
+                    <li class="mb-2"><a href="real-state.php"
                             class="text-gray-400 hover:text-white hover:underline hover:pl-1 transition-all duration-300">-
                             Real Estate</a></li>
                 </ul>
@@ -90,16 +90,16 @@
                     <li class="mb-2"><a href="about-us.php"
                             class="text-gray-400 hover:text-white hover:underline hover:pl-1 transition-all duration-300">-
                             Company</a></li>
-                    <li class="mb-2"><a href="solutions.php"
+                    <!-- <li class="mb-2"><a href="solutions.php"
                             class="text-gray-400 hover:text-white hover:underline hover:pl-1 transition-all duration-300">-
                             Solutions</a></li>
                     <li class="mb-2"><a href="blogs.php"
                             class="text-gray-400 hover:text-white hover:underline hover:pl-1 transition-all duration-300">-
-                            Blogs</a></li>
-                    <li class="mb-2"><a href="products.php"
+                            Blogs</a></li> -->
+                    <!-- <li class="mb-2"><a href="products.php"
                             class="text-gray-400 hover:text-white hover:underline hover:pl-1 transition-all duration-300">-
-                            Products</a></li>
-                    <li class="mb-2"><a href="career.php"
+                            Products</a></li> -->
+                    <li class="mb-2"><a href="carrier-with-us.php"
                             class="text-gray-400 hover:text-white hover:underline hover:pl-1 transition-all duration-300">-
                             Career</a></li>
                     <li class="mb-2"><a href="contact.php"
@@ -130,14 +130,14 @@
             <div class="pl-1 md:pl-18">
                 <h2 class="text-2xl font-semibold mb-4 text-white">Submit your query</h2>
 
-                <form class="flex flex-col space-y-4 w-full max-w-md">
+                <form action="sendmail.php" method="POST" class="flex flex-col space-y-4 w-full max-w-md">
                     <!-- Email Field -->
-                    <input type="email" placeholder="Enter your email"
+                    <input type="email" name="email" placeholder="Enter your email"
                         class="px-4 py-2 rounded-lg text-gray-800 focus:outline-none focus:ring-2 focus:ring-blue-400"
                         required>
 
                     <!-- Description / Query Box -->
-                    <textarea placeholder="Write your query here..." rows="4"
+                    <textarea name="message" placeholder="Write your query here..." rows="4"
                         class="px-4 py-2 rounded-lg text-gray-800 focus:outline-none focus:ring-2 focus:ring-blue-400"
                         required></textarea>
 
@@ -148,6 +148,7 @@
                     </button>
                 </form>
             </div>
+
         </div>
     </div>
 
@@ -160,12 +161,12 @@
         </div>
 
         <!-- Disclaimer and Cookie Settings -->
-        <div class="flex space-x-4 pt-3 md:pt-0">
+        <!-- <div class="flex space-x-4 pt-3 md:pt-0">
             <a href="#" class="text-gray-600 hover:underline">Disclaimer</a>
             <a href="#" class="text-gray-600 hover:underline">Cookies</a>
             <a href="#" class="text-gray-600 hover:underline">Cookie Settings</a>
             <a href="sitemap.php" class="text-gray-600 hover:underline">Sitemap</a>
-        </div>
+        </div> -->
     </div>
 </div>
 

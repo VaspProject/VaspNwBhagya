@@ -12,7 +12,7 @@
 
     <div class="vasp-grid">
       <div class="vasp-card">
-        <img src="#" alt="Innovation">
+        <img src="assets/images/why-vasp/promise.jpg" alt="Innovation">
         <div class="vasp-card-content">
           <h3>The Vasp Promise</h3>
           <p>Our passion lies in building solutions that serve people first. Whether it’s a school ERP software in Guwahati, an e-commerce portal, or a mobile app, everything we create is designed to make life easier, faster, and more connected.</p>
@@ -20,7 +20,7 @@
       </div>
 
       <div class="vasp-card">
-        <img src="#" alt="Innovation">
+        <img src="assets/images/why-vasp/innovation.jpg" alt="Innovation">
         <div class="vasp-card-content">
           <h3>Our Passion for Innovation</h3>
           <p>At Vasp Technologies, our passion for innovation and commitment to people drive us to build solutions that don’t just function—they add value to everyday life. From ERP software to custom mobile app development, every product is designed with a purpose: to simplify, connect, and empower.</p>
@@ -28,7 +28,7 @@
       </div>
 
       <div class="vasp-card">
-        <img src="#" alt="Learning">
+        <img src="assets/images/why-vasp/challearning.jpg" alt="Learning">
         <div class="vasp-card-content">
           <h3>Keep Challenging, Keep Learning</h3>
           <p>Learning never stops here. Our developers and designers have expertise across every language, framework, and platform. Whether it’s web development, ERP software, or e-commerce, we have the skills—and we deliver.</p>
@@ -36,7 +36,7 @@
       </div>
 
       <div class="vasp-card">
-        <img src="#" alt="Value">
+        <img src="assets/images/why-vasp/1.jpg" alt="Value">
         <div class="vasp-card-content">
           <h3>Get Value, Not Just a Product</h3>
           <p>We don’t just create apps or websites; we craft long-term digital solutions designed for real-world impact and success in the competitive market.</p>
@@ -44,7 +44,7 @@
       </div>
 
       <div class="vasp-card">
-        <img src="#" alt="Understanding">
+        <img src="assets/images/why-vasp/we.jpg" alt="Understanding">
         <div class="vasp-card-content">
           <h3>We Know What You’re Looking For</h3>
           <p>With years of experience working with schools, enterprises, and startups, we understand what businesses in Assam need—delivering beyond expectations every time.</p>
@@ -52,7 +52,7 @@
       </div>
 
       <div class="vasp-card">
-        <img src="#" alt="Collaboration">
+        <img src="assets/images/why-vasp/grow.jpg" alt="Collaboration">
         <div class="vasp-card-content">
           <h3>Collaborate, Coordinate, and Grow</h3>
           <p>We believe in partnership—regular feedback, ongoing discussions, and continuous refinement. From web design to app development, your vision drives the process.</p>
@@ -60,7 +60,7 @@
       </div>
 
       <div class="vasp-card">
-        <img src="#" alt="Compassion">
+        <img src="assets/images/why-vasp/care.jpg" alt="Compassion">
         <div class="vasp-card-content">
           <h3>Care and Compassion</h3>
           <p>We don’t just build software; we care about how it impacts your customers. From school ERP solutions to e-commerce websites, we always think one step ahead.</p>
@@ -68,7 +68,7 @@
       </div>
 
       <div class="vasp-card">
-        <img src="#" alt="Global">
+        <img src="assets/images/why-vasp/sol.jpg" alt="Global">
         <div class="vasp-card-content">
           <h3>No Borders, Only Solutions</h3>
           <p>Though proudly rooted in Guwahati, our services extend beyond borders—ensuring global collaboration and quality support anywhere in the world.</p>
@@ -76,7 +76,7 @@
       </div>
 
       <div class="vasp-card">
-        <img src="#" alt="Guidance">
+        <img src="assets/images/why-vasp/guidence.jpg" alt="Guidance">
         <div class="vasp-card-content">
           <h3>Honest Opinions, Clear Guidance</h3>
           <p>As your technology partner, we guide you with honest insights that serve your growth—whether it’s ERP vs. traditional systems or choosing the right platform.</p>
@@ -84,7 +84,7 @@
       </div>
 
       <div class="vasp-card">
-        <img src="#" alt="Ownership">
+        <img src="assets/images/why-vasp/your.jpg" alt="Ownership">
         <div class="vasp-card-content">
           <h3>Your Software, Your Property</h3>
           <p>Every line of code we write is your intellectual property. We bring the expertise, but the ownership is 100% yours—because we respect and protect your vision.</p>
@@ -126,9 +126,9 @@
 
 .section-intro {
   text-align: center;
-  max-width: 800px;
+  max-width: 900px;
   margin: 0 auto 60px;
-  font-size: 1.05rem;
+  font-size: 1.125rem;
   line-height: 1.7;
   color: #444;
 }
@@ -170,7 +170,7 @@
 }
 
 .vasp-card h3 {
-  font-size: 1.25rem;
+  font-size: 1.6rem;
   color: #1b3c6e;
   margin-bottom: 10px;
   position: relative;
@@ -187,7 +187,7 @@
 }
 
 .vasp-card p {
-  font-size: 0.95rem;
+  font-size: 1.125rem;
   color: #555;
   line-height: 1.6;
   margin-top: 8px;

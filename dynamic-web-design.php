@@ -186,7 +186,7 @@
         <div class="cta">
             <h2>Designed for Growth</h2>
             <p>Our web design and development services in Guwahati go beyond visuals — we engineer websites that engage users, strengthen brand identity, and accelerate business success.</p>
-            <a href="#contact">Get in Touch</a>
+            <a href="contact.php">Get in Touch</a>
         </div>
     </div>
 </div>

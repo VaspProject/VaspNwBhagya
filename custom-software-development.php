@@ -185,7 +185,7 @@
         <div class="cta">
             <h2>Driving Digital Growth</h2>
             <p>Our approach goes beyond coding — we craft strategic IT solutions that empower organizations to innovate, transform, and succeed in the digital era.</p>
-            <a href="#contact">Get in Touch</a>
+            <a href="contact.php">Get in Touch</a>
         </div>
     </div>
 </div>

@@ -225,7 +225,7 @@
         <div class="flex flex-col md:flex-row ">
             <div class="w-full md:w-3/4 bg-[#000001] flex flex-col justify-center">
                 <div class="py-12 px-4 md:px-16 text-white space-y-8 md:space-y-16">
-                    <h2 class="uppercase text-3xl md:text-7xl font-bold ">
+                    <h2 class="uppercase text-3xl md:text-7xl font-extralight">
                         Work with us
                     </h2>
                     <div class="space-y-6 md:space-y-12 md:pr-24">
@@ -235,10 +235,10 @@
                                     class="h-12 w-12 md:h-16 md:w-16 mx-auto md:mx-0" loading="eager">
                             </div>
                             <div class="w-5/6 md:w-11/12">
-                                <h2 class="font-bold text-left text-xl md:text-2xl">
+                                <h2 class="font-bold text-left text-xl md:text-2xl font-light">
                                     Identify your creative needs
                                 </h2>
-                                <p class="text-base md:text-md lg:text-xl text-left">
+                                <p class="text-base md:text-md lg:text-lg text-left font-light">
                                     Uncover unique digital and creative requirements, providing tailored solutions for
                                     enhanced branding, marketing, and user experiences.
                                 </p>
@@ -250,10 +250,10 @@
                                     class="h-12 w-12 md:h-16 md:w-16 mx-auto md:mx-0" loading="eager">
                             </div>
                             <div class="w-5/6 md:w-11/12">
-                                <h2 class="font-bold text-left text-xl md:text-2xl">
+                                <h2 class="font-bold text-left text-xl md:text-2xl font-light">
                                     Consult our marketing team
                                 </h2>
-                                <p class="text-base md:text-md lg:text-xl text-left">
+                                <p class="text-base md:text-md lg:text-xl text-left font-light">
                                     To craft tailored strategies that elevate your brand and drive impactful results.
                                 </p>
                             </div>
@@ -264,10 +264,10 @@
                                     class="h-12 w-12 md:h-16 md:w-16 mx-auto md:mx-0" loading="eager">
                             </div>
                             <div class="w-5/6 md:w-11/12">
-                                <h2 class="font-bold text-left text-xl md:text-2xl">
+                                <h2 class="font-bold text-left text-xl md:text-2xl font-light">
                                     Review our project proposal
                                 </h2>
-                                <p class="text-base md:text-md lg:text-xl text-left">
+                                <p class="text-base md:text-md lg:text-xl text-left font-light">
                                     To explore customized solutions designed to meet your business objectives and drive
                                     success
                                 </p>

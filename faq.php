@@ -1,4 +1,4 @@
-<?php include('master/sub-header.php') ?>
+<?php include('master/header.php') ?>
 
 <div id="hero" class="h-full">
     <div class="relative h-screen w-full bg-blue-950 flex flex-col items-center justify-center md:justify-end md:items-start overflow-hidden transition duration-300 ease-in-out">

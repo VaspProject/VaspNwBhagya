@@ -185,7 +185,7 @@
         <div class="cta">
             <h2>Future-Ready Digitisation</h2>
             <p>Our approach to software development in Guwahati goes beyond technology — it’s about empowering organizations to achieve measurable impact through smarter workflows, automation, and digital-first strategies.</p>
-            <a href="#contact">Get in Touch</a>
+            <a href="contact.php">Get in Touch</a>
         </div>
     </div>
 </div>

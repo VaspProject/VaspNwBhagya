@@ -192,7 +192,7 @@
             <h2>Future-Ready Technology</h2>
             <p>From custom software development to AI-driven digital solutions, we help you embrace the future with
                 technology that’s smart, efficient, and built for growth.</p>
-            <a href="#contact">Get in Touch</a>
+            <a href="contact.php">Get in Touch</a>
         </div>
     </div>
 </div>

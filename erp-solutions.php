@@ -186,7 +186,7 @@
         <div class="cta">
             <h2>Powering Business Growth</h2>
             <p>Our ERP development in Guwahati goes beyond integration — it empowers businesses to work smarter, cut costs, and stay competitive in today’s fast-paced digital world.</p>
-            <a href="#contact">Get in Touch</a>
+            <a href="contact.php">Get in Touch</a>
         </div>
     </div>
 </div>

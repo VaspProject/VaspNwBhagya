@@ -185,7 +185,7 @@
         <div class="cta">
             <h2>Data-Driven Success</h2>
             <p>With our MIS software in Guwahati, you don’t just manage information — you unlock the potential of data to drive performance, productivity, and profitability.</p>
-            <a href="#contact">Get in Touch</a>
+            <a href="contact.php">Get in Touch</a>
         </div>
     </div>
 </div>
